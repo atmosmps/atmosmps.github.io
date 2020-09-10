@@ -1,0 +1,305 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on Atmos Maciel</title>
+        <link>localhost/posts/</link>
+        <description>Recent content in Posts on Atmos Maciel</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>pt-br</language>
+        <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+        <lastBuildDate>Thu, 07 May 2020 00:00:00 +0000</lastBuildDate>
+        <atom:link href="localhost/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Como limpar recursos (não utilizados) do Docker</title>
+            <link>localhost/posts/docker-how-to-cleanup-unused-resources/</link>
+            <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
+            
+            <guid>localhost/posts/docker-how-to-cleanup-unused-resources/</guid>
+            <description>Se estiver mexendo com o Docker, seja em uma máquina local ou servidor, depois de algum tempo as alterações, manutenções, modificações, atualizações, etc&amp;hellip; podem deixar &amp;ldquo;coisas que não estão sendo mais usadas&amp;rdquo; ainda no host. Images antigas, volumes não usados, redes inativas, containers parados&amp;hellip; em fim. Pensando nisso que criei este doc que pode ajudar nos momentos em que for preciso realizar essas pequenas manutenções:
+Docker - How to cleanup (unused) resources</description>
+            <content type="html"><![CDATA[<p>Se estiver mexendo com o Docker, seja em uma máquina local ou servidor, depois de algum tempo as alterações, manutenções, modificações, atualizações, etc&hellip; podem deixar &ldquo;coisas que não estão sendo mais usadas&rdquo; ainda no host. Images antigas, volumes não usados, redes inativas, containers parados&hellip; em fim. Pensando nisso que criei este <em>doc</em> que pode ajudar nos momentos em que for preciso realizar essas pequenas manutenções:</p>
+<p><a href="https://github.com/atmosmps/docker-pack-tools/blob/master/docker-cleanup-resources.md">Docker - How to cleanup (unused) resources</a></p>
+<p>É isto.</p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>30 dias de Quarentena</title>
+            <link>localhost/posts/30-days-of-quarantine/</link>
+            <pubDate>Thu, 23 Apr 2020 00:00:00 +0000</pubDate>
+            
+            <guid>localhost/posts/30-days-of-quarantine/</guid>
+            <description>Aonde eu trabalho ficou estabelecido o remoto na modalidade Home Office que no Brasil, pela regulamentação, é chamado de Teletrabalho. E já que tem um monte de gente dando opniões e comentando sobre esse momento, alguns de forma boa, outros de forma ruim, eu decidi que também quero deixar meus dois centavos sobre tudo que está acontecendo.
+Sobre o COVID - 19 e Trabalho Demorei alguns dias para me adaptar ao Home Office, alguns dias não, na verdade foram umas duas semanas.</description>
+            <content type="html"><![CDATA[<p>Aonde eu trabalho ficou estabelecido o remoto na modalidade Home Office que no Brasil, pela regulamentação, é chamado de Teletrabalho. E já que tem um monte de gente dando opniões e comentando sobre esse momento, alguns de forma boa, outros de forma ruim, eu decidi que também quero deixar meus dois centavos sobre tudo que está acontecendo.</p>
+<h2 id="sobre-o-covid---19-e-trabalho">Sobre o COVID - 19 e Trabalho</h2>
+<p>Demorei alguns dias para me adaptar ao Home Office, alguns dias não, na verdade foram umas duas semanas. Não somente no sentido físico, mas principalmente psicológico. Organizar minhá área de trabalho física, mesa, cadeira, novos periféricos, criar uma rotina de trabalho e tentar organizazr projetos para ser &ldquo;produtivo&rdquo;, tudo isso foi mais uma forma de terapia do que somente algo imporante a ser feito. Um turbilhão de informações&hellip;</p>
+<p>Aqui cabe um trecho do artigo &ldquo;<a href="https://www.officeless.cc/blog/remotos-para-o-bem-um-guia-pratico-para-trabalhar-a-distancia-em-tempos-de-emergencia">Remotos para o bem. Um guia prático para trabalhar a distância em tempos de emergência</a>&rdquo; do Officeless, que diz:</p>
+<blockquote>
+<p>&ldquo;Se adotar o trabalho remoto em condições normais já é super desafiador, imagina um experimento forçado em contexto emergencial, com as pessoas do dia para a noite sendo obrigadas a ficarem isoladas em casa sob uma situação de estresse e incerteza?&quot;.</p>
+</blockquote>
+<p>Muita gente está trabalhando remoto, mas não pediu por isso. Muitos líderes estão tendo que adaptar-se a essa modalidade de trabalho agora, mas o não fizeram quando tiveram a oportunidade. Parece que os visionários, não têm tanta visão assim, não é mesmo? A pandemia forçou líderes a fazerem coisas que não gostariam e forçou pessoas a trabalharem de casa, mas não da forma que pensaram ou queriam. Não estamos trabalhando remoto, estamos isolados e tentando trabalhar nessas condições, usando as ferramentas que nos permitem ser remotos. Algumas empresas estão cobrando 3 vezes mais de seus colaboradores para fazerem as coisas antes de &ldquo;tudo piorar&rdquo;.</p>
+<p>Estamos em meio a um caos: pandemia, recessão, política ruindo&hellip; E eu acho que precisamos disso, precisamos passar pela dor em conjunto, sofrer em conjunto, olhar para lado e ver que seu próximo está passando pelo mesmo que você e ninguém pode fazer muita coisa. Precisa sentir que outras pessoas com menos condição que nós vão sofrer bem mais. Não adianta fechar os olhos para isso, não adianta não querer ver ou mascarar. Precisamos sim trabalhar, mas isso não é um competição de quem é mais produtivo ou de &ldquo;como podemos aproveitar melhor o tempo&rdquo;. O isolamento já é o novo hype da galera, já transformaram na moda do mercado. Tem gente sofrendo com ansiedade, extresse, burnout&hellip; tem gente que queria ter burnout, mas não tem um emprego&hellip; Não é hora de hype. Talvez seja hora de pensar, ter cautela, ter bom senso. Faça o que te faz bem, ajude alguém sem precisar levantar bandeiras, leia, trabalhe, estude, trabalhe, cultive um novo hábito, durma bem se puder, trabalhe. Quer planejar sua vida para daqui a um dois ou três anos? Planeje, mas esteja aberto para as mudanças, afinal de contas a vida não está nem ai pro teu maldito planejamento! E 2020 veio para mostrar isso.</p>
+<p><strong>OBS: Eu já estou cansado de lives&hellip;</strong></p>
+<h2 id="setup-de-trabalho">Setup de trabalho</h2>
+<p>Eu tive que passar por certas mudanças para começar a trabalhar remoto e de casa. Eu sou programador e quando estou codando eu preciso de 3 coisas: paz, internet e café. É por isso que eu não consigo simplesmente chegar em um coworking, por exemplo, e começar a codar loucamente, sempre têm pessoas andando e passando e falando(mesmo com fone, icomoda, o icômodo é visual), ou não tem internet, ou quando eu dou por mim o notebook descarregou e não tem tomada&hellip; Ou não tem café, ou a luz é muito forte&hellip; Em fim uma série de frescuras. Eu sei sou chato. Mas sou assim. Quando eu não preciso codar ou se for uma coisa de código simples aí é diferente, eu consigo fazer o que é preciso de qualquer lugar. Ah, e eu preciso de um mouse.</p>
+<p>Dito isto, eu precisei adaptar minha sala e transformá-la em um &ldquo;escritório&rdquo;/ambiente de trabalho, pois toda minha setup estava na empresa. Agora que estou na minha casa, eu posso investir melhor no meu trabalho. Eu comprei os seguintes itens para minha nova setup:</p>
+<ul>
+<li>Uma mesa planejada maior</li>
+<li><a href="https://www.jbl.com.br/headphones/JBL+TUNE500BT.html">Headphone Bluetooth</a></li>
+<li><a href="https://www.magazineluiza.com.br/base-para-notebook-156-nbc-50bk-c3-tech-com-2-coolers-e-ilu-c3tech/p/fae3360f4j/in/spnt/">Base para Notebook</a></li>
+<li><a href="https://www.magazineluiza.com.br/monitor-para-pc-hd-acer-led-widescreen-vga-hdmi-195-v206hql/p/224881800/in/mnpc/?&amp;utm_source=google&amp;utm_medium=pla&amp;utm_campaign=&amp;force=10&amp;partner_id=4651&amp;1=1&amp;seller_id=magazineluiza&amp;product_group_id=866176766563&amp;ad_group_id=52769553574&amp;gclid=CjwKCAjw-YT1BRAFEiwAd2WRtrIxWfqbjYusSbC5JYlGBpEw1uPYXeLxh_xFqkvYcZZqyguT7t0SIBoCrTUQAvD_BwE">Um monitor de 19,5 polegadas</a></li>
+<li><a href="https://www.kabum.com.br/produto/97577/teclado-mecanico-gamer-redragon-kala-rgb-switch-outemu-brown-pt-k557">Teclado Mecânico</a></li>
+<li><a href="https://www.kabum.com.br/produto/112053/hub-f3-usb-3-0-4-portas-jc-hub304">Um Hub para Portas USB 3.0</a></li>
+<li><a href="https://www.kabum.com.br/produto/36034/filtro-de-linha-ragtech-home-6-tomadas-50-60hz-preto-bivolt-2035">Filtro de Linha</a></li>
+</ul>
+<p>Eu ainda pretendo investir em um mouse ergonômico e uma boa cadeira para parar de tortuar minha lombar, mas eu preciso esperar mais. A intenção nunca foi investir muito por conta do momento, mas somente o suficiente para deixar as coisas mais confortáveis, ou melhor dizendo, menos ruins.</p>
+<h2 id="sobre-trabalho-e-rotina">Sobre Trabalho e Rotina</h2>
+<p>Sobre a rotina de trabalho não houveram tantas mudanças, o trabalho só mudou de lugar, as demandas continuam as mesmas. No meu caso eu ainda estou precisando trabalhar mais minha disciplina. Disciplina e foco para mim são fatores importantes para trabalhar de casa, ainda mais na atual situação, aonde estamos cercados de notícidas ruins, problemas e uma série de adaptações sendo feitas nas empresas, modo de trabalho, reuniões e etc.</p>
+<p>Obviamente eu ganhei uns 90 min no meu dia que era o tempo que eu levava para ir e voltar para o trabalho. Eu tento usar esse tempo basicamente para ler.</p>
+<p>Eu criei uma plano de rotina básico para mim, tem que ser básico pois eu sei que vai falhar, planos foram feitos para falharem, é só olhar pro teu planejamento de começo de ano.</p>
+<ul>
+<li>08:00 - 12:00 - Trabalho</li>
+<li>12:00 - 13:00 - Almoço</li>
+<li>13:00 - 14:00 - Leitura</li>
+<li>14:00 - 18:00 - Trabalho</li>
+<li>18:00 - 23:00 - Estudos e dedicação a outros projetos</li>
+</ul>
+<p>O ultimo período de tempo é que eu sinto que ainda preciso distribuior melhor segundo meus objetivos. Como falei esse planejamento tende a falhar, e falhar bastante. Nem sempre eu paro de trabalhar as 12:00 ou as 18:00, da mesma forma nem sempre eu começo a trabalhar as 08:00 ou fico trabalhando até as 18:00. Eu não estou preocupado em ser perfeito, mas em saber que existe essa rotina e que eu tenho que tentar mantê-la. Outra coisa importante é fazer pequenas pausas para isso eu uso o Pomodoro.</p>
+<h3 id="como-eu-organizo-minhas-tarefas">Como eu organizo minhas tarefas</h3>
+<p>Eu tenho um deck de ferramentas básicas para isso também:</p>
+<ul>
+<li>Artia</li>
+<li>Trello</li>
+<li>Calendar</li>
+<li>Pomodoro</li>
+</ul>
+<p>O <a href="https://artia.com/">Artia</a> eu uso porque é o sistema que a empresa utiliza para gerenciar projetos. Eu acho bem ruim. O <a href="https://calendar.google.com/">Calendar</a> para me lembrar as das coisas que preciso fazer no dia a dia de trabalho e coisas pessoais. O <a href="https://trello.com/">Trello</a> para gerenciar meus projetos pessoais e coisas que estou estudando. Aliás eu estou testando uma nova ferramenta para substituir o Trello, o <a href="https://www.notion.so/">Notion</a> e sinceramente, ele é muito bom. Ainda não testei se as notificações funcionam bem, mas se funcionarem estou disposto a migrar para lá. O Pomodoro é uma técnica que tem me ajudado bastante e acho que tem sido uma das técnicas que mais consegui seguir durante estes ultimos 30 dias de confinamento, eu uso o <a href="https://pomofocus.io/">Promofocus</a>.</p>
+<p>Tento sempre manter em mente algumas coisas do artigo da <a href="https://blog.alicegoldfuss.com/work-in-the-time-of-corona/">Alice Goldfuss</a>, que sem sombra de dúvidas é um dos melhores que já li sobre trabalhar em situações como as que estamos no momento.</p>
+<p>Então, eu acho que é isso&hellip; até o momento.</p>
+<p>Até a próxima.</p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Trabalho remoto, quarentena e projetos</title>
+            <link>localhost/posts/remote-work-quarantine-and-projects/</link>
+            <pubDate>Mon, 30 Mar 2020 00:00:00 +0000</pubDate>
+            
+            <guid>localhost/posts/remote-work-quarantine-and-projects/</guid>
+            <description>É março, e 2020 já mostrou para o que veio. Depois de passarmos por tensões no começo do ano entre potências mundiais, agora estamos vivendo uma pandemia por conta do Corona Vírus(COVID-19). O mercado financeiro está uma loucura, no momento deste artigo já foram ativados 6 circuit breaks em pouco mais de duas semanas. Os governos mundiais começaram a tomar medidas de isolamento social e dentro dos países os políticos e empresários estão trabalhando maneiras de adptar-se de forma mais urgente a situação.</description>
+            <content type="html"><![CDATA[<p>É março, e 2020 já mostrou para o que veio. Depois de passarmos por tensões no começo do ano entre potências mundiais, agora estamos vivendo uma pandemia por conta do Corona Vírus(COVID-19). <a href="https://www.imperial.ac.uk/news/196514/the-economic-impact-coronavirus-analysis-from/">O mercado financeiro está uma loucura</a>, no momento deste artigo já foram ativados 6 <a href="https://blog.toroinvestimentos.com.br/circuit-breaker-bovespa-o-que-e-historico">circuit breaks</a> em pouco mais de duas semanas. Os governos mundiais começaram a tomar medidas de isolamento social e dentro dos países os políticos e empresários estão trabalhando maneiras de adptar-se de forma mais urgente a situação.</p>
+<p>E ainda é março&hellip;</p>
+<p>Enquanto isso eu sigo com meus planejamentos de forma normal, apesar do &ldquo;caos&rdquo;. Os países estão tomando medidas protecionistas no momento para tentar conter a disseminação do vírus, que ocorre rápido. No Brasil e no mundo as empresas começaram um movimento para manter as pessoas isoladas(isolamento social), a regra agora é ficar em casa. As empresas que podem estão liberando seus funcionários para trabalhar remotamente na modalidade Home Office. Os governos do estados estão adotando medidas para manter o isolamento social, escolas fechadas, universidades, faculdades, orgãos públicos&hellip; Até o momento estes, aqui no meu estado já pararam. Em São Paulo, Dória decretou que alguns shoppings parassem de funcionar.</p>
+<h3 id="a-desgraça-da-oportunidade">A desgraça da oportunidade</h3>
+<p>Dos que foram mandados para trabalhar em casa, eu fui um destes. A empresa aonde eu trabalho está adotando medidas(mesmo que ainda básicas), para o trabalho remoto. Como eu já falei para alguns amigos meus: &ldquo;infelizmente, vamos ter que usar essa desgraça como oportunidade para validar-mos e mostrar que o trabalho remoto é possível para nós.&quot;.</p>
+<p>Para contextualizar, é a primeira vez que isso acontece na minha empresa. Os funcionários não trabalham remoto, alguns nunca trabalharam. Alguns se quer sabiam que isso era legalmente possível. Muitos duvidam ainda. Isso mostra o quanto atrasados ainda estamos aqui no MA. Este problema decorre da não educação, sempre é isso. Nunca houve estudos prévios. Nunca houve testes, estudos, validações a respeito do trabalho remoto e suas possibilidades vantagens e desvantagens, e agora em meio ao pânico, temos que tomar esta medida quase como desespero. Para minha sorte, eu sempre quis trabalhar remoto, não é a primeira vez que tenho que trabalhar assim e já é uma coisa que eu estudo há algun tempo. Alias eu algumas pessoas aqui já fizemos até um <em>guiazinho</em> legal que vale <a href="https://gist.github.com/atmosmps/7aefae90adf6854b1c43ad04739bf7b1">reforçar aqui</a>.</p>
+<h3 id="o-mundo-é-remoto-agora">O mundo é remoto&hellip; Agora</h3>
+<p>Com a pandemia, muitas empresas que já são remotas há muito tempo ou nasceram remotas estão disponibilizando conteúdos valiosíssimos sobre este tipo de cultura de trabalho. Alguns dos que li, seguem abaixo:</p>
+<h4 id="gitlab">Gitlab</h4>
+<p><a href="https://about.gitlab.com/company/culture/all-remote/">https://about.gitlab.com/company/culture/all-remote/</a></p>
+<h4 id="officeless">Officeless</h4>
+<p><a href="https://www.officeless.cc/remotos?ck_subscriber_id=607583770">https://www.officeless.cc/remotos?ck_subscriber_id=607583770</a></p>
+<h4 id="yarwg---yet-another-remote-work-guide">YARWG - Yet another remote work guide</h4>
+<p><a href="https://www.linkedin.com/pulse/yarwg-yet-another-remote-work-guide-%C3%A9frem-maranh%C3%A3o-filho/">https://www.linkedin.com/pulse/yarwg-yet-another-remote-work-guide-%C3%A9frem-maranh%C3%A3o-filho/</a></p>
+<h4 id="alice-goldfuss">ALICE GOLDFUSS</h4>
+<p><a href="https://blog.alicegoldfuss.com/work-in-the-time-of-corona/">https://blog.alicegoldfuss.com/work-in-the-time-of-corona/</a></p>
+<h4 id="know-your-team">Know Your Team</h4>
+<p><a href="https://knowyourteam.com/m/managing_remote_teams">https://knowyourteam.com/m/managing_remote_teams</a></p>
+<h4 id="basecamp">Basecamp</h4>
+<p><a href="https://basecamp.com/guides/how-we-communicate">https://basecamp.com/guides/how-we-communicate</a></p>
+<p><strong>OBS</strong>: todos estes links já estão atualizados no <a href="https://gist.github.com/atmosmps/7aefae90adf6854b1c43ad04739bf7b1">guia</a>.</p>
+<p>Agora, eu não sei e prefiro não prever nada no momento. O que eu vou fazer é tentar usar este momento que estou tendo para trabalhar e validar o meu trabalho remoto e também aproveitar para estudar, ler e fazer coisas legais que eu gostaria de fazer, afinal de contas, ninguém sabe o que vem por aí&hellip;</p>
+<p>É isso, até a próxima, se cuidem e não saiam de casa.</p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Eu vendi meu tempo de Leitura</title>
+            <link>localhost/posts/i-sold-my-reading-time/</link>
+            <pubDate>Tue, 11 Feb 2020 00:00:00 +0000</pubDate>
+            
+            <guid>localhost/posts/i-sold-my-reading-time/</guid>
+            <description>Estou terminando de ler o livro sobre o maldito gênio desgraçado e fodah que está fazendo coisas do car*lho no mundo, Elon Musk. Postei uma foto do livro no historie do instagram enquanto eu lia, e um amigo me respondeu da seguinte maneiras:
+ &amp;ldquo;Tá com tempo né?&amp;rdquo;
+ Respondi:
+ &amp;ldquo;Pra ler, sempre. Você deveria arranjar tempo pra isso também.&amp;rdquo;
+ Resposta:
+ &amp;ldquo;Eu vendi meu tempo de leitura.&amp;rdquo;</description>
+            <content type="html"><![CDATA[<p>Estou terminando de ler o livro sobre o maldito gênio desgraçado e fodah que está fazendo coisas do car*lho no mundo, Elon Musk. Postei uma foto do livro no historie do instagram enquanto eu lia, e um amigo me respondeu da seguinte maneiras:</p>
+<blockquote>
+<p>&ldquo;Tá com tempo né?&rdquo;</p>
+</blockquote>
+<p>Respondi:</p>
+<blockquote>
+<p>&ldquo;Pra ler, sempre. Você deveria arranjar tempo pra isso também.&rdquo;</p>
+</blockquote>
+<p>Resposta:</p>
+<blockquote>
+<p>&ldquo;Eu vendi meu tempo de leitura.&rdquo;</p>
+</blockquote>
+<p>Não respondi. Não porque não tinha resposta, mas porque não tinha jugalmentos também. Talvez eu faça o mesmo o dia? Eu venderia meu tempo de leitura? Se eu vender meu tempo de leitura eu nunca mais vou ler. Será que ler é tão desimportante que eu possa simplesmente vender o tempo dedicado a isso? Talvez, depende. O dinheiro vai valer apena? Ou o trabalho?</p>
+<p>Se eu vender meu tempo de leitura, eu vou ter tempo para ficar no instagram respondendo o historie de alguém e indagando esta pessoa a respeito da forma como esta usa seu tempo?</p>
+<p>Sei lá&hellip; essas coisas me deixam reflitão.</p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Dockerizando uma aplicação React JS</title>
+            <link>localhost/posts/docking-a-reactjs-application/</link>
+            <pubDate>Tue, 04 Feb 2020 00:00:00 +0000</pubDate>
+            
+            <guid>localhost/posts/docking-a-reactjs-application/</guid>
+            <description>Manter minha frequência de escrita este ano será um grande sacrifício. Mas eu estou tentando. Eu acabei de voltar a escrever também no meu perfil no Medium, que há muito não fazia. Eu particularmente não gosto de escrever nada técnico no Medium, acho a plataforma pobre para formatação em markdown, mas é o que está na moda e por isso eu uso, afinal de contas é importante escrever e ser encontrado.</description>
+            <content type="html"><![CDATA[<p>Manter minha frequência de escrita este ano será um grande sacrifício. Mas eu estou tentando.
+Eu acabei de voltar a escrever também no meu perfil no <a href="https://medium.com/@atmosmps">Medium</a>, que há muito não fazia. Eu particularmente não gosto de escrever nada técnico no Medium, acho a plataforma pobre para formatação em markdown, mas é o que está na moda e por isso eu uso, afinal de contas é importante escrever e ser encontrado.</p>
+<p>Voltei falando um pouco sobre como podemos <a href="https://medium.com/@atmosmps/dockerizando-uma-aplica%C3%A7%C3%A3o-react-js-f6a22e93bc5d">&ldquo;dockerizar&rdquo; uma aplicação usando React JS</a> pronta para a produção e para ambiente de desenvolvimento. Espero que seja útil para alguém.</p>
+<p>É isto.</p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Verificando se determinada porta está em uso no seu sistema operacional</title>
+            <link>localhost/posts/checking-if-a-particular-port-is-in-use-on-your-operating-system/</link>
+            <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+            
+            <guid>localhost/posts/checking-if-a-particular-port-is-in-use-on-your-operating-system/</guid>
+            <description>Considerações iniciais: as informações contidas neste texto, só funcionam para sistemas baseados no Unix.
+Já passou por aquela situação de ter vários containers docker startados em portas diferentes, aí você tenta subir um novo containar e o terminal joga na sua cara que a porta já está em uso? Ou mesmo os built-in web servers do PHP, Node ou Python, já estão usando portas que vocês gostaria de usar?
+Eu também já passei por isso, há uma forma de saber se a porta já está sendo usada e/ou algumas informações sobre ela.</description>
+            <content type="html"><![CDATA[<p><em>Considerações iniciais: as informações contidas neste texto, só funcionam para sistemas baseados no Unix.</em></p>
+<p>Já passou por aquela situação de ter vários containers docker <em>startados</em> em portas diferentes, aí você tenta subir um novo containar e o terminal joga na sua cara que a porta já está em uso? Ou mesmo os <em>built-in web servers</em> do PHP, Node ou Python, já estão usando portas que vocês gostaria de usar?</p>
+<p>Eu também já passei por isso, há uma forma de saber se a porta já está sendo usada e/ou algumas informações sobre ela. No Linux, basta utilizar o seguinte comando:</p>
+<p><code>lsof -i TCP:PORT</code></p>
+<p>ex: <code>lsof -i TCP:1313</code></p>
+<p>Se porta estiver sendo utilizada o comando irá retornar algumas informações sobre ela. O comando irá retornar uma saída semelhante a esta:</p>
+<pre><code>COMMAND   PID     USER FD TYPE DEVICE SIZE/OFF NODE NAME
+hugo    28013 atmosmps 9u IPv4 141117      0t0  TCP localhost:xtel (LISTEN)
+</code></pre><p>Com isto você pode identificar quem está usando a porta finalizar o processo, ou você pode simplesmente matar o processo da seguinte maneira: <code>kill -9 PID</code>.</p>
+<p><strong>O que significa lsof?</strong></p>
+<p><code>lsof</code> siginifica <em>List Of Open File</em>. Arquivos são muito importantes no Unix, toda vez que estiver trabalhando no Linux/Unix poderá haver vários arquivos e pastas que estarão sendo utilizadas. Este comando fornece uma lista de arquivos que estão abertos. Basicamente, fornece as informações para descobrir os arquivos que estão abertos e por qual processo. De uma só vez, lista todos os arquivos abertos no console de saída.</p>
+<p>Aqui você encontra mais informações sobre o <a href="https://www.geeksforgeeks.org/lsof-command-in-linux-with-examples/">lsof e formas de utilizá-lo</a>.</p>
+<p>É isso.</p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Como instalar o Spotify em algumas distros Linux</title>
+            <link>localhost/posts/how-to-install-spotify-on-some-linux-distros/</link>
+            <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+            
+            <guid>localhost/posts/how-to-install-spotify-on-some-linux-distros/</guid>
+            <description>Eu não consigo trabalhar não escutando um bom som. Pra isso eu uso o Spotify. Para instalar qualquer coisa eu sempre, sempre prefiro utilizar a documentação oficial, e pra minha sorte, todas as distros que eu uso, testo ou pretendo usar possuem em suas documentações as formas e recomendações para instalar as coisas da forma como devem ser feitas, e isto inclue o Spotify também. :)
+Para instalar no Debian/Ubuntu O próprio Spotify diz como: https://www.</description>
+            <content type="html"><![CDATA[<p>Eu não consigo trabalhar não escutando um bom som. Pra isso eu uso o <a href="https://www.spotify.com/">Spotify</a>. Para instalar qualquer coisa eu sempre, sempre prefiro utilizar a documentação oficial, e pra minha sorte, todas as distros que eu uso, testo ou pretendo usar possuem em suas documentações as formas e recomendações para instalar as coisas da forma como devem ser feitas, e isto inclue o Spotify também. :)</p>
+<h4 id="para-instalar-no-debianubuntu">Para instalar no Debian/Ubuntu</h4>
+<p>O próprio Spotify diz como: <a href="https://www.spotify.com/us/download/linux/">https://www.spotify.com/us/download/linux/</a>.</p>
+<h4 id="para-instalar-no-fedora">Para instalar no Fedora</h4>
+<p>3 formas para usar, somente no fedora: <a href="https://docs.fedoraproject.org/en-US/quick-docs/installing-spotify/index.html">https://docs.fedoraproject.org/en-US/quick-docs/installing-spotify/index.html</a>. :)</p>
+<h4 id="para-instalar-no-archlinux">Para instalar no Archlinux</h4>
+<p>Detalhado e bem explicado: <a href="https://wiki.archlinux.org/index.php/Spotify">https://wiki.archlinux.org/index.php/Spotify</a>.</p>
+<p>É isto.</p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Configurando o git para usá-lo com proxy</title>
+            <link>localhost/posts/configure-git-to-use-a-proxy/</link>
+            <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+            
+            <guid>localhost/posts/configure-git-to-use-a-proxy/</guid>
+            <description>No meu outro texto eu escrevi sobre configurações de proxy no Ubuntu e Fedora, mesmo quando aplicadas no S.O de forma global, as configurações de proxy não são propagadas para todos os programas do sistema. Um caso deste é o git, e caso esteja sob uma rede com proxy usando git, provavelmente precise aplicar as configurações de proxy para ele. Para minha sorte eu também já havia preparado um gist com todas as configurações necessárias, na verdade, eu não preparei nada, quem preparou foi o evantoli, mas eu fiz uma tradução para pt-BR e deixei nos meus gists, aqui.</description>
+            <content type="html"><![CDATA[<p>No meu outro texto eu escrevi sobre <a href="/posts/configure-proxy-settings-in-ubuntu-and-fedora">configurações de proxy no Ubuntu e Fedora</a>, mesmo quando aplicadas no S.O de forma global, as configurações de proxy não são propagadas para todos os programas do sistema. Um caso deste é o git, e caso esteja sob uma rede com proxy usando git, provavelmente precise aplicar as configurações de proxy para ele. Para minha sorte eu também já havia preparado um gist com todas as configurações necessárias, na verdade, eu não preparei nada, quem preparou foi o <a href="https://gist.github.com/evantoli/f8c23a37eb3558ab8765">evantoli</a>, mas eu fiz uma <a href="https://gist.github.com/atmosmps/55adfe01e6f0f862112772fc39b73279">tradução para pt-BR e deixei nos meus gists, aqui</a>.</p>
+<p>É isto.</p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Instalando o PHP em distribuições Linux baseadas em Debian</title>
+            <link>localhost/posts/installing-php-on-debian-based-linux-distributions/</link>
+            <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+            
+            <guid>localhost/posts/installing-php-on-debian-based-linux-distributions/</guid>
+            <description>As distros que eu uso atualmente são o Fedora e o Ubuntu, o Fedora me deixa muito feliz com a forma como ele gerencia suas dependências de forma organizada e inteligente. É uma distro muito boa pra se trabalhar com desenvolvimento, as configurações são simples, o sitema não é cheio de coisas mirabolantes que só servem pra atrapalhar e você tem autonomia pra bagunçar bastante o S.O e errar pra aprender.</description>
+            <content type="html"><![CDATA[<p>As distros que eu uso atualmente são o Fedora e o Ubuntu, o Fedora me deixa muito feliz com a forma como ele gerencia suas dependências de forma organizada e inteligente. É uma distro muito boa pra se trabalhar com desenvolvimento, as configurações são simples, o sitema não é cheio de coisas mirabolantes que só servem pra atrapalhar e você tem autonomia pra bagunçar bastante o S.O e errar pra aprender. Aliás, no meu ponto de vista o Fedora tem umas das melhores <a href="https://docs.fedoraproject.org/en-US/docs/">documentações</a> que um S.O pode ter nos dias de hoje. O <a href="https://fedoraproject.org/wiki/DNF">DNF</a> sem sombra de dúvidas é muito melhor que o <a href="https://help.ubuntu.com/lts/serverguide/aptitude.html">Aptitude</a>. Porém, por questões de usabilidade e ferramentas específicas eu preciso usar o Ubuntu. Eu estou muito esperançoso em me &ldquo;livrar&rdquo; do Ubuntu graças ao Arch Linux, meus testes têm sido promissores e o Arch é uma distro muito boa mesmo.</p>
+<p>Mesmo hoje em dia existindo Docker pra tudo, eu gosto de ter uma instalação do PHP no meu S.O por questões de conveniência. Eu uso Docker somente dentro dos projetos em que eu trabalho e não para deixar meu ambiente de trabalho totalmente dockerizado, que é o que eu quero que seja no futuro.</p>
+<p>Por isso que eu prefiro sempre instalar o PHP no meu S.O: só por conveniência. Na verdade, até se eu precisar criar uma imagem do PHP usando docker para algo específico, como já precisei, para instalar o driver do SQL Server por exemplo, talvez seja necessário, dentro desta imagem instalar o PHP, obviamente se não for uma imagem do PHP nativa.</p>
+<h3 id="fedora">Fedora</h3>
+<p><strong>Abrindo um parênteses para o Fedora.</strong></p>
+<p>O Fedora sempre trás a última versão do PHP disponível nos repositórios oficiais. Por isso para instalar o PHP na última versão, basta executar:</p>
+<p><code>sudo dnf install php</code></p>
+<p>Para instalar as extensões, basta fazer:</p>
+<p><code>sudo dnf install php-extension-name</code></p>
+<p>Se existir mais de uma versão do PHP instalado no Fedora, o comando acima pode trazer problemas pois ele não especifica a versão do PHP para qual a extensão deve ser instalada, assim o fedora vai instalar o pacote para a versão do PHP que estiver ativa no S.O. Para especificar a versão do PHP para a qual o pacote deve ser instalado, basta executar da seguinte maneira:</p>
+<p><code>sudo dnf install php7.3-extension-name</code></p>
+<p>ex: <code>sudo dnf install php7.3-fpm</code></p>
+<h3 id="ubuntu">Ubuntu</h3>
+<p>Para instalar o PHP na versão 7.3 no Ubuntu 18.04, o processo é um pouco mais burocrático, mas não tão complicado. Primeiro é sempre importante atualizar os repositórios e também os pacotes que porventura possam estar desatualizados:</p>
+<p><code>sudo apt-get update &amp;&amp; sudo apt-get upgrade</code></p>
+<p>Depois disso é necessario adicionar o repositório do PHP 7.3 que contém as dependências e extensões também. Este repositório é o <a href="https://launchpad.net/~ondrej/+archive/ubuntu/php">ondrej/php</a> PPA.</p>
+<pre><code>sudo add-apt-repository ppa:ondrej/php
+sudo apt update
+</code></pre><p>Uma vez que o repositório foi adicionado, agora sim, é possível instalar o PHP 7.3:</p>
+<p><code>sudo apt-get install php7.3</code></p>
+<p>É possível verificar a versão instalada com o seguinte comando: <code>php -v</code></p>
+<h4 id="instalando-extensões">Instalando extensões</h4>
+<p>A forma de instalar extensões para o PHP no Ubuntu é semelhante ao Fedora.</p>
+<p>Eu sempre que preciso, instalo as seguintes extensões:</p>
+<p><code>sudo apt-get install php7.3-cli php7.3-fpm php7.3-json php7.3-pdo php7.3-mysql php7.3-zip php7.3-gd  php7.3-mbstring php7.3-curl php7.3-xml php7.3-bcmath php7.3-json php7.3-sqlite3 php7.3-pgsql php-xdebug</code></p>
+<p>Massa demais! Agora é só codar com alegria. :)</p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Meu guia definitivo ambientação em python</title>
+            <link>localhost/posts/my-definitive-python-setting-guide/</link>
+            <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+            
+            <guid>localhost/posts/my-definitive-python-setting-guide/</guid>
+            <description>Ainda na minha saga de tentar deixar documentado coisas que uma hora ou outra sempre preciso fazer, eu lembrei que tenho um gist com &amp;ldquo;Meu guia definitivo de ambientação em python&amp;rdquo;. Ele foi bastante baseado no excelente artigo do Henrique Bastos, na verdade só o que eu fiz mesmo foi remover coisas que no meu caso, eu não utilizo. Para acessar basta clicar aqui.
+É isto.</description>
+            <content type="html"><![CDATA[<p>Ainda na minha saga de tentar deixar documentado coisas que uma hora ou outra sempre preciso fazer, eu lembrei que tenho um gist com &ldquo;Meu guia definitivo de ambientação em python&rdquo;. Ele foi <strong>bastante</strong> baseado no <a href="https://medium.com/welcome-to-the-django/guia-definitivo-para-organizar-meu-ambiente-python-a16e2479b753">excelente artigo</a> do <a href="https://henriquebastos.net/">Henrique Bastos</a>, na verdade só o que eu fiz mesmo foi remover coisas que no meu caso, eu não utilizo. <a href="https://gist.github.com/atmosmps/bac20c0167c7e87dda73b913279bb279">Para acessar basta clicar aqui</a>.</p>
+<p>É isto.</p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Remote Work Guide - São Luis - MA</title>
+            <link>localhost/posts/remote-work-guide/</link>
+            <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+            
+            <guid>localhost/posts/remote-work-guide/</guid>
+            <description>É isto.</description>
+            <content type="html"><![CDATA[<!-- raw HTML omitted -->
+<p>É isto.</p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Definindo configurações de proxy no Ubuntu e Fedora</title>
+            <link>localhost/posts/configure-proxy-settings-in-ubuntu-and-fedora/</link>
+            <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+            
+            <guid>localhost/posts/configure-proxy-settings-in-ubuntu-and-fedora/</guid>
+            <description>Ainda hoje, de vez em quando eu preciso fazer algumas configurações chatas para trabalhar, uma delas é ter que configurar o proxy no SO que eu estiver utilizando, ou ainda pior, ter que configurar o proxy em Imagens Docker para que elas também possam acessar a internet no caso de precisarem baixar dependencias por exemplo.
+Como eu não fico gravando este tipo de coisa e toda vez eu preciso ficar &amp;ldquo;googlando&amp;rdquo;.</description>
+            <content type="html"><![CDATA[<p>Ainda hoje, de vez em quando eu preciso fazer algumas configurações chatas para trabalhar, uma delas é ter que configurar o proxy no SO que eu estiver utilizando, ou ainda pior, ter que configurar o proxy em Imagens Docker para que elas também possam acessar a internet no caso de precisarem baixar dependencias por exemplo.</p>
+<p>Como eu não fico gravando este tipo de coisa e toda vez eu preciso ficar &ldquo;googlando&rdquo;. Eu decidi criar um gist para as configurações que eu sempre utilizo e <!-- raw HTML omitted -->compartilhei aqui<!-- raw HTML omitted -->.</p>
+<p>Agora assim, as coisas ficam mais fáceis <strong>pra mim</strong>. Se te ajudou, fico contente.</p>
+<p>Até logo.</p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Hello World 2020</title>
+            <link>localhost/posts/hello-world-2020/</link>
+            <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+            
+            <guid>localhost/posts/hello-world-2020/</guid>
+            <description>Eu me lembro de 2012, na época em que ainda se usava bastante o termo &amp;ldquo;blogosfera&amp;rdquo;, para referenciar o forte ecossitema de blogs na web, que naquela época era extraordinariamente forte no Brasil, com nomes de referencia como o Blosque e outros que infelizmente não lembro mais. Eu estava lá. Na verdade foi nessa época em que me interessei mais pela área de informática, escrevendo pesquisando, editando HTML, CSS e Javascript(que eu não fazia a menor ideia do que era).</description>
+            <content type="html"><![CDATA[<p>Eu me lembro de 2012, na época em que ainda se usava bastante o termo &ldquo;blogosfera&rdquo;, para referenciar o forte ecossitema de blogs na web, que naquela época era extraordinariamente forte no Brasil, com nomes de referencia como o <a href="https://blosque.com/">Blosque</a> e outros que infelizmente não lembro mais. Eu estava lá. Na verdade foi nessa época em que me interessei mais pela área de informática, escrevendo pesquisando, editando HTML, CSS e Javascript(que eu não fazia a menor ideia do que era). Meu primeiro blog(hoje fora do ar), se chamava infokratos e eu utilizava o Blogger, foi uma grande escola para mim e ao lado da minha irmã, criei e publiquei vários artigos, consegui desenvolver o hábito de escrita com mais facilidade, mas perdi isso ao longo do tempo. Tentei novamente em 2018, com pouco sucesso. Em 2019 até <a href="https://github.com/atmosmps/atmosmps.github.iov0">criei uma nova página para mim</a>, mas sem sucesso também, será que este ano consigo escrever mais que nos ultimos dois anos? Não vou colocar metas, pois corro o risco de ter que dobra-las, mas uma nova casa sempre inspira para escrita.</p>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>
