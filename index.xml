@@ -2,51 +2,51 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Atmos Maciel</title>
-    <link>localhost/</link>
+    <link>http://atmosmaciel.dev/</link>
     <description>Recent content on Atmos Maciel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="localhost/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://atmosmaciel.dev/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Como limpar recursos (não utilizados) do Docker</title>
-      <link>localhost/posts/docker-how-to-cleanup-unused-resources/</link>
+      <link>http://atmosmaciel.dev/posts/docker-how-to-cleanup-unused-resources/</link>
       <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>localhost/posts/docker-how-to-cleanup-unused-resources/</guid>
+      <guid>http://atmosmaciel.dev/posts/docker-how-to-cleanup-unused-resources/</guid>
       <description>Se estiver mexendo com o Docker, seja em uma máquina local ou servidor, depois de algum tempo as alterações, manutenções, modificações, atualizações, etc&amp;hellip; podem deixar &amp;ldquo;coisas que não estão sendo mais usadas&amp;rdquo; ainda no host. Images antigas, volumes não usados, redes inativas, containers parados&amp;hellip; em fim. Pensando nisso que criei este doc que pode ajudar nos momentos em que for preciso realizar essas pequenas manutenções:
 Docker - How to cleanup (unused) resources</description>
     </item>
     
     <item>
       <title>30 dias de Quarentena</title>
-      <link>localhost/posts/30-days-of-quarantine/</link>
+      <link>http://atmosmaciel.dev/posts/30-days-of-quarantine/</link>
       <pubDate>Thu, 23 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>localhost/posts/30-days-of-quarantine/</guid>
+      <guid>http://atmosmaciel.dev/posts/30-days-of-quarantine/</guid>
       <description>Aonde eu trabalho ficou estabelecido o remoto na modalidade Home Office que no Brasil, pela regulamentação, é chamado de Teletrabalho. E já que tem um monte de gente dando opniões e comentando sobre esse momento, alguns de forma boa, outros de forma ruim, eu decidi que também quero deixar meus dois centavos sobre tudo que está acontecendo.
 Sobre o COVID - 19 e Trabalho Demorei alguns dias para me adaptar ao Home Office, alguns dias não, na verdade foram umas duas semanas.</description>
     </item>
     
     <item>
       <title>Trabalho remoto, quarentena e projetos</title>
-      <link>localhost/posts/remote-work-quarantine-and-projects/</link>
+      <link>http://atmosmaciel.dev/posts/remote-work-quarantine-and-projects/</link>
       <pubDate>Mon, 30 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>localhost/posts/remote-work-quarantine-and-projects/</guid>
+      <guid>http://atmosmaciel.dev/posts/remote-work-quarantine-and-projects/</guid>
       <description>É março, e 2020 já mostrou para o que veio. Depois de passarmos por tensões no começo do ano entre potências mundiais, agora estamos vivendo uma pandemia por conta do Corona Vírus(COVID-19). O mercado financeiro está uma loucura, no momento deste artigo já foram ativados 6 circuit breaks em pouco mais de duas semanas. Os governos mundiais começaram a tomar medidas de isolamento social e dentro dos países os políticos e empresários estão trabalhando maneiras de adptar-se de forma mais urgente a situação.</description>
     </item>
     
     <item>
       <title>Eu vendi meu tempo de Leitura</title>
-      <link>localhost/posts/i-sold-my-reading-time/</link>
+      <link>http://atmosmaciel.dev/posts/i-sold-my-reading-time/</link>
       <pubDate>Tue, 11 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>localhost/posts/i-sold-my-reading-time/</guid>
+      <guid>http://atmosmaciel.dev/posts/i-sold-my-reading-time/</guid>
       <description>Estou terminando de ler o livro sobre o maldito gênio desgraçado e fodah que está fazendo coisas do car*lho no mundo, Elon Musk. Postei uma foto do livro no historie do instagram enquanto eu lia, e um amigo me respondeu da seguinte maneiras:
  &amp;ldquo;Tá com tempo né?&amp;rdquo;
  Respondi:
@@ -57,19 +57,19 @@ Sobre o COVID - 19 e Trabalho Demorei alguns dias para me adaptar ao Home Office
     
     <item>
       <title>Dockerizando uma aplicação React JS</title>
-      <link>localhost/posts/docking-a-reactjs-application/</link>
+      <link>http://atmosmaciel.dev/posts/docking-a-reactjs-application/</link>
       <pubDate>Tue, 04 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>localhost/posts/docking-a-reactjs-application/</guid>
+      <guid>http://atmosmaciel.dev/posts/docking-a-reactjs-application/</guid>
       <description>Manter minha frequência de escrita este ano será um grande sacrifício. Mas eu estou tentando. Eu acabei de voltar a escrever também no meu perfil no Medium, que há muito não fazia. Eu particularmente não gosto de escrever nada técnico no Medium, acho a plataforma pobre para formatação em markdown, mas é o que está na moda e por isso eu uso, afinal de contas é importante escrever e ser encontrado.</description>
     </item>
     
     <item>
       <title>Verificando se determinada porta está em uso no seu sistema operacional</title>
-      <link>localhost/posts/checking-if-a-particular-port-is-in-use-on-your-operating-system/</link>
+      <link>http://atmosmaciel.dev/posts/checking-if-a-particular-port-is-in-use-on-your-operating-system/</link>
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>localhost/posts/checking-if-a-particular-port-is-in-use-on-your-operating-system/</guid>
+      <guid>http://atmosmaciel.dev/posts/checking-if-a-particular-port-is-in-use-on-your-operating-system/</guid>
       <description>Considerações iniciais: as informações contidas neste texto, só funcionam para sistemas baseados no Unix.
 Já passou por aquela situação de ter vários containers docker startados em portas diferentes, aí você tenta subir um novo containar e o terminal joga na sua cara que a porta já está em uso? Ou mesmo os built-in web servers do PHP, Node ou Python, já estão usando portas que vocês gostaria de usar?
 Eu também já passei por isso, há uma forma de saber se a porta já está sendo usada e/ou algumas informações sobre ela.</description>
@@ -77,38 +77,38 @@ Eu também já passei por isso, há uma forma de saber se a porta já está send
     
     <item>
       <title>Como instalar o Spotify em algumas distros Linux</title>
-      <link>localhost/posts/how-to-install-spotify-on-some-linux-distros/</link>
+      <link>http://atmosmaciel.dev/posts/how-to-install-spotify-on-some-linux-distros/</link>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>localhost/posts/how-to-install-spotify-on-some-linux-distros/</guid>
+      <guid>http://atmosmaciel.dev/posts/how-to-install-spotify-on-some-linux-distros/</guid>
       <description>Eu não consigo trabalhar não escutando um bom som. Pra isso eu uso o Spotify. Para instalar qualquer coisa eu sempre, sempre prefiro utilizar a documentação oficial, e pra minha sorte, todas as distros que eu uso, testo ou pretendo usar possuem em suas documentações as formas e recomendações para instalar as coisas da forma como devem ser feitas, e isto inclue o Spotify também. :)
 Para instalar no Debian/Ubuntu O próprio Spotify diz como: https://www.</description>
     </item>
     
     <item>
       <title>Configurando o git para usá-lo com proxy</title>
-      <link>localhost/posts/configure-git-to-use-a-proxy/</link>
+      <link>http://atmosmaciel.dev/posts/configure-git-to-use-a-proxy/</link>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>localhost/posts/configure-git-to-use-a-proxy/</guid>
+      <guid>http://atmosmaciel.dev/posts/configure-git-to-use-a-proxy/</guid>
       <description>No meu outro texto eu escrevi sobre configurações de proxy no Ubuntu e Fedora, mesmo quando aplicadas no S.O de forma global, as configurações de proxy não são propagadas para todos os programas do sistema. Um caso deste é o git, e caso esteja sob uma rede com proxy usando git, provavelmente precise aplicar as configurações de proxy para ele. Para minha sorte eu também já havia preparado um gist com todas as configurações necessárias, na verdade, eu não preparei nada, quem preparou foi o evantoli, mas eu fiz uma tradução para pt-BR e deixei nos meus gists, aqui.</description>
     </item>
     
     <item>
       <title>Instalando o PHP em distribuições Linux baseadas em Debian</title>
-      <link>localhost/posts/installing-php-on-debian-based-linux-distributions/</link>
+      <link>http://atmosmaciel.dev/posts/installing-php-on-debian-based-linux-distributions/</link>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>localhost/posts/installing-php-on-debian-based-linux-distributions/</guid>
+      <guid>http://atmosmaciel.dev/posts/installing-php-on-debian-based-linux-distributions/</guid>
       <description>As distros que eu uso atualmente são o Fedora e o Ubuntu, o Fedora me deixa muito feliz com a forma como ele gerencia suas dependências de forma organizada e inteligente. É uma distro muito boa pra se trabalhar com desenvolvimento, as configurações são simples, o sitema não é cheio de coisas mirabolantes que só servem pra atrapalhar e você tem autonomia pra bagunçar bastante o S.O e errar pra aprender.</description>
     </item>
     
     <item>
       <title>Meu guia definitivo ambientação em python</title>
-      <link>localhost/posts/my-definitive-python-setting-guide/</link>
+      <link>http://atmosmaciel.dev/posts/my-definitive-python-setting-guide/</link>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>localhost/posts/my-definitive-python-setting-guide/</guid>
+      <guid>http://atmosmaciel.dev/posts/my-definitive-python-setting-guide/</guid>
       <description>Ainda na minha saga de tentar deixar documentado coisas que uma hora ou outra sempre preciso fazer, eu lembrei que tenho um gist com &amp;ldquo;Meu guia definitivo de ambientação em python&amp;rdquo;. Ele foi bastante baseado no excelente artigo do Henrique Bastos, na verdade só o que eu fiz mesmo foi remover coisas que no meu caso, eu não utilizo. Para acessar basta clicar aqui.
 É isto.</description>
     </item>

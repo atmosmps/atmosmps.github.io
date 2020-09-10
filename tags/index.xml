@@ -2,94 +2,94 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Atmos Maciel</title>
-    <link>localhost/tags/</link>
+    <link>http://atmosmaciel.dev/tags/</link>
     <description>Recent content in Tags on Atmos Maciel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Thu, 07 May 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="localhost/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://atmosmaciel.dev/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>containers</title>
-      <link>localhost/tags/containers/</link>
+      <link>http://atmosmaciel.dev/tags/containers/</link>
       <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>localhost/tags/containers/</guid>
+      <guid>http://atmosmaciel.dev/tags/containers/</guid>
       <description></description>
     </item>
     
     <item>
       <title>docker</title>
-      <link>localhost/tags/docker/</link>
+      <link>http://atmosmaciel.dev/tags/docker/</link>
       <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>localhost/tags/docker/</guid>
+      <guid>http://atmosmaciel.dev/tags/docker/</guid>
       <description></description>
     </item>
     
     <item>
       <title>personal</title>
-      <link>localhost/tags/personal/</link>
+      <link>http://atmosmaciel.dev/tags/personal/</link>
       <pubDate>Thu, 23 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>localhost/tags/personal/</guid>
+      <guid>http://atmosmaciel.dev/tags/personal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>reactjs</title>
-      <link>localhost/tags/reactjs/</link>
+      <link>http://atmosmaciel.dev/tags/reactjs/</link>
       <pubDate>Tue, 04 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>localhost/tags/reactjs/</guid>
+      <guid>http://atmosmaciel.dev/tags/reactjs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>linux</title>
-      <link>localhost/tags/linux/</link>
+      <link>http://atmosmaciel.dev/tags/linux/</link>
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>localhost/tags/linux/</guid>
+      <guid>http://atmosmaciel.dev/tags/linux/</guid>
       <description></description>
     </item>
     
     <item>
       <title>me-to-me</title>
-      <link>localhost/tags/me-to-me/</link>
+      <link>http://atmosmaciel.dev/tags/me-to-me/</link>
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>localhost/tags/me-to-me/</guid>
+      <guid>http://atmosmaciel.dev/tags/me-to-me/</guid>
       <description></description>
     </item>
     
     <item>
       <title>git</title>
-      <link>localhost/tags/git/</link>
+      <link>http://atmosmaciel.dev/tags/git/</link>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>localhost/tags/git/</guid>
+      <guid>http://atmosmaciel.dev/tags/git/</guid>
       <description></description>
     </item>
     
     <item>
       <title>php</title>
-      <link>localhost/tags/php/</link>
+      <link>http://atmosmaciel.dev/tags/php/</link>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>localhost/tags/php/</guid>
+      <guid>http://atmosmaciel.dev/tags/php/</guid>
       <description></description>
     </item>
     
     <item>
       <title>python</title>
-      <link>localhost/tags/python/</link>
+      <link>http://atmosmaciel.dev/tags/python/</link>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>localhost/tags/python/</guid>
+      <guid>http://atmosmaciel.dev/tags/python/</guid>
       <description></description>
     </item>
     
