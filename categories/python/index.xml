@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>python on Atmos Maciel</title>
-    <link>https://atmosmaciel.com/categories/python/</link>
+    <link>https://atmosmps.me/categories/python/</link>
     <description>Recent content in python on Atmos Maciel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Mon, 06 Jan 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://atmosmaciel.com/categories/python/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://atmosmps.me/categories/python/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Meu guia definitivo ambientação em python</title>
-      <link>https://atmosmaciel.com/posts/my-definitive-python-setting-guide/</link>
+      <link>https://atmosmps.me/posts/my-definitive-python-setting-guide/</link>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://atmosmaciel.com/posts/my-definitive-python-setting-guide/</guid>
+      <guid>https://atmosmps.me/posts/my-definitive-python-setting-guide/</guid>
       <description>Ainda na minha saga de tentar deixar documentado coisas que uma hora ou outra sempre preciso fazer, eu lembrei que tenho um gist com &amp;ldquo;Meu guia definitivo de ambientação em python&amp;rdquo;. Ele foi bastante baseado no excelente artigo do Henrique Bastos, na verdade só o que eu fiz mesmo foi remover coisas que no meu caso, eu não utilizo. Para acessar basta clicar aqui.
 É isto.</description>
     </item>

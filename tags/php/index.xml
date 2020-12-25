@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>php on Atmos Maciel</title>
-    <link>https://atmosmaciel.com/tags/php/</link>
+    <link>https://atmosmps.me/tags/php/</link>
     <description>Recent content in php on Atmos Maciel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Mon, 06 Jan 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://atmosmaciel.com/tags/php/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://atmosmps.me/tags/php/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Instalando o PHP em distribuições Linux baseadas em Debian</title>
-      <link>https://atmosmaciel.com/posts/installing-php-on-debian-based-linux-distributions/</link>
+      <link>https://atmosmps.me/posts/installing-php-on-debian-based-linux-distributions/</link>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://atmosmaciel.com/posts/installing-php-on-debian-based-linux-distributions/</guid>
+      <guid>https://atmosmps.me/posts/installing-php-on-debian-based-linux-distributions/</guid>
       <description>As distros que eu uso atualmente são o Fedora e o Ubuntu, o Fedora me deixa muito feliz com a forma como ele gerencia suas dependências de forma organizada e inteligente. É uma distro muito boa pra se trabalhar com desenvolvimento, as configurações são simples, o sitema não é cheio de coisas mirabolantes que só servem pra atrapalhar e você tem autonomia pra bagunçar bastante o S.O e errar pra aprender.</description>
     </item>
     
