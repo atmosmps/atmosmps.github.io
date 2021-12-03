@@ -3,191 +3,191 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://atmosmps.me/categories/</loc>
+    <loc>localhost:1313/categories/</loc>
     <lastmod>2020-05-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://atmosmps.me/posts/docker-how-to-cleanup-unused-resources/</loc>
+    <loc>localhost:1313/posts/docker-how-to-cleanup-unused-resources/</loc>
     <lastmod>2020-05-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://atmosmps.me/tags/containers/</loc>
+    <loc>localhost:1313/tags/containers/</loc>
     <lastmod>2020-05-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://atmosmps.me/categories/containers/</loc>
+    <loc>localhost:1313/categories/containers/</loc>
     <lastmod>2020-05-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://atmosmps.me/tags/docker/</loc>
+    <loc>localhost:1313/tags/docker/</loc>
     <lastmod>2020-05-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://atmosmps.me/categories/docker/</loc>
+    <loc>localhost:1313/categories/docker/</loc>
     <lastmod>2020-05-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://atmosmps.me/posts/</loc>
+    <loc>localhost:1313/posts/</loc>
     <lastmod>2020-05-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://atmosmps.me/tags/</loc>
+    <loc>localhost:1313/tags/</loc>
     <lastmod>2020-05-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://atmosmps.me/posts/30-days-of-quarantine/</loc>
+    <loc>localhost:1313/posts/30-days-of-quarantine/</loc>
     <lastmod>2020-04-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://atmosmps.me/categories/blog/</loc>
+    <loc>localhost:1313/categories/blog/</loc>
     <lastmod>2020-04-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://atmosmps.me/tags/personal/</loc>
+    <loc>localhost:1313/tags/personal/</loc>
     <lastmod>2020-04-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://atmosmps.me/posts/remote-work-quarantine-and-projects/</loc>
+    <loc>localhost:1313/posts/remote-work-quarantine-and-projects/</loc>
     <lastmod>2020-03-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://atmosmps.me/posts/i-sold-my-reading-time/</loc>
+    <loc>localhost:1313/posts/i-sold-my-reading-time/</loc>
     <lastmod>2020-02-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://atmosmps.me/posts/docking-a-reactjs-application/</loc>
+    <loc>localhost:1313/posts/docking-a-reactjs-application/</loc>
     <lastmod>2020-02-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://atmosmps.me/tags/reactjs/</loc>
+    <loc>localhost:1313/tags/reactjs/</loc>
     <lastmod>2020-02-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://atmosmps.me/categories/reactjs/</loc>
+    <loc>localhost:1313/categories/reactjs/</loc>
     <lastmod>2020-02-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://atmosmps.me/categories/configs/</loc>
+    <loc>localhost:1313/categories/configs/</loc>
     <lastmod>2020-01-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://atmosmps.me/tags/linux/</loc>
+    <loc>localhost:1313/tags/linux/</loc>
     <lastmod>2020-01-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://atmosmps.me/categories/linux/</loc>
+    <loc>localhost:1313/categories/linux/</loc>
     <lastmod>2020-01-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://atmosmps.me/tags/me-to-me/</loc>
+    <loc>localhost:1313/tags/me-to-me/</loc>
     <lastmod>2020-01-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://atmosmps.me/posts/checking-if-a-particular-port-is-in-use-on-your-operating-system/</loc>
+    <loc>localhost:1313/posts/checking-if-a-particular-port-is-in-use-on-your-operating-system/</loc>
     <lastmod>2020-01-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://atmosmps.me/posts/how-to-install-spotify-on-some-linux-distros/</loc>
+    <loc>localhost:1313/posts/how-to-install-spotify-on-some-linux-distros/</loc>
     <lastmod>2020-01-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://atmosmps.me/posts/configure-git-to-use-a-proxy/</loc>
+    <loc>localhost:1313/posts/configure-git-to-use-a-proxy/</loc>
     <lastmod>2020-01-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://atmosmps.me/tags/git/</loc>
+    <loc>localhost:1313/tags/git/</loc>
     <lastmod>2020-01-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://atmosmps.me/categories/git/</loc>
+    <loc>localhost:1313/categories/git/</loc>
     <lastmod>2020-01-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://atmosmps.me/posts/installing-php-on-debian-based-linux-distributions/</loc>
+    <loc>localhost:1313/posts/installing-php-on-debian-based-linux-distributions/</loc>
     <lastmod>2020-01-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://atmosmps.me/posts/my-definitive-python-setting-guide/</loc>
+    <loc>localhost:1313/posts/my-definitive-python-setting-guide/</loc>
     <lastmod>2020-01-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://atmosmps.me/tags/php/</loc>
+    <loc>localhost:1313/tags/php/</loc>
     <lastmod>2020-01-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://atmosmps.me/categories/php/</loc>
+    <loc>localhost:1313/categories/php/</loc>
     <lastmod>2020-01-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://atmosmps.me/tags/python/</loc>
+    <loc>localhost:1313/tags/python/</loc>
     <lastmod>2020-01-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://atmosmps.me/categories/python/</loc>
+    <loc>localhost:1313/categories/python/</loc>
     <lastmod>2020-01-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://atmosmps.me/posts/remote-work-guide/</loc>
+    <loc>localhost:1313/posts/remote-work-guide/</loc>
     <lastmod>2020-01-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://atmosmps.me/posts/configure-proxy-settings-in-ubuntu-and-fedora/</loc>
+    <loc>localhost:1313/posts/configure-proxy-settings-in-ubuntu-and-fedora/</loc>
     <lastmod>2020-01-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://atmosmps.me/posts/hello-world-2020/</loc>
+    <loc>localhost:1313/posts/hello-world-2020/</loc>
     <lastmod>2020-01-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://atmosmps.me/</loc>
+    <loc>localhost:1313/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://atmosmps.me/about/</loc>
+    <loc>localhost:1313/about/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://atmosmps.me/projects/</loc>
+    <loc>localhost:1313/projects/</loc>
   </url>
   
   <url>
-    <loc>https://atmosmps.me/series/</loc>
+    <loc>localhost:1313/series/</loc>
   </url>
   
 </urlset>

@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>git on Atmos Maciel</title>
-    <link>https://atmosmps.me/categories/git/</link>
+    <link>localhost:1313/categories/git/</link>
     <description>Recent content in git on Atmos Maciel</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>pt-br</language>
+    <language>en-US</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Mon, 06 Jan 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://atmosmps.me/categories/git/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="localhost:1313/categories/git/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Configurando o git para usá-lo com proxy</title>
-      <link>https://atmosmps.me/posts/configure-git-to-use-a-proxy/</link>
+      <link>localhost:1313/posts/configure-git-to-use-a-proxy/</link>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://atmosmps.me/posts/configure-git-to-use-a-proxy/</guid>
+      <guid>localhost:1313/posts/configure-git-to-use-a-proxy/</guid>
       <description>No meu outro texto eu escrevi sobre configurações de proxy no Ubuntu e Fedora, mesmo quando aplicadas no S.O de forma global, as configurações de proxy não são propagadas para todos os programas do sistema. Um caso deste é o git, e caso esteja sob uma rede com proxy usando git, provavelmente precise aplicar as configurações de proxy para ele. Para minha sorte eu também já havia preparado um gist com todas as configurações necessárias, na verdade, eu não preparei nada, quem preparou foi o evantoli, mas eu fiz uma tradução para pt-BR e deixei nos meus gists, aqui.</description>
     </item>
     
