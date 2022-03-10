@@ -2,6 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on Atmos Maciel</title>
+    
+    
+    
     <link>localhost:1313/series/</link>
     <description>Recent content in Series on Atmos Maciel</description>
     <generator>Hugo -- gohugo.io</generator>

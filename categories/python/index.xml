@@ -2,6 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>python on Atmos Maciel</title>
+    
+    
+    
     <link>localhost:1313/categories/python/</link>
     <description>Recent content in python on Atmos Maciel</description>
     <generator>Hugo -- gohugo.io</generator>
@@ -14,12 +17,22 @@
     
     <item>
       <title>Meu guia definitivo ambientação em python</title>
-      <link>localhost:1313/posts/my-definitive-python-setting-guide/</link>
+      <link>localhost:1313/posts/2020/01/meu-guia-definitivo-ambienta%C3%A7%C3%A3o-em-python/</link>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>localhost:1313/posts/my-definitive-python-setting-guide/</guid>
-      <description>Ainda na minha saga de tentar deixar documentado coisas que uma hora ou outra sempre preciso fazer, eu lembrei que tenho um gist com &amp;ldquo;Meu guia definitivo de ambientação em python&amp;rdquo;. Ele foi bastante baseado no excelente artigo do Henrique Bastos, na verdade só o que eu fiz mesmo foi remover coisas que no meu caso, eu não utilizo. Para acessar basta clicar aqui.
-É isto.</description>
+      <guid>localhost:1313/posts/2020/01/meu-guia-definitivo-ambienta%C3%A7%C3%A3o-em-python/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Coisas simples e chatas que precisam ser feitas de vez em quando...
+          
+        
+        </description>
     </item>
     
   </channel>

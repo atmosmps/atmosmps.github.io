@@ -2,6 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>git on Atmos Maciel</title>
+    
+    
+    
     <link>localhost:1313/tags/git/</link>
     <description>Recent content in git on Atmos Maciel</description>
     <generator>Hugo -- gohugo.io</generator>
@@ -14,11 +17,22 @@
     
     <item>
       <title>Configurando o git para usá-lo com proxy</title>
-      <link>localhost:1313/posts/configure-git-to-use-a-proxy/</link>
+      <link>localhost:1313/posts/2020/01/configurando-o-git-para-us%C3%A1-lo-com-proxy/</link>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>localhost:1313/posts/configure-git-to-use-a-proxy/</guid>
-      <description>No meu outro texto eu escrevi sobre configurações de proxy no Ubuntu e Fedora, mesmo quando aplicadas no S.O de forma global, as configurações de proxy não são propagadas para todos os programas do sistema. Um caso deste é o git, e caso esteja sob uma rede com proxy usando git, provavelmente precise aplicar as configurações de proxy para ele. Para minha sorte eu também já havia preparado um gist com todas as configurações necessárias, na verdade, eu não preparei nada, quem preparou foi o evantoli, mas eu fiz uma tradução para pt-BR e deixei nos meus gists, aqui.</description>
+      <guid>localhost:1313/posts/2020/01/configurando-o-git-para-us%C3%A1-lo-com-proxy/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Coisas simples e chatas que precisam ser feitas de vez em quando...
+          
+        
+        </description>
     </item>
     
   </channel>

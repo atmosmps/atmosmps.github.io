@@ -2,6 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>php on Atmos Maciel</title>
+    
+    
+    
     <link>localhost:1313/tags/php/</link>
     <description>Recent content in php on Atmos Maciel</description>
     <generator>Hugo -- gohugo.io</generator>
@@ -14,11 +17,22 @@
     
     <item>
       <title>Instalando o PHP em distribuições Linux baseadas em Debian</title>
-      <link>localhost:1313/posts/installing-php-on-debian-based-linux-distributions/</link>
+      <link>localhost:1313/posts/2020/01/instalando-o-php-em-distribui%C3%A7%C3%B5es-linux-baseadas-em-debian/</link>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>localhost:1313/posts/installing-php-on-debian-based-linux-distributions/</guid>
-      <description>As distros que eu uso atualmente são o Fedora e o Ubuntu, o Fedora me deixa muito feliz com a forma como ele gerencia suas dependências de forma organizada e inteligente. É uma distro muito boa pra se trabalhar com desenvolvimento, as configurações são simples, o sitema não é cheio de coisas mirabolantes que só servem pra atrapalhar e você tem autonomia pra bagunçar bastante o S.O e errar pra aprender.</description>
+      <guid>localhost:1313/posts/2020/01/instalando-o-php-em-distribui%C3%A7%C3%B5es-linux-baseadas-em-debian/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Coisas simples e chatas que precisam ser feitas de vez em quando...
+          
+        
+        </description>
     </item>
     
   </channel>
