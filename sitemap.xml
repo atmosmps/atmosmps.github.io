@@ -2,116 +2,116 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>atmosmps.me/</loc>
+    <loc>/</loc>
     <lastmod>2020-05-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>atmosmps.me/categories/</loc>
+    <loc>/categories/</loc>
     <lastmod>2020-05-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>atmosmps.me/posts/2020/05/como-limpar-recursos-n%C3%A3o-utilizados-do-docker/</loc>
+    <loc>/posts/2020/05/como-limpar-recursos-n%C3%A3o-utilizados-do-docker/</loc>
     <lastmod>2020-05-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>atmosmps.me/tags/containers/</loc>
+    <loc>/tags/containers/</loc>
     <lastmod>2020-05-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>atmosmps.me/categories/containers/</loc>
+    <loc>/categories/containers/</loc>
     <lastmod>2020-05-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>atmosmps.me/tags/docker/</loc>
+    <loc>/tags/docker/</loc>
     <lastmod>2020-05-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>atmosmps.me/categories/docker/</loc>
+    <loc>/categories/docker/</loc>
     <lastmod>2020-05-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>atmosmps.me/posts/</loc>
+    <loc>/posts/</loc>
     <lastmod>2020-05-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>atmosmps.me/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2020-05-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>atmosmps.me/posts/2020/04/30-dias-de-quarentena/</loc>
+    <loc>/posts/2020/04/30-dias-de-quarentena/</loc>
     <lastmod>2020-04-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>atmosmps.me/categories/blog/</loc>
+    <loc>/categories/blog/</loc>
     <lastmod>2020-04-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>atmosmps.me/tags/personal/</loc>
+    <loc>/tags/personal/</loc>
     <lastmod>2020-04-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>atmosmps.me/posts/2020/03/trabalho-remoto-quarentena-e-projetos/</loc>
+    <loc>/posts/2020/03/trabalho-remoto-quarentena-e-projetos/</loc>
     <lastmod>2020-03-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>atmosmps.me/posts/2020/02/eu-vendi-meu-tempo-de-leitura/</loc>
+    <loc>/posts/2020/02/eu-vendi-meu-tempo-de-leitura/</loc>
     <lastmod>2020-02-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>atmosmps.me/posts/2020/02/dockerizando-uma-aplica%C3%A7%C3%A3o-react-js/</loc>
+    <loc>/posts/2020/02/dockerizando-uma-aplica%C3%A7%C3%A3o-react-js/</loc>
     <lastmod>2020-02-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>atmosmps.me/tags/reactjs/</loc>
+    <loc>/tags/reactjs/</loc>
     <lastmod>2020-02-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>atmosmps.me/categories/reactjs/</loc>
+    <loc>/categories/reactjs/</loc>
     <lastmod>2020-02-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>atmosmps.me/categories/configs/</loc>
+    <loc>/categories/configs/</loc>
     <lastmod>2020-01-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>atmosmps.me/tags/linux/</loc>
+    <loc>/tags/linux/</loc>
     <lastmod>2020-01-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>atmosmps.me/categories/linux/</loc>
+    <loc>/categories/linux/</loc>
     <lastmod>2020-01-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>atmosmps.me/tags/me-to-me/</loc>
+    <loc>/tags/me-to-me/</loc>
     <lastmod>2020-01-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>atmosmps.me/posts/2020/01/verificando-se-determinada-porta-est%C3%A1-em-uso-no-seu-sistema-operacional/</loc>
+    <loc>/posts/2020/01/verificando-se-determinada-porta-est%C3%A1-em-uso-no-seu-sistema-operacional/</loc>
     <lastmod>2020-01-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>atmosmps.me/posts/2020/01/como-instalar-o-spotify-em-algumas-distros-linux/</loc>
+    <loc>/posts/2020/01/como-instalar-o-spotify-em-algumas-distros-linux/</loc>
     <lastmod>2020-01-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>atmosmps.me/posts/2020/01/configurando-o-git-para-us%C3%A1-lo-com-proxy/</loc>
+    <loc>/posts/2020/01/configurando-o-git-para-us%C3%A1-lo-com-proxy/</loc>
     <lastmod>2020-01-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>atmosmps.me/tags/git/</loc>
+    <loc>/tags/git/</loc>
     <lastmod>2020-01-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>atmosmps.me/categories/git/</loc>
+    <loc>/categories/git/</loc>
     <lastmod>2020-01-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>atmosmps.me/posts/2020/01/instalando-o-php-em-distribui%C3%A7%C3%B5es-linux-baseadas-em-debian/</loc>
+    <loc>/posts/2020/01/instalando-o-php-em-distribui%C3%A7%C3%B5es-linux-baseadas-em-debian/</loc>
     <lastmod>2020-01-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>atmosmps.me/posts/2020/01/meu-guia-definitivo-ambienta%C3%A7%C3%A3o-em-python/</loc>
+    <loc>/posts/2020/01/meu-guia-definitivo-ambienta%C3%A7%C3%A3o-em-python/</loc>
     <lastmod>2020-01-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>atmosmps.me/tags/php/</loc>
+    <loc>/tags/php/</loc>
     <lastmod>2020-01-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>atmosmps.me/categories/php/</loc>
+    <loc>/categories/php/</loc>
     <lastmod>2020-01-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>atmosmps.me/tags/python/</loc>
+    <loc>/tags/python/</loc>
     <lastmod>2020-01-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>atmosmps.me/categories/python/</loc>
+    <loc>/categories/python/</loc>
     <lastmod>2020-01-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>atmosmps.me/posts/2020/01/remote-work-guide-s%C3%A3o-luis-ma/</loc>
+    <loc>/posts/2020/01/remote-work-guide-s%C3%A3o-luis-ma/</loc>
     <lastmod>2020-01-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>atmosmps.me/posts/2020/01/definindo-configura%C3%A7%C3%B5es-de-proxy-no-ubuntu-e-fedora/</loc>
+    <loc>/posts/2020/01/definindo-configura%C3%A7%C3%B5es-de-proxy-no-ubuntu-e-fedora/</loc>
     <lastmod>2020-01-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>atmosmps.me/posts/2020/01/hello-world-2020/</loc>
+    <loc>/posts/2020/01/hello-world-2020/</loc>
     <lastmod>2020-01-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>atmosmps.me/about/</loc>
+    <loc>/about/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>atmosmps.me/projects/</loc>
+    <loc>/projects/</loc>
   </url><url>
-    <loc>atmosmps.me/series/</loc>
+    <loc>/series/</loc>
   </url>
 </urlset>

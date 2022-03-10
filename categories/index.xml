@@ -2,197 +2,91 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Atmos Maciel</title>
-    
-    
-    
-    <link>atmosmps.me/categories/</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on Atmos Maciel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Thu, 07 May 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="atmosmps.me/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 07 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>containers</title>
-      <link>atmosmps.me/categories/containers/</link>
+      <link>/categories/containers/</link>
       <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>atmosmps.me/categories/containers/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          
-          
-        
-        </description>
+      <guid>/categories/containers/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>docker</title>
-      <link>atmosmps.me/categories/docker/</link>
+      <link>/categories/docker/</link>
       <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>atmosmps.me/categories/docker/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          
-          
-        
-        </description>
+      <guid>/categories/docker/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>blog</title>
-      <link>atmosmps.me/categories/blog/</link>
+      <link>/categories/blog/</link>
       <pubDate>Thu, 23 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>atmosmps.me/categories/blog/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          
-          
-        
-        </description>
+      <guid>/categories/blog/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>reactjs</title>
-      <link>atmosmps.me/categories/reactjs/</link>
+      <link>/categories/reactjs/</link>
       <pubDate>Tue, 04 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>atmosmps.me/categories/reactjs/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          
-          
-        
-        </description>
+      <guid>/categories/reactjs/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>configs</title>
-      <link>atmosmps.me/categories/configs/</link>
+      <link>/categories/configs/</link>
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>atmosmps.me/categories/configs/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          
-          
-        
-        </description>
+      <guid>/categories/configs/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>linux</title>
-      <link>atmosmps.me/categories/linux/</link>
+      <link>/categories/linux/</link>
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>atmosmps.me/categories/linux/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          
-          
-        
-        </description>
+      <guid>/categories/linux/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>git</title>
-      <link>atmosmps.me/categories/git/</link>
+      <link>/categories/git/</link>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>atmosmps.me/categories/git/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          
-          
-        
-        </description>
+      <guid>/categories/git/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>php</title>
-      <link>atmosmps.me/categories/php/</link>
+      <link>/categories/php/</link>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>atmosmps.me/categories/php/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          
-          
-        
-        </description>
+      <guid>/categories/php/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>python</title>
-      <link>atmosmps.me/categories/python/</link>
+      <link>/categories/python/</link>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>atmosmps.me/categories/python/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          
-          
-        
-        </description>
+      <guid>/categories/python/</guid>
+      <description></description>
     </item>
     
   </channel>

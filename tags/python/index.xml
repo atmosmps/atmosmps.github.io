@@ -2,37 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>python on Atmos Maciel</title>
-    
-    
-    
-    <link>atmosmps.me/tags/python/</link>
+    <link>/tags/python/</link>
     <description>Recent content in python on Atmos Maciel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Mon, 06 Jan 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="atmosmps.me/tags/python/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 06 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/python/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Meu guia definitivo ambientação em python</title>
-      <link>atmosmps.me/posts/2020/01/meu-guia-definitivo-ambienta%C3%A7%C3%A3o-em-python/</link>
+      <link>/posts/2020/01/meu-guia-definitivo-ambienta%C3%A7%C3%A3o-em-python/</link>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>atmosmps.me/posts/2020/01/meu-guia-definitivo-ambienta%C3%A7%C3%A3o-em-python/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          Coisas simples e chatas que precisam ser feitas de vez em quando...
-          
-        
-        </description>
+      <guid>/posts/2020/01/meu-guia-definitivo-ambienta%C3%A7%C3%A3o-em-python/</guid>
+      <description>Ainda na minha saga de tentar deixar documentado coisas que uma hora ou outra sempre preciso fazer, eu lembrei que tenho um gist com &amp;ldquo;Meu guia definitivo de ambientação em python&amp;rdquo;. Ele foi bastante baseado no excelente artigo do Henrique Bastos, na verdade só o que eu fiz mesmo foi remover coisas que no meu caso, eu não utilizo. Para acessar basta clicar aqui.
+É isto.</description>
     </item>
     
   </channel>
