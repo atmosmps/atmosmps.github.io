@@ -5,22 +5,22 @@
     
     
     
-    <link>localhost:1313/tags/</link>
+    <link>atmosmps.me/tags/</link>
     <description>Recent content in Tags on Atmos Maciel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Thu, 07 May 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="atmosmps.me/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>containers</title>
-      <link>localhost:1313/tags/containers/</link>
+      <link>atmosmps.me/tags/containers/</link>
       <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>localhost:1313/tags/containers/</guid>
+      <guid>atmosmps.me/tags/containers/</guid>
       <description>
         
           
@@ -37,10 +37,10 @@
     
     <item>
       <title>docker</title>
-      <link>localhost:1313/tags/docker/</link>
+      <link>atmosmps.me/tags/docker/</link>
       <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>localhost:1313/tags/docker/</guid>
+      <guid>atmosmps.me/tags/docker/</guid>
       <description>
         
           
@@ -57,10 +57,10 @@
     
     <item>
       <title>personal</title>
-      <link>localhost:1313/tags/personal/</link>
+      <link>atmosmps.me/tags/personal/</link>
       <pubDate>Thu, 23 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>localhost:1313/tags/personal/</guid>
+      <guid>atmosmps.me/tags/personal/</guid>
       <description>
         
           
@@ -77,10 +77,10 @@
     
     <item>
       <title>reactjs</title>
-      <link>localhost:1313/tags/reactjs/</link>
+      <link>atmosmps.me/tags/reactjs/</link>
       <pubDate>Tue, 04 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>localhost:1313/tags/reactjs/</guid>
+      <guid>atmosmps.me/tags/reactjs/</guid>
       <description>
         
           
@@ -97,10 +97,10 @@
     
     <item>
       <title>linux</title>
-      <link>localhost:1313/tags/linux/</link>
+      <link>atmosmps.me/tags/linux/</link>
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>localhost:1313/tags/linux/</guid>
+      <guid>atmosmps.me/tags/linux/</guid>
       <description>
         
           
@@ -117,10 +117,10 @@
     
     <item>
       <title>me-to-me</title>
-      <link>localhost:1313/tags/me-to-me/</link>
+      <link>atmosmps.me/tags/me-to-me/</link>
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>localhost:1313/tags/me-to-me/</guid>
+      <guid>atmosmps.me/tags/me-to-me/</guid>
       <description>
         
           
@@ -137,10 +137,10 @@
     
     <item>
       <title>git</title>
-      <link>localhost:1313/tags/git/</link>
+      <link>atmosmps.me/tags/git/</link>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>localhost:1313/tags/git/</guid>
+      <guid>atmosmps.me/tags/git/</guid>
       <description>
         
           
@@ -157,10 +157,10 @@
     
     <item>
       <title>php</title>
-      <link>localhost:1313/tags/php/</link>
+      <link>atmosmps.me/tags/php/</link>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>localhost:1313/tags/php/</guid>
+      <guid>atmosmps.me/tags/php/</guid>
       <description>
         
           
@@ -177,10 +177,10 @@
     
     <item>
       <title>python</title>
-      <link>localhost:1313/tags/python/</link>
+      <link>atmosmps.me/tags/python/</link>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>localhost:1313/tags/python/</guid>
+      <guid>atmosmps.me/tags/python/</guid>
       <description>
         
           

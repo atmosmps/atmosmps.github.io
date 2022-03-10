@@ -5,22 +5,22 @@
     
     
     
-    <link>localhost:1313/categories/</link>
+    <link>atmosmps.me/categories/</link>
     <description>Recent content in Categories on Atmos Maciel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Thu, 07 May 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="atmosmps.me/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>containers</title>
-      <link>localhost:1313/categories/containers/</link>
+      <link>atmosmps.me/categories/containers/</link>
       <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>localhost:1313/categories/containers/</guid>
+      <guid>atmosmps.me/categories/containers/</guid>
       <description>
         
           
@@ -37,10 +37,10 @@
     
     <item>
       <title>docker</title>
-      <link>localhost:1313/categories/docker/</link>
+      <link>atmosmps.me/categories/docker/</link>
       <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>localhost:1313/categories/docker/</guid>
+      <guid>atmosmps.me/categories/docker/</guid>
       <description>
         
           
@@ -57,10 +57,10 @@
     
     <item>
       <title>blog</title>
-      <link>localhost:1313/categories/blog/</link>
+      <link>atmosmps.me/categories/blog/</link>
       <pubDate>Thu, 23 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>localhost:1313/categories/blog/</guid>
+      <guid>atmosmps.me/categories/blog/</guid>
       <description>
         
           
@@ -77,10 +77,10 @@
     
     <item>
       <title>reactjs</title>
-      <link>localhost:1313/categories/reactjs/</link>
+      <link>atmosmps.me/categories/reactjs/</link>
       <pubDate>Tue, 04 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>localhost:1313/categories/reactjs/</guid>
+      <guid>atmosmps.me/categories/reactjs/</guid>
       <description>
         
           
@@ -97,10 +97,10 @@
     
     <item>
       <title>configs</title>
-      <link>localhost:1313/categories/configs/</link>
+      <link>atmosmps.me/categories/configs/</link>
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>localhost:1313/categories/configs/</guid>
+      <guid>atmosmps.me/categories/configs/</guid>
       <description>
         
           
@@ -117,10 +117,10 @@
     
     <item>
       <title>linux</title>
-      <link>localhost:1313/categories/linux/</link>
+      <link>atmosmps.me/categories/linux/</link>
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>localhost:1313/categories/linux/</guid>
+      <guid>atmosmps.me/categories/linux/</guid>
       <description>
         
           
@@ -137,10 +137,10 @@
     
     <item>
       <title>git</title>
-      <link>localhost:1313/categories/git/</link>
+      <link>atmosmps.me/categories/git/</link>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>localhost:1313/categories/git/</guid>
+      <guid>atmosmps.me/categories/git/</guid>
       <description>
         
           
@@ -157,10 +157,10 @@
     
     <item>
       <title>php</title>
-      <link>localhost:1313/categories/php/</link>
+      <link>atmosmps.me/categories/php/</link>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>localhost:1313/categories/php/</guid>
+      <guid>atmosmps.me/categories/php/</guid>
       <description>
         
           
@@ -177,10 +177,10 @@
     
     <item>
       <title>python</title>
-      <link>localhost:1313/categories/python/</link>
+      <link>atmosmps.me/categories/python/</link>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>localhost:1313/categories/python/</guid>
+      <guid>atmosmps.me/categories/python/</guid>
       <description>
         
           

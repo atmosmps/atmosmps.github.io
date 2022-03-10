@@ -5,22 +5,22 @@
     
     
     
-    <link>localhost:1313/categories/blog/</link>
+    <link>atmosmps.me/categories/blog/</link>
     <description>Recent content in blog on Atmos Maciel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Thu, 23 Apr 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="localhost:1313/categories/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="atmosmps.me/categories/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>30 dias de Quarentena</title>
-      <link>localhost:1313/posts/2020/04/30-dias-de-quarentena/</link>
+      <link>atmosmps.me/posts/2020/04/30-dias-de-quarentena/</link>
       <pubDate>Thu, 23 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>localhost:1313/posts/2020/04/30-dias-de-quarentena/</guid>
+      <guid>atmosmps.me/posts/2020/04/30-dias-de-quarentena/</guid>
       <description>
         
           
@@ -37,10 +37,10 @@
     
     <item>
       <title>Trabalho remoto, quarentena e projetos</title>
-      <link>localhost:1313/posts/2020/03/trabalho-remoto-quarentena-e-projetos/</link>
+      <link>atmosmps.me/posts/2020/03/trabalho-remoto-quarentena-e-projetos/</link>
       <pubDate>Mon, 30 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>localhost:1313/posts/2020/03/trabalho-remoto-quarentena-e-projetos/</guid>
+      <guid>atmosmps.me/posts/2020/03/trabalho-remoto-quarentena-e-projetos/</guid>
       <description>
         
           
@@ -57,10 +57,10 @@
     
     <item>
       <title>Eu vendi meu tempo de Leitura</title>
-      <link>localhost:1313/posts/2020/02/eu-vendi-meu-tempo-de-leitura/</link>
+      <link>atmosmps.me/posts/2020/02/eu-vendi-meu-tempo-de-leitura/</link>
       <pubDate>Tue, 11 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>localhost:1313/posts/2020/02/eu-vendi-meu-tempo-de-leitura/</guid>
+      <guid>atmosmps.me/posts/2020/02/eu-vendi-meu-tempo-de-leitura/</guid>
       <description>
         
           
@@ -77,10 +77,10 @@
     
     <item>
       <title>Remote Work Guide - São Luis - MA</title>
-      <link>localhost:1313/posts/2020/01/remote-work-guide-s%C3%A3o-luis-ma/</link>
+      <link>atmosmps.me/posts/2020/01/remote-work-guide-s%C3%A3o-luis-ma/</link>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>localhost:1313/posts/2020/01/remote-work-guide-s%C3%A3o-luis-ma/</guid>
+      <guid>atmosmps.me/posts/2020/01/remote-work-guide-s%C3%A3o-luis-ma/</guid>
       <description>
         
           
@@ -97,10 +97,10 @@
     
     <item>
       <title>Hello World 2020</title>
-      <link>localhost:1313/posts/2020/01/hello-world-2020/</link>
+      <link>atmosmps.me/posts/2020/01/hello-world-2020/</link>
       <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>localhost:1313/posts/2020/01/hello-world-2020/</guid>
+      <guid>atmosmps.me/posts/2020/01/hello-world-2020/</guid>
       <description>
         
           

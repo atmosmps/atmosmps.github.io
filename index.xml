@@ -5,22 +5,22 @@
     
     
     
-    <link>localhost:1313/</link>
+    <link>atmosmps.me/</link>
     <description>Recent content on Atmos Maciel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Thu, 07 May 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="atmosmps.me/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Como limpar recursos (não utilizados) do Docker</title>
-      <link>localhost:1313/posts/2020/05/como-limpar-recursos-n%C3%A3o-utilizados-do-docker/</link>
+      <link>atmosmps.me/posts/2020/05/como-limpar-recursos-n%C3%A3o-utilizados-do-docker/</link>
       <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>localhost:1313/posts/2020/05/como-limpar-recursos-n%C3%A3o-utilizados-do-docker/</guid>
+      <guid>atmosmps.me/posts/2020/05/como-limpar-recursos-n%C3%A3o-utilizados-do-docker/</guid>
       <description>
         
           
@@ -37,10 +37,10 @@
     
     <item>
       <title>30 dias de Quarentena</title>
-      <link>localhost:1313/posts/2020/04/30-dias-de-quarentena/</link>
+      <link>atmosmps.me/posts/2020/04/30-dias-de-quarentena/</link>
       <pubDate>Thu, 23 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>localhost:1313/posts/2020/04/30-dias-de-quarentena/</guid>
+      <guid>atmosmps.me/posts/2020/04/30-dias-de-quarentena/</guid>
       <description>
         
           
@@ -57,10 +57,10 @@
     
     <item>
       <title>Trabalho remoto, quarentena e projetos</title>
-      <link>localhost:1313/posts/2020/03/trabalho-remoto-quarentena-e-projetos/</link>
+      <link>atmosmps.me/posts/2020/03/trabalho-remoto-quarentena-e-projetos/</link>
       <pubDate>Mon, 30 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>localhost:1313/posts/2020/03/trabalho-remoto-quarentena-e-projetos/</guid>
+      <guid>atmosmps.me/posts/2020/03/trabalho-remoto-quarentena-e-projetos/</guid>
       <description>
         
           
@@ -77,10 +77,10 @@
     
     <item>
       <title>Eu vendi meu tempo de Leitura</title>
-      <link>localhost:1313/posts/2020/02/eu-vendi-meu-tempo-de-leitura/</link>
+      <link>atmosmps.me/posts/2020/02/eu-vendi-meu-tempo-de-leitura/</link>
       <pubDate>Tue, 11 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>localhost:1313/posts/2020/02/eu-vendi-meu-tempo-de-leitura/</guid>
+      <guid>atmosmps.me/posts/2020/02/eu-vendi-meu-tempo-de-leitura/</guid>
       <description>
         
           
@@ -97,10 +97,10 @@
     
     <item>
       <title>Dockerizando uma aplicação React JS</title>
-      <link>localhost:1313/posts/2020/02/dockerizando-uma-aplica%C3%A7%C3%A3o-react-js/</link>
+      <link>atmosmps.me/posts/2020/02/dockerizando-uma-aplica%C3%A7%C3%A3o-react-js/</link>
       <pubDate>Tue, 04 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>localhost:1313/posts/2020/02/dockerizando-uma-aplica%C3%A7%C3%A3o-react-js/</guid>
+      <guid>atmosmps.me/posts/2020/02/dockerizando-uma-aplica%C3%A7%C3%A3o-react-js/</guid>
       <description>
         
           
@@ -117,10 +117,10 @@
     
     <item>
       <title>Verificando se determinada porta está em uso no seu sistema operacional</title>
-      <link>localhost:1313/posts/2020/01/verificando-se-determinada-porta-est%C3%A1-em-uso-no-seu-sistema-operacional/</link>
+      <link>atmosmps.me/posts/2020/01/verificando-se-determinada-porta-est%C3%A1-em-uso-no-seu-sistema-operacional/</link>
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>localhost:1313/posts/2020/01/verificando-se-determinada-porta-est%C3%A1-em-uso-no-seu-sistema-operacional/</guid>
+      <guid>atmosmps.me/posts/2020/01/verificando-se-determinada-porta-est%C3%A1-em-uso-no-seu-sistema-operacional/</guid>
       <description>
         
           
@@ -137,10 +137,10 @@
     
     <item>
       <title>Como instalar o Spotify em algumas distros Linux</title>
-      <link>localhost:1313/posts/2020/01/como-instalar-o-spotify-em-algumas-distros-linux/</link>
+      <link>atmosmps.me/posts/2020/01/como-instalar-o-spotify-em-algumas-distros-linux/</link>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>localhost:1313/posts/2020/01/como-instalar-o-spotify-em-algumas-distros-linux/</guid>
+      <guid>atmosmps.me/posts/2020/01/como-instalar-o-spotify-em-algumas-distros-linux/</guid>
       <description>
         
           
@@ -157,10 +157,10 @@
     
     <item>
       <title>Configurando o git para usá-lo com proxy</title>
-      <link>localhost:1313/posts/2020/01/configurando-o-git-para-us%C3%A1-lo-com-proxy/</link>
+      <link>atmosmps.me/posts/2020/01/configurando-o-git-para-us%C3%A1-lo-com-proxy/</link>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>localhost:1313/posts/2020/01/configurando-o-git-para-us%C3%A1-lo-com-proxy/</guid>
+      <guid>atmosmps.me/posts/2020/01/configurando-o-git-para-us%C3%A1-lo-com-proxy/</guid>
       <description>
         
           
@@ -177,10 +177,10 @@
     
     <item>
       <title>Instalando o PHP em distribuições Linux baseadas em Debian</title>
-      <link>localhost:1313/posts/2020/01/instalando-o-php-em-distribui%C3%A7%C3%B5es-linux-baseadas-em-debian/</link>
+      <link>atmosmps.me/posts/2020/01/instalando-o-php-em-distribui%C3%A7%C3%B5es-linux-baseadas-em-debian/</link>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>localhost:1313/posts/2020/01/instalando-o-php-em-distribui%C3%A7%C3%B5es-linux-baseadas-em-debian/</guid>
+      <guid>atmosmps.me/posts/2020/01/instalando-o-php-em-distribui%C3%A7%C3%B5es-linux-baseadas-em-debian/</guid>
       <description>
         
           
@@ -197,10 +197,10 @@
     
     <item>
       <title>Meu guia definitivo ambientação em python</title>
-      <link>localhost:1313/posts/2020/01/meu-guia-definitivo-ambienta%C3%A7%C3%A3o-em-python/</link>
+      <link>atmosmps.me/posts/2020/01/meu-guia-definitivo-ambienta%C3%A7%C3%A3o-em-python/</link>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>localhost:1313/posts/2020/01/meu-guia-definitivo-ambienta%C3%A7%C3%A3o-em-python/</guid>
+      <guid>atmosmps.me/posts/2020/01/meu-guia-definitivo-ambienta%C3%A7%C3%A3o-em-python/</guid>
       <description>
         
           

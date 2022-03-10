@@ -5,22 +5,22 @@
     
     
     
-    <link>localhost:1313/categories/docker/</link>
+    <link>atmosmps.me/categories/docker/</link>
     <description>Recent content in docker on Atmos Maciel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Thu, 07 May 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="localhost:1313/categories/docker/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="atmosmps.me/categories/docker/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Como limpar recursos (não utilizados) do Docker</title>
-      <link>localhost:1313/posts/2020/05/como-limpar-recursos-n%C3%A3o-utilizados-do-docker/</link>
+      <link>atmosmps.me/posts/2020/05/como-limpar-recursos-n%C3%A3o-utilizados-do-docker/</link>
       <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>localhost:1313/posts/2020/05/como-limpar-recursos-n%C3%A3o-utilizados-do-docker/</guid>
+      <guid>atmosmps.me/posts/2020/05/como-limpar-recursos-n%C3%A3o-utilizados-do-docker/</guid>
       <description>
         
           
@@ -37,10 +37,10 @@
     
     <item>
       <title>Dockerizando uma aplicação React JS</title>
-      <link>localhost:1313/posts/2020/02/dockerizando-uma-aplica%C3%A7%C3%A3o-react-js/</link>
+      <link>atmosmps.me/posts/2020/02/dockerizando-uma-aplica%C3%A7%C3%A3o-react-js/</link>
       <pubDate>Tue, 04 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>localhost:1313/posts/2020/02/dockerizando-uma-aplica%C3%A7%C3%A3o-react-js/</guid>
+      <guid>atmosmps.me/posts/2020/02/dockerizando-uma-aplica%C3%A7%C3%A3o-react-js/</guid>
       <description>
         
           
