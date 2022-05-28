@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Brs on Atmos Maciel</title>
+    <link>/br/</link>
+    <description>Recent content in Brs on Atmos Maciel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="/br/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sobre mim</title>
+      <link>/br/about/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/br/about/</guid>
+      <description>&amp;ldquo;Vi veri universum vivus vici.&amp;rdquo;
+ Oi, sou Atmos Maciel.
+Troubleshooter; Tech Geek who likes code (and its literature), innovation, science, open source culture, and free software;
+Gosto de ciência, inovação e código. Minhas principais áreas de estudo são: engenharia e arquitetura de software, algoritimos e estrutura de dados. Tenho interesse pela área de machine learning e data science. Me interesso pela cultura open source e software livre. Sempre que posso, me envolvo com projetos do ecossistema de tecnologia e inovação do Estado onde moro e de outros.</description>
+    </item>
+    
+  </channel>
+</rss>

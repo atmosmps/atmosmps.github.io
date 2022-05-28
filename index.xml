@@ -5,7 +5,7 @@
     <link>/</link>
     <description>Recent content on Atmos Maciel</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-US</language>
+    <language>pt-br</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Thu, 07 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -79,34 +79,6 @@ Eu também já passei por isso, há uma forma de saber se a porta já está send
       <guid>/posts/2020/01/como-instalar-o-spotify-em-algumas-distros-linux/</guid>
       <description>Eu não consigo trabalhar não escutando um bom som. Pra isso eu uso o Spotify. Para instalar qualquer coisa eu sempre, sempre prefiro utilizar a documentação oficial, e pra minha sorte, todas as distros que eu uso, testo ou pretendo usar possuem em suas documentações as formas e recomendações para instalar as coisas da forma como devem ser feitas, e isto inclue o Spotify também. :)
 Para instalar no Debian/Ubuntu O próprio Spotify diz como: https://www.</description>
-    </item>
-    
-    <item>
-      <title>Configurando o git para usá-lo com proxy</title>
-      <link>/posts/2020/01/configurando-o-git-para-us%C3%A1-lo-com-proxy/</link>
-      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/2020/01/configurando-o-git-para-us%C3%A1-lo-com-proxy/</guid>
-      <description>No meu outro texto eu escrevi sobre configurações de proxy no Ubuntu e Fedora, mesmo quando aplicadas no S.O de forma global, as configurações de proxy não são propagadas para todos os programas do sistema. Um caso deste é o git, e caso esteja sob uma rede com proxy usando git, provavelmente precise aplicar as configurações de proxy para ele. Para minha sorte eu também já havia preparado um gist com todas as configurações necessárias, na verdade, eu não preparei nada, quem preparou foi o evantoli, mas eu fiz uma tradução para pt-BR e deixei nos meus gists, aqui.</description>
-    </item>
-    
-    <item>
-      <title>Instalando o PHP em distribuições Linux baseadas em Debian</title>
-      <link>/posts/2020/01/instalando-o-php-em-distribui%C3%A7%C3%B5es-linux-baseadas-em-debian/</link>
-      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/2020/01/instalando-o-php-em-distribui%C3%A7%C3%B5es-linux-baseadas-em-debian/</guid>
-      <description>As distros que eu uso atualmente são o Fedora e o Ubuntu, o Fedora me deixa muito feliz com a forma como ele gerencia suas dependências de forma organizada e inteligente. É uma distro muito boa pra se trabalhar com desenvolvimento, as configurações são simples, o sitema não é cheio de coisas mirabolantes que só servem pra atrapalhar e você tem autonomia pra bagunçar bastante o S.O e errar pra aprender.</description>
-    </item>
-    
-    <item>
-      <title>Meu guia definitivo ambientação em python</title>
-      <link>/posts/2020/01/meu-guia-definitivo-ambienta%C3%A7%C3%A3o-em-python/</link>
-      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/2020/01/meu-guia-definitivo-ambienta%C3%A7%C3%A3o-em-python/</guid>
-      <description>Ainda na minha saga de tentar deixar documentado coisas que uma hora ou outra sempre preciso fazer, eu lembrei que tenho um gist com &amp;ldquo;Meu guia definitivo de ambientação em python&amp;rdquo;. Ele foi bastante baseado no excelente artigo do Henrique Bastos, na verdade só o que eu fiz mesmo foi remover coisas que no meu caso, eu não utilizo. Para acessar basta clicar aqui.
-É isto.</description>
     </item>
     
   </channel>

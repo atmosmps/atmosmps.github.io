@@ -5,7 +5,7 @@
     <link>/tags/personal/</link>
     <description>Recent content in personal on Atmos Maciel</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-US</language>
+    <language>pt-br</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Thu, 23 Apr 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/personal/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -78,35 +78,6 @@ Para instalar no Debian/Ubuntu O próprio Spotify diz como: https://www.</descri
       
       <guid>/posts/2020/01/instalando-o-php-em-distribui%C3%A7%C3%B5es-linux-baseadas-em-debian/</guid>
       <description>As distros que eu uso atualmente são o Fedora e o Ubuntu, o Fedora me deixa muito feliz com a forma como ele gerencia suas dependências de forma organizada e inteligente. É uma distro muito boa pra se trabalhar com desenvolvimento, as configurações são simples, o sitema não é cheio de coisas mirabolantes que só servem pra atrapalhar e você tem autonomia pra bagunçar bastante o S.O e errar pra aprender.</description>
-    </item>
-    
-    <item>
-      <title>Meu guia definitivo ambientação em python</title>
-      <link>/posts/2020/01/meu-guia-definitivo-ambienta%C3%A7%C3%A3o-em-python/</link>
-      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/2020/01/meu-guia-definitivo-ambienta%C3%A7%C3%A3o-em-python/</guid>
-      <description>Ainda na minha saga de tentar deixar documentado coisas que uma hora ou outra sempre preciso fazer, eu lembrei que tenho um gist com &amp;ldquo;Meu guia definitivo de ambientação em python&amp;rdquo;. Ele foi bastante baseado no excelente artigo do Henrique Bastos, na verdade só o que eu fiz mesmo foi remover coisas que no meu caso, eu não utilizo. Para acessar basta clicar aqui.
-É isto.</description>
-    </item>
-    
-    <item>
-      <title>Remote Work Guide - São Luis - MA</title>
-      <link>/posts/2020/01/remote-work-guide-s%C3%A3o-luis-ma/</link>
-      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/2020/01/remote-work-guide-s%C3%A3o-luis-ma/</guid>
-      <description>É isto.</description>
-    </item>
-    
-    <item>
-      <title>Definindo configurações de proxy no Ubuntu e Fedora</title>
-      <link>/posts/2020/01/definindo-configura%C3%A7%C3%B5es-de-proxy-no-ubuntu-e-fedora/</link>
-      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/2020/01/definindo-configura%C3%A7%C3%B5es-de-proxy-no-ubuntu-e-fedora/</guid>
-      <description>Ainda hoje, de vez em quando eu preciso fazer algumas configurações chatas para trabalhar, uma delas é ter que configurar o proxy no SO que eu estiver utilizando, ou ainda pior, ter que configurar o proxy em Imagens Docker para que elas também possam acessar a internet no caso de precisarem baixar dependencias por exemplo.
-Como eu não fico gravando este tipo de coisa e toda vez eu preciso ficar &amp;ldquo;googlando&amp;rdquo;.</description>
     </item>
     
   </channel>
