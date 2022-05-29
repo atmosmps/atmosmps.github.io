@@ -36,38 +36,38 @@
     </item>
     
     <item>
+      <title>php</title>
+      <link>/categories/php/</link>
+      <pubDate>Sun, 16 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/php/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>symfony</title>
+      <link>/categories/symfony/</link>
+      <pubDate>Sun, 16 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/symfony/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tech</title>
+      <link>/categories/tech/</link>
+      <pubDate>Sun, 16 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/tech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>reactjs</title>
       <link>/categories/reactjs/</link>
       <pubDate>Tue, 04 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>/categories/reactjs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>configs</title>
-      <link>/categories/configs/</link>
-      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/configs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>linux</title>
-      <link>/categories/linux/</link>
-      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/linux/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>git</title>
-      <link>/categories/git/</link>
-      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/git/</guid>
       <description></description>
     </item>
     

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>python on Atmos Maciel</title>
+    <link>/br/categories/python/</link>
+    <description>Recent content in python on Atmos Maciel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Mon, 06 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="/br/categories/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Meu guia definitivo ambientação em python</title>
+      <link>/br/posts/2020/01/meu-guia-definitivo-ambienta%C3%A7%C3%A3o-em-python/</link>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/br/posts/2020/01/meu-guia-definitivo-ambienta%C3%A7%C3%A3o-em-python/</guid>
+      <description>Ainda na minha saga de tentar deixar documentado coisas que uma hora ou outra sempre preciso fazer, eu lembrei que tenho um gist com &amp;ldquo;Meu guia definitivo de ambientação em python&amp;rdquo;. Ele foi bastante baseado no excelente artigo do Henrique Bastos, na verdade só o que eu fiz mesmo foi remover coisas que no meu caso, eu não utilizo. Para acessar basta clicar aqui.
+É isto.</description>
+    </item>
+    
+    <item>
+      <title>Como criar seu primeiro jogo com PyGame - 2</title>
+      <link>/br/posts/2018/03/como-criar-seu-primeiro-jogo-com-pygame-2/</link>
+      <pubDate>Thu, 08 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/br/posts/2018/03/como-criar-seu-primeiro-jogo-com-pygame-2/</guid>
+      <description>Como criar seu primeiro jogo com PyGame - 2.</description>
+    </item>
+    
+    <item>
+      <title>Como criar seu primeiro jogo com PyGame - 1</title>
+      <link>/br/posts/2018/02/como-criar-seu-primeiro-jogo-com-pygame-1/</link>
+      <pubDate>Mon, 26 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/br/posts/2018/02/como-criar-seu-primeiro-jogo-com-pygame-1/</guid>
+      <description>Como criar seu primeiro jogo com PyGame - 1.</description>
+    </item>
+    
+  </channel>
+</rss>

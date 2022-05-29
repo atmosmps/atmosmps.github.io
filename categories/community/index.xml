@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>community on Atmos Maciel</title>
+    <link>/categories/community/</link>
+    <description>Recent content in community on Atmos Maciel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Tue, 26 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="/categories/community/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Empreendedorismo e Tecnologia: desafios e vivências de um Dev</title>
+      <link>/posts/2019/02/empreendedorismo-e-tecnologia-desafios-e-viv%C3%AAncias-de-um-dev/</link>
+      <pubDate>Tue, 26 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2019/02/empreendedorismo-e-tecnologia-desafios-e-viv%C3%AAncias-de-um-dev/</guid>
+      <description>Empreendedorismo e Tecnologia: desafios e vivências de um Dev.</description>
+    </item>
+    
+    <item>
+      <title>Impacto Maker nas comunidades</title>
+      <link>/posts/2019/02/impacto-maker-nas-comunidades/</link>
+      <pubDate>Wed, 13 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2019/02/impacto-maker-nas-comunidades/</guid>
+      <description>Impacto Maker nas comunidades.</description>
+    </item>
+    
+    <item>
+      <title>PHP Maranhão sob nova direção</title>
+      <link>/posts/2019/02/php-maranh%C3%A3o-sob-nova-dire%C3%A7%C3%A3o/</link>
+      <pubDate>Tue, 12 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2019/02/php-maranh%C3%A3o-sob-nova-dire%C3%A7%C3%A3o/</guid>
+      <description>PHP Maranhão sob nova direção.</description>
+    </item>
+    
+    <item>
+      <title>Postagens no Blog da Impacto Maker</title>
+      <link>/posts/2018/01/postagens-no-blog-da-impacto-maker/</link>
+      <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2018/01/postagens-no-blog-da-impacto-maker/</guid>
+      <description>Hello World.</description>
+    </item>
+    
+    <item>
+      <title>Postagens no Blog do PHP Maranhão</title>
+      <link>/posts/2018/01/postagens-no-blog-do-php-maranh%C3%A3o/</link>
+      <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2018/01/postagens-no-blog-do-php-maranh%C3%A3o/</guid>
+      <description>Hello World.</description>
+    </item>
+    
+    <item>
+      <title>8 php - você tem a ver com isso</title>
+      <link>/posts/2017/10/8-php-voc%C3%AA-tem-a-ver-com-isso/</link>
+      <pubDate>Fri, 27 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2017/10/8-php-voc%C3%AA-tem-a-ver-com-isso/</guid>
+      <description>8 php - você tem a ver com isso.</description>
+    </item>
+    
+    <item>
+      <title>Startup Weekend - 3: experience</title>
+      <link>/posts/2017/10/startup-weekend-3-experience/</link>
+      <pubDate>Mon, 16 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2017/10/startup-weekend-3-experience/</guid>
+      <description>Startup Weekend - 3: experience.</description>
+    </item>
+    
+  </channel>
+</rss>

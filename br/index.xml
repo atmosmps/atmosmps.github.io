@@ -1,23 +1,83 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Brs on Atmos Maciel</title>
+    <title>Atmos Maciel</title>
     <link>/br/</link>
-    <description>Recent content in Brs on Atmos Maciel</description>
+    <description>Recent content on Atmos Maciel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="/br/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 07 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="/br/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Sobre mim</title>
-      <link>/br/about/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <title>Como limpar recursos (não utilizados) do Docker</title>
+      <link>/br/posts/2020/05/como-limpar-recursos-n%C3%A3o-utilizados-do-docker/</link>
+      <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/br/about/</guid>
-      <description>&amp;ldquo;Vi veri universum vivus vici.&amp;rdquo;
- Oi, sou Atmos Maciel.
-Troubleshooter; Tech Geek who likes code (and its literature), innovation, science, open source culture, and free software;
-Gosto de ciência, inovação e código. Minhas principais áreas de estudo são: engenharia e arquitetura de software, algoritimos e estrutura de dados. Tenho interesse pela área de machine learning e data science. Me interesso pela cultura open source e software livre. Sempre que posso, me envolvo com projetos do ecossistema de tecnologia e inovação do Estado onde moro e de outros.</description>
+      <guid>/br/posts/2020/05/como-limpar-recursos-n%C3%A3o-utilizados-do-docker/</guid>
+      <description>Se estiver mexendo com o Docker, seja em uma máquina local ou servidor, depois de algum tempo as alterações, manutenções, modificações, atualizações, etc&amp;hellip; podem deixar &amp;ldquo;coisas que não estão sendo mais usadas&amp;rdquo; ainda no host. Images antigas, volumes não usados, redes inativas, containers parados&amp;hellip; em fim. Pensando nisso que criei este doc que pode ajudar nos momentos em que for preciso realizar essas pequenas manutenções:
+Docker - How to cleanup (unused) resources</description>
+    </item>
+    
+    <item>
+      <title>30 dias de Quarentena</title>
+      <link>/br/posts/2020/04/30-dias-de-quarentena/</link>
+      <pubDate>Thu, 23 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/br/posts/2020/04/30-dias-de-quarentena/</guid>
+      <description>Aonde eu trabalho ficou estabelecido o remoto na modalidade Home Office que no Brasil, pela regulamentação, é chamado de Teletrabalho. E já que tem um monte de gente dando opniões e comentando sobre esse momento, alguns de forma boa, outros de forma ruim, eu decidi que também quero deixar meus dois centavos sobre tudo que está acontecendo.
+Sobre o COVID - 19 e Trabalho Demorei alguns dias para me adaptar ao Home Office, alguns dias não, na verdade foram umas duas semanas.</description>
+    </item>
+    
+    <item>
+      <title>Trabalho remoto, quarentena e projetos</title>
+      <link>/br/posts/2020/03/trabalho-remoto-quarentena-e-projetos/</link>
+      <pubDate>Mon, 30 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/br/posts/2020/03/trabalho-remoto-quarentena-e-projetos/</guid>
+      <description>É março, e 2020 já mostrou para o que veio. Depois de passarmos por tensões no começo do ano entre potências mundiais, agora estamos vivendo uma pandemia por conta do Corona Vírus(COVID-19). O mercado financeiro está uma loucura, no momento deste artigo já foram ativados 6 circuit breaks em pouco mais de duas semanas. Os governos mundiais começaram a tomar medidas de isolamento social e dentro dos países os políticos e empresários estão trabalhando maneiras de adptar-se de forma mais urgente a situação.</description>
+    </item>
+    
+    <item>
+      <title>Convertendo uma requisição json para um array no Symfony</title>
+      <link>/br/posts/2020/02/convertendo-uma-requisi%C3%A7%C3%A3o-json-para-um-array-no-symfony/</link>
+      <pubDate>Sun, 16 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/br/posts/2020/02/convertendo-uma-requisi%C3%A7%C3%A3o-json-para-um-array-no-symfony/</guid>
+      <description>Convertendo uma requisição json para um array no Symfony.</description>
+    </item>
+    
+    <item>
+      <title>Eu vendi meu tempo de Leitura</title>
+      <link>/br/posts/2020/02/eu-vendi-meu-tempo-de-leitura/</link>
+      <pubDate>Tue, 11 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/br/posts/2020/02/eu-vendi-meu-tempo-de-leitura/</guid>
+      <description>Estou terminando de ler o livro sobre o maldito gênio desgraçado e fodah que está fazendo coisas do car*lho no mundo, Elon Musk. Postei uma foto do livro no historie do instagram enquanto eu lia, e um amigo me respondeu da seguinte maneiras:
+ &amp;ldquo;Tá com tempo né?&amp;rdquo;
+ Respondi:
+ &amp;ldquo;Pra ler, sempre. Você deveria arranjar tempo pra isso também.&amp;rdquo;
+ Resposta:
+ &amp;ldquo;Eu vendi meu tempo de leitura.&amp;rdquo;</description>
+    </item>
+    
+    <item>
+      <title>Dockerizando uma aplicação React JS</title>
+      <link>/br/posts/2020/02/dockerizando-uma-aplica%C3%A7%C3%A3o-react-js/</link>
+      <pubDate>Tue, 04 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/br/posts/2020/02/dockerizando-uma-aplica%C3%A7%C3%A3o-react-js/</guid>
+      <description>Manter minha frequência de escrita este ano será um grande sacrifício. Mas eu estou tentando. Eu acabei de voltar a escrever também no meu perfil no Medium, que há muito não fazia. Eu particularmente não gosto de escrever nada técnico no Medium, acho a plataforma pobre para formatação em markdown, mas é o que está na moda e por isso eu uso, afinal de contas é importante escrever e ser encontrado.</description>
+    </item>
+    
+    <item>
+      <title>Verificando se determinada porta está em uso no seu sistema operacional</title>
+      <link>/br/posts/2020/01/verificando-se-determinada-porta-est%C3%A1-em-uso-no-seu-sistema-operacional/</link>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/br/posts/2020/01/verificando-se-determinada-porta-est%C3%A1-em-uso-no-seu-sistema-operacional/</guid>
+      <description>Considerações iniciais: as informações contidas neste texto, só funcionam para sistemas baseados no Unix.
+Já passou por aquela situação de ter vários containers docker startados em portas diferentes, aí você tenta subir um novo containar e o terminal joga na sua cara que a porta já está em uso? Ou mesmo os built-in web servers do PHP, Node ou Python, já estão usando portas que vocês gostaria de usar?
+Eu também já passei por isso, há uma forma de saber se a porta já está sendo usada e/ou algumas informações sobre ela.</description>
     </item>
     
   </channel>

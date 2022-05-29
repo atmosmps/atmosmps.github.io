@@ -6,8 +6,8 @@
     <lastmod>2020-05-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="pt-br"
-                href="/pt-br/"
+                hreflang="br"
+                href="/br/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -19,8 +19,8 @@
     <lastmod>2020-05-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="pt-br"
-                href="/pt-br/categories/"
+                hreflang="br"
+                href="/br/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -30,28 +30,88 @@
   </url><url>
     <loc>/posts/2020/05/como-limpar-recursos-n%C3%A3o-utilizados-do-docker/</loc>
     <lastmod>2020-05-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="br"
+                href="/br/posts/2020/05/como-limpar-recursos-n%C3%A3o-utilizados-do-docker/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/posts/2020/05/como-limpar-recursos-n%C3%A3o-utilizados-do-docker/"
+                />
   </url><url>
     <loc>/tags/containers/</loc>
     <lastmod>2020-05-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="br"
+                href="/br/tags/containers/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/containers/"
+                />
   </url><url>
     <loc>/categories/containers/</loc>
     <lastmod>2020-05-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="br"
+                href="/br/categories/containers/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/categories/containers/"
+                />
   </url><url>
     <loc>/tags/docker/</loc>
     <lastmod>2020-05-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="br"
+                href="/br/tags/docker/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/docker/"
+                />
   </url><url>
     <loc>/categories/docker/</loc>
     <lastmod>2020-05-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="br"
+                href="/br/categories/docker/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/categories/docker/"
+                />
   </url><url>
     <loc>/posts/</loc>
     <lastmod>2020-05-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="br"
+                href="/br/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/posts/"
+                />
   </url><url>
     <loc>/tags/</loc>
     <lastmod>2020-05-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="pt-br"
-                href="/pt-br/tags/"
+                hreflang="br"
+                href="/br/tags/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -61,95 +121,700 @@
   </url><url>
     <loc>/posts/2020/04/30-dias-de-quarentena/</loc>
     <lastmod>2020-04-23T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="br"
+                href="/br/posts/2020/04/30-dias-de-quarentena/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/posts/2020/04/30-dias-de-quarentena/"
+                />
   </url><url>
     <loc>/categories/blog/</loc>
     <lastmod>2020-04-23T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="br"
+                href="/br/categories/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/categories/blog/"
+                />
   </url><url>
     <loc>/tags/personal/</loc>
     <lastmod>2020-04-23T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="br"
+                href="/br/tags/personal/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/personal/"
+                />
   </url><url>
     <loc>/posts/2020/03/trabalho-remoto-quarentena-e-projetos/</loc>
     <lastmod>2020-03-30T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="br"
+                href="/br/posts/2020/03/trabalho-remoto-quarentena-e-projetos/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/posts/2020/03/trabalho-remoto-quarentena-e-projetos/"
+                />
+  </url><url>
+    <loc>/posts/2020/02/convertendo-uma-requisi%C3%A7%C3%A3o-json-para-um-array-no-symfony/</loc>
+    <lastmod>2020-02-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="br"
+                href="/br/posts/2020/02/convertendo-uma-requisi%C3%A7%C3%A3o-json-para-um-array-no-symfony/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/posts/2020/02/convertendo-uma-requisi%C3%A7%C3%A3o-json-para-um-array-no-symfony/"
+                />
+  </url><url>
+    <loc>/tags/php/</loc>
+    <lastmod>2020-02-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="br"
+                href="/br/tags/php/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/php/"
+                />
+  </url><url>
+    <loc>/categories/php/</loc>
+    <lastmod>2020-02-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="br"
+                href="/br/categories/php/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/categories/php/"
+                />
+  </url><url>
+    <loc>/tags/symfony/</loc>
+    <lastmod>2020-02-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="br"
+                href="/br/tags/symfony/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/symfony/"
+                />
+  </url><url>
+    <loc>/categories/symfony/</loc>
+    <lastmod>2020-02-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="br"
+                href="/br/categories/symfony/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/categories/symfony/"
+                />
+  </url><url>
+    <loc>/tags/tech/</loc>
+    <lastmod>2020-02-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="br"
+                href="/br/tags/tech/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/tech/"
+                />
+  </url><url>
+    <loc>/categories/tech/</loc>
+    <lastmod>2020-02-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="br"
+                href="/br/categories/tech/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/categories/tech/"
+                />
   </url><url>
     <loc>/posts/2020/02/eu-vendi-meu-tempo-de-leitura/</loc>
     <lastmod>2020-02-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="br"
+                href="/br/posts/2020/02/eu-vendi-meu-tempo-de-leitura/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/posts/2020/02/eu-vendi-meu-tempo-de-leitura/"
+                />
   </url><url>
     <loc>/posts/2020/02/dockerizando-uma-aplica%C3%A7%C3%A3o-react-js/</loc>
     <lastmod>2020-02-04T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="br"
+                href="/br/posts/2020/02/dockerizando-uma-aplica%C3%A7%C3%A3o-react-js/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/posts/2020/02/dockerizando-uma-aplica%C3%A7%C3%A3o-react-js/"
+                />
   </url><url>
     <loc>/tags/reactjs/</loc>
     <lastmod>2020-02-04T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="br"
+                href="/br/tags/reactjs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/reactjs/"
+                />
   </url><url>
     <loc>/categories/reactjs/</loc>
     <lastmod>2020-02-04T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="br"
+                href="/br/categories/reactjs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/categories/reactjs/"
+                />
   </url><url>
     <loc>/categories/configs/</loc>
     <lastmod>2020-01-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="br"
+                href="/br/categories/configs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/categories/configs/"
+                />
   </url><url>
     <loc>/tags/linux/</loc>
     <lastmod>2020-01-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="br"
+                href="/br/tags/linux/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/linux/"
+                />
   </url><url>
     <loc>/categories/linux/</loc>
     <lastmod>2020-01-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="br"
+                href="/br/categories/linux/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/categories/linux/"
+                />
   </url><url>
     <loc>/tags/me-to-me/</loc>
     <lastmod>2020-01-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="br"
+                href="/br/tags/me-to-me/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/me-to-me/"
+                />
   </url><url>
     <loc>/posts/2020/01/verificando-se-determinada-porta-est%C3%A1-em-uso-no-seu-sistema-operacional/</loc>
     <lastmod>2020-01-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="br"
+                href="/br/posts/2020/01/verificando-se-determinada-porta-est%C3%A1-em-uso-no-seu-sistema-operacional/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/posts/2020/01/verificando-se-determinada-porta-est%C3%A1-em-uso-no-seu-sistema-operacional/"
+                />
   </url><url>
     <loc>/posts/2020/01/como-instalar-o-spotify-em-algumas-distros-linux/</loc>
     <lastmod>2020-01-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="br"
+                href="/br/posts/2020/01/como-instalar-o-spotify-em-algumas-distros-linux/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/posts/2020/01/como-instalar-o-spotify-em-algumas-distros-linux/"
+                />
   </url><url>
     <loc>/posts/2020/01/configurando-o-git-para-us%C3%A1-lo-com-proxy/</loc>
     <lastmod>2020-01-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="br"
+                href="/br/posts/2020/01/configurando-o-git-para-us%C3%A1-lo-com-proxy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/posts/2020/01/configurando-o-git-para-us%C3%A1-lo-com-proxy/"
+                />
   </url><url>
     <loc>/tags/git/</loc>
     <lastmod>2020-01-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="br"
+                href="/br/tags/git/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/git/"
+                />
   </url><url>
     <loc>/categories/git/</loc>
     <lastmod>2020-01-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="br"
+                href="/br/categories/git/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/categories/git/"
+                />
   </url><url>
     <loc>/posts/2020/01/instalando-o-php-em-distribui%C3%A7%C3%B5es-linux-baseadas-em-debian/</loc>
     <lastmod>2020-01-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="br"
+                href="/br/posts/2020/01/instalando-o-php-em-distribui%C3%A7%C3%B5es-linux-baseadas-em-debian/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/posts/2020/01/instalando-o-php-em-distribui%C3%A7%C3%B5es-linux-baseadas-em-debian/"
+                />
   </url><url>
     <loc>/posts/2020/01/meu-guia-definitivo-ambienta%C3%A7%C3%A3o-em-python/</loc>
     <lastmod>2020-01-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/php/</loc>
-    <lastmod>2020-01-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/php/</loc>
-    <lastmod>2020-01-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="br"
+                href="/br/posts/2020/01/meu-guia-definitivo-ambienta%C3%A7%C3%A3o-em-python/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/posts/2020/01/meu-guia-definitivo-ambienta%C3%A7%C3%A3o-em-python/"
+                />
   </url><url>
     <loc>/tags/python/</loc>
     <lastmod>2020-01-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="br"
+                href="/br/tags/python/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/python/"
+                />
   </url><url>
     <loc>/categories/python/</loc>
     <lastmod>2020-01-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="br"
+                href="/br/categories/python/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/categories/python/"
+                />
   </url><url>
     <loc>/posts/2020/01/remote-work-guide-s%C3%A3o-luis-ma/</loc>
     <lastmod>2020-01-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="br"
+                href="/br/posts/2020/01/remote-work-guide-s%C3%A3o-luis-ma/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/posts/2020/01/remote-work-guide-s%C3%A3o-luis-ma/"
+                />
   </url><url>
     <loc>/posts/2020/01/definindo-configura%C3%A7%C3%B5es-de-proxy-no-ubuntu-e-fedora/</loc>
     <lastmod>2020-01-05T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="br"
+                href="/br/posts/2020/01/definindo-configura%C3%A7%C3%B5es-de-proxy-no-ubuntu-e-fedora/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/posts/2020/01/definindo-configura%C3%A7%C3%B5es-de-proxy-no-ubuntu-e-fedora/"
+                />
   </url><url>
     <loc>/posts/2020/01/hello-world-2020/</loc>
     <lastmod>2020-01-05T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="br"
+                href="/br/posts/2020/01/hello-world-2020/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/posts/2020/01/hello-world-2020/"
+                />
   </url><url>
     <loc>/about/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="br"
+                href="/br/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/about/"
+                />
   </url><url>
-    <loc>/about/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <loc>/tags/community/</loc>
+    <lastmod>2019-02-26T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="br"
+                href="/br/tags/community/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/community/"
+                />
+  </url><url>
+    <loc>/categories/community/</loc>
+    <lastmod>2019-02-26T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="br"
+                href="/br/categories/community/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/categories/community/"
+                />
+  </url><url>
+    <loc>/posts/2019/02/empreendedorismo-e-tecnologia-desafios-e-viv%C3%AAncias-de-um-dev/</loc>
+    <lastmod>2019-02-26T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="br"
+                href="/br/posts/2019/02/empreendedorismo-e-tecnologia-desafios-e-viv%C3%AAncias-de-um-dev/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/posts/2019/02/empreendedorismo-e-tecnologia-desafios-e-viv%C3%AAncias-de-um-dev/"
+                />
+  </url><url>
+    <loc>/tags/startup/</loc>
+    <lastmod>2019-02-26T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="br"
+                href="/br/tags/startup/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/startup/"
+                />
+  </url><url>
+    <loc>/categories/startup/</loc>
+    <lastmod>2019-02-26T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="br"
+                href="/br/categories/startup/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/categories/startup/"
+                />
+  </url><url>
+    <loc>/posts/2019/02/impacto-maker-nas-comunidades/</loc>
+    <lastmod>2019-02-13T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="br"
+                href="/br/posts/2019/02/impacto-maker-nas-comunidades/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/posts/2019/02/impacto-maker-nas-comunidades/"
+                />
+  </url><url>
+    <loc>/posts/2019/02/php-maranh%C3%A3o-sob-nova-dire%C3%A7%C3%A3o/</loc>
+    <lastmod>2019-02-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="br"
+                href="/br/posts/2019/02/php-maranh%C3%A3o-sob-nova-dire%C3%A7%C3%A3o/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/posts/2019/02/php-maranh%C3%A3o-sob-nova-dire%C3%A7%C3%A3o/"
+                />
+  </url><url>
+    <loc>/posts/2018/03/como-criar-seu-primeiro-jogo-com-pygame-2/</loc>
+    <lastmod>2018-03-08T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="br"
+                href="/br/posts/2018/03/como-criar-seu-primeiro-jogo-com-pygame-2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/posts/2018/03/como-criar-seu-primeiro-jogo-com-pygame-2/"
+                />
+  </url><url>
+    <loc>/tags/pygame/</loc>
+    <lastmod>2018-03-08T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="br"
+                href="/br/tags/pygame/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/pygame/"
+                />
+  </url><url>
+    <loc>/categories/pygame/</loc>
+    <lastmod>2018-03-08T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="br"
+                href="/br/categories/pygame/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/categories/pygame/"
+                />
+  </url><url>
+    <loc>/posts/2018/02/como-criar-seu-primeiro-jogo-com-pygame-1/</loc>
+    <lastmod>2018-02-26T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="br"
+                href="/br/posts/2018/02/como-criar-seu-primeiro-jogo-com-pygame-1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/posts/2018/02/como-criar-seu-primeiro-jogo-com-pygame-1/"
+                />
+  </url><url>
+    <loc>/posts/2018/01/postagens-no-blog-da-impacto-maker/</loc>
+    <lastmod>2018-01-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="br"
+                href="/br/posts/2018/01/postagens-no-blog-da-impacto-maker/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/posts/2018/01/postagens-no-blog-da-impacto-maker/"
+                />
+  </url><url>
+    <loc>/posts/2018/01/postagens-no-blog-do-php-maranh%C3%A3o/</loc>
+    <lastmod>2018-01-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="br"
+                href="/br/posts/2018/01/postagens-no-blog-do-php-maranh%C3%A3o/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/posts/2018/01/postagens-no-blog-do-php-maranh%C3%A3o/"
+                />
+  </url><url>
+    <loc>/posts/2017/10/8-php-voc%C3%AA-tem-a-ver-com-isso/</loc>
+    <lastmod>2017-10-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="br"
+                href="/br/posts/2017/10/8-php-voc%C3%AA-tem-a-ver-com-isso/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/posts/2017/10/8-php-voc%C3%AA-tem-a-ver-com-isso/"
+                />
+  </url><url>
+    <loc>/tags/old/</loc>
+    <lastmod>2017-10-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="br"
+                href="/br/tags/old/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/old/"
+                />
+  </url><url>
+    <loc>/posts/2017/10/startup-weekend-3-experience/</loc>
+    <lastmod>2017-10-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="br"
+                href="/br/posts/2017/10/startup-weekend-3-experience/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/posts/2017/10/startup-weekend-3-experience/"
+                />
+  </url><url>
+    <loc>/posts/2017/10/usando-o-docker-start/</loc>
+    <lastmod>2017-10-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="br"
+                href="/br/posts/2017/10/usando-o-docker-start/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/posts/2017/10/usando-o-docker-start/"
+                />
+  </url><url>
+    <loc>/posts/2017/09/compreendendo-containers-uma-introdu%C3%A7%C3%A3o-ao-docker/</loc>
+    <lastmod>2017-09-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="br"
+                href="/br/posts/2017/09/compreendendo-containers-uma-introdu%C3%A7%C3%A3o-ao-docker/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/posts/2017/09/compreendendo-containers-uma-introdu%C3%A7%C3%A3o-ao-docker/"
+                />
+  </url><url>
+    <loc>/posts/2017/08/startup-weekend-2-upping/</loc>
+    <lastmod>2017-08-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="br"
+                href="/br/posts/2017/08/startup-weekend-2-upping/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/posts/2017/08/startup-weekend-2-upping/"
+                />
+  </url><url>
+    <loc>/posts/2017/08/startup-weekend-1-o-dia-em-que-eu-fui-destru%C3%ADdo/</loc>
+    <lastmod>2017-08-08T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="br"
+                href="/br/posts/2017/08/startup-weekend-1-o-dia-em-que-eu-fui-destru%C3%ADdo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/posts/2017/08/startup-weekend-1-o-dia-em-que-eu-fui-destru%C3%ADdo/"
+                />
+  </url><url>
+    <loc>/posts/2017/01/8-php-humans-begin/</loc>
+    <lastmod>2017-01-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="br"
+                href="/br/posts/2017/01/8-php-humans-begin/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/posts/2017/01/8-php-humans-begin/"
+                />
   </url><url>
     <loc>/projects/</loc>
   </url><url>
     <loc>/series/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="pt-br"
-                href="/pt-br/series/"
+                hreflang="br"
+                href="/br/series/"
                 />
     <xhtml:link
                 rel="alternate"

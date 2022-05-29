@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>personal on Atmos Maciel</title>
+    <link>/br/tags/personal/</link>
+    <description>Recent content in personal on Atmos Maciel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Thu, 23 Apr 2020 00:00:00 +0000</lastBuildDate><atom:link href="/br/tags/personal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>30 dias de Quarentena</title>
+      <link>/br/posts/2020/04/30-dias-de-quarentena/</link>
+      <pubDate>Thu, 23 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/br/posts/2020/04/30-dias-de-quarentena/</guid>
+      <description>Aonde eu trabalho ficou estabelecido o remoto na modalidade Home Office que no Brasil, pela regulamentação, é chamado de Teletrabalho. E já que tem um monte de gente dando opniões e comentando sobre esse momento, alguns de forma boa, outros de forma ruim, eu decidi que também quero deixar meus dois centavos sobre tudo que está acontecendo.
+Sobre o COVID - 19 e Trabalho Demorei alguns dias para me adaptar ao Home Office, alguns dias não, na verdade foram umas duas semanas.</description>
+    </item>
+    
+    <item>
+      <title>Trabalho remoto, quarentena e projetos</title>
+      <link>/br/posts/2020/03/trabalho-remoto-quarentena-e-projetos/</link>
+      <pubDate>Mon, 30 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/br/posts/2020/03/trabalho-remoto-quarentena-e-projetos/</guid>
+      <description>É março, e 2020 já mostrou para o que veio. Depois de passarmos por tensões no começo do ano entre potências mundiais, agora estamos vivendo uma pandemia por conta do Corona Vírus(COVID-19). O mercado financeiro está uma loucura, no momento deste artigo já foram ativados 6 circuit breaks em pouco mais de duas semanas. Os governos mundiais começaram a tomar medidas de isolamento social e dentro dos países os políticos e empresários estão trabalhando maneiras de adptar-se de forma mais urgente a situação.</description>
+    </item>
+    
+    <item>
+      <title>Eu vendi meu tempo de Leitura</title>
+      <link>/br/posts/2020/02/eu-vendi-meu-tempo-de-leitura/</link>
+      <pubDate>Tue, 11 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/br/posts/2020/02/eu-vendi-meu-tempo-de-leitura/</guid>
+      <description>Estou terminando de ler o livro sobre o maldito gênio desgraçado e fodah que está fazendo coisas do car*lho no mundo, Elon Musk. Postei uma foto do livro no historie do instagram enquanto eu lia, e um amigo me respondeu da seguinte maneiras:
+ &amp;ldquo;Tá com tempo né?&amp;rdquo;
+ Respondi:
+ &amp;ldquo;Pra ler, sempre. Você deveria arranjar tempo pra isso também.&amp;rdquo;
+ Resposta:
+ &amp;ldquo;Eu vendi meu tempo de leitura.&amp;rdquo;</description>
+    </item>
+    
+    <item>
+      <title>Verificando se determinada porta está em uso no seu sistema operacional</title>
+      <link>/br/posts/2020/01/verificando-se-determinada-porta-est%C3%A1-em-uso-no-seu-sistema-operacional/</link>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/br/posts/2020/01/verificando-se-determinada-porta-est%C3%A1-em-uso-no-seu-sistema-operacional/</guid>
+      <description>Considerações iniciais: as informações contidas neste texto, só funcionam para sistemas baseados no Unix.
+Já passou por aquela situação de ter vários containers docker startados em portas diferentes, aí você tenta subir um novo containar e o terminal joga na sua cara que a porta já está em uso? Ou mesmo os built-in web servers do PHP, Node ou Python, já estão usando portas que vocês gostaria de usar?
+Eu também já passei por isso, há uma forma de saber se a porta já está sendo usada e/ou algumas informações sobre ela.</description>
+    </item>
+    
+    <item>
+      <title>Como instalar o Spotify em algumas distros Linux</title>
+      <link>/br/posts/2020/01/como-instalar-o-spotify-em-algumas-distros-linux/</link>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/br/posts/2020/01/como-instalar-o-spotify-em-algumas-distros-linux/</guid>
+      <description>Eu não consigo trabalhar não escutando um bom som. Pra isso eu uso o Spotify. Para instalar qualquer coisa eu sempre, sempre prefiro utilizar a documentação oficial, e pra minha sorte, todas as distros que eu uso, testo ou pretendo usar possuem em suas documentações as formas e recomendações para instalar as coisas da forma como devem ser feitas, e isto inclue o Spotify também. :)
+Para instalar no Debian/Ubuntu O próprio Spotify diz como: https://www.</description>
+    </item>
+    
+    <item>
+      <title>Configurando o git para usá-lo com proxy</title>
+      <link>/br/posts/2020/01/configurando-o-git-para-us%C3%A1-lo-com-proxy/</link>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/br/posts/2020/01/configurando-o-git-para-us%C3%A1-lo-com-proxy/</guid>
+      <description>No meu outro texto eu escrevi sobre configurações de proxy no Ubuntu e Fedora, mesmo quando aplicadas no S.O de forma global, as configurações de proxy não são propagadas para todos os programas do sistema. Um caso deste é o git, e caso esteja sob uma rede com proxy usando git, provavelmente precise aplicar as configurações de proxy para ele. Para minha sorte eu também já havia preparado um gist com todas as configurações necessárias, na verdade, eu não preparei nada, quem preparou foi o evantoli, mas eu fiz uma tradução para pt-BR e deixei nos meus gists, aqui.</description>
+    </item>
+    
+    <item>
+      <title>Instalando o PHP em distribuições Linux baseadas em Debian</title>
+      <link>/br/posts/2020/01/instalando-o-php-em-distribui%C3%A7%C3%B5es-linux-baseadas-em-debian/</link>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/br/posts/2020/01/instalando-o-php-em-distribui%C3%A7%C3%B5es-linux-baseadas-em-debian/</guid>
+      <description>As distros que eu uso atualmente são o Fedora e o Ubuntu, o Fedora me deixa muito feliz com a forma como ele gerencia suas dependências de forma organizada e inteligente. É uma distro muito boa pra se trabalhar com desenvolvimento, as configurações são simples, o sitema não é cheio de coisas mirabolantes que só servem pra atrapalhar e você tem autonomia pra bagunçar bastante o S.O e errar pra aprender.</description>
+    </item>
+    
+  </channel>
+</rss>
