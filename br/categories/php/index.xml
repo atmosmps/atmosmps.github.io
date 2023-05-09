@@ -10,28 +10,28 @@
     <lastBuildDate>Sun, 16 Feb 2020 00:00:00 +0000</lastBuildDate><atom:link href="/br/categories/php/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Convertendo uma requisição json para um array no Symfony</title>
-      <link>/br/posts/2020/02/convertendo-uma-requisi%C3%A7%C3%A3o-json-para-um-array-no-symfony/</link>
+      <link>/br/blog/converting-a-json-request-to-an-array-in-symfony/</link>
       <pubDate>Sun, 16 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>/br/posts/2020/02/convertendo-uma-requisi%C3%A7%C3%A3o-json-para-um-array-no-symfony/</guid>
+      <guid>/br/blog/converting-a-json-request-to-an-array-in-symfony/</guid>
       <description>Convertendo uma requisição json para um array no Symfony.</description>
     </item>
     
     <item>
       <title>Instalando o PHP em distribuições Linux baseadas em Debian</title>
-      <link>/br/posts/2020/01/instalando-o-php-em-distribui%C3%A7%C3%B5es-linux-baseadas-em-debian/</link>
+      <link>/br/blog/installing-php-on-debian-based-linux-distributions/</link>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>/br/posts/2020/01/instalando-o-php-em-distribui%C3%A7%C3%B5es-linux-baseadas-em-debian/</guid>
+      <guid>/br/blog/installing-php-on-debian-based-linux-distributions/</guid>
       <description>As distros que eu uso atualmente são o Fedora e o Ubuntu, o Fedora me deixa muito feliz com a forma como ele gerencia suas dependências de forma organizada e inteligente. É uma distro muito boa pra se trabalhar com desenvolvimento, as configurações são simples, o sitema não é cheio de coisas mirabolantes que só servem pra atrapalhar e você tem autonomia pra bagunçar bastante o S.O e errar pra aprender.</description>
     </item>
     
     <item>
       <title>PHP Maranhão sob nova direção</title>
-      <link>/br/posts/2019/02/php-maranh%C3%A3o-sob-nova-dire%C3%A7%C3%A3o/</link>
+      <link>/br/blog/php-maranhao-under-new-direction/</link>
       <pubDate>Tue, 12 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/br/posts/2019/02/php-maranh%C3%A3o-sob-nova-dire%C3%A7%C3%A3o/</guid>
+      <guid>/br/blog/php-maranhao-under-new-direction/</guid>
       <description>PHP Maranhão sob nova direção.</description>
     </item>
     

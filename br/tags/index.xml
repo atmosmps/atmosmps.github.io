@@ -71,5 +71,32 @@
       <description></description>
     </item>
     
+    <item>
+      <title>linux</title>
+      <link>/br/tags/linux/</link>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/br/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>me-to-me</title>
+      <link>/br/tags/me-to-me/</link>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/br/tags/me-to-me/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>git</title>
+      <link>/br/tags/git/</link>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/br/tags/git/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

@@ -71,5 +71,32 @@
       <description></description>
     </item>
     
+    <item>
+      <title>configs</title>
+      <link>/br/categories/configs/</link>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/br/categories/configs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>linux</title>
+      <link>/br/categories/linux/</link>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/br/categories/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>git</title>
+      <link>/br/categories/git/</link>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/br/categories/git/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

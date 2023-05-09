@@ -10,10 +10,10 @@
     <lastBuildDate>Tue, 04 Feb 2020 00:00:00 +0000</lastBuildDate><atom:link href="/br/tags/reactjs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dockerizando uma aplicação React JS</title>
-      <link>/br/posts/2020/02/dockerizando-uma-aplica%C3%A7%C3%A3o-react-js/</link>
+      <link>/br/blog/dockerizing-a-reactjs-application/</link>
       <pubDate>Tue, 04 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>/br/posts/2020/02/dockerizando-uma-aplica%C3%A7%C3%A3o-react-js/</guid>
+      <guid>/br/blog/dockerizing-a-reactjs-application/</guid>
       <description>Manter minha frequência de escrita este ano será um grande sacrifício. Mas eu estou tentando. Eu acabei de voltar a escrever também no meu perfil no Medium, que há muito não fazia. Eu particularmente não gosto de escrever nada técnico no Medium, acho a plataforma pobre para formatação em markdown, mas é o que está na moda e por isso eu uso, afinal de contas é importante escrever e ser encontrado.</description>
     </item>
     

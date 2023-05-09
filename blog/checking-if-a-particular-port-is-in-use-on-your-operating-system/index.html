@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="author" content="Atmos Maciel ">
+<meta name="description" content="Coisas simples e chatas que precisam ser feitas de vez em quando..." />
+<meta name="keywords" content=", personal, me-to-me, linux" />
+<meta name="robots" content="noodp" />
+<meta name="theme-color" content="" />
+<link rel="canonical" href="/blog/checking-if-a-particular-port-is-in-use-on-your-operating-system/" />
+
+
+    <title>
+        
+            Verificando se determinada porta está em uso no seu sistema operacional :: Atmos Maciel  — Vi veri universum vivus vici.
+        
+    </title>
+
+
+
+<link href="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/css/flag-icon.min.css" rel="stylesheet"
+    type="text/css">
+
+
+
+<link rel="stylesheet" href="/main.5d2d8a18992c475a21fe8bc4db360aac9c162f1ede7a7a41508942e3483b8c68.css">
+
+
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="">
+    <link rel="shortcut icon" href="/favicon.ico">
+    <meta name="msapplication-TileColor" content="">
+
+
+<meta itemprop="name" content="Verificando se determinada porta está em uso no seu sistema operacional">
+<meta itemprop="description" content="Coisas simples e chatas que precisam ser feitas de vez em quando..."><meta itemprop="datePublished" content="2020-01-09T00:00:00+00:00" />
+<meta itemprop="dateModified" content="2020-01-09T00:00:00+00:00" />
+<meta itemprop="wordCount" content="258"><meta itemprop="image" content="/"/>
+<meta itemprop="keywords" content="personal,me-to-me,linux," />
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:image" content="/"/>
+
+<meta name="twitter:title" content="Verificando se determinada porta está em uso no seu sistema operacional"/>
+<meta name="twitter:description" content="Coisas simples e chatas que precisam ser feitas de vez em quando..."/>
+
+
+
+
+    <meta property="og:title" content="Verificando se determinada porta está em uso no seu sistema operacional" />
+<meta property="og:description" content="Coisas simples e chatas que precisam ser feitas de vez em quando..." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="/blog/checking-if-a-particular-port-is-in-use-on-your-operating-system/" /><meta property="og:image" content="/"/><meta property="article:section" content="blog" />
+<meta property="article:published_time" content="2020-01-09T00:00:00+00:00" />
+<meta property="article:modified_time" content="2020-01-09T00:00:00+00:00" />
+
+
+
+
+
+    <meta property="article:section" content="configs" />
+
+    <meta property="article:section" content="linux" />
+
+
+
+    <meta property="article:published_time" content="2020-01-09 00:00:00 &#43;0000 UTC" />
+
+
+
+
+
+
+
+
+
+
+    </head>
+
+    
+        <body>
+    
+    
+        <div class="container">
+            <header class="header">
+    <span class="header__inner">
+        <a href="/br" style="text-decoration: none;">
+    <div class="logo">
+        
+            <span class="logo__mark">&gt;</span>
+            <span class="logo__text">$ /atmosmps</span>
+            <span class="logo__cursor" style=
+                  "
+                   background-color:#1B9886;
+                   animation-duration:1s;">
+            </span>
+        
+    </div>
+</a>
+
+
+        <span class="header__right">
+            
+                <nav class="menu">
+    <ul class="menu__inner"><li><a href="/about/">About</a></li><li><a href="/blog/">Blog</a></li><li><a href="/projects/">Projects</a></li>
+        <div class="submenu">
+            <li class="dropdown">
+                <a href="javascript:void(0)" class="dropbtn">en</a>
+                <div class="dropdown-content">
+                    
+                        
+                            <a title="br" href="/br/blog/checking-if-a-particular-port-is-in-use-on-your-operating-system/">br</a>
+                        
+                    
+                </div>
+            </li>
+        </div>
+    </ul>
+</nav>
+
+                <span class="menu-trigger">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+                        <path d="M0 0h24v24H0z" fill="none"/>
+                        <path d="M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z"/>
+                    </svg>
+                </span>
+            
+                <span class="theme-toggle not-selectable"><svg class="theme-toggler" width="24" height="24" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+   <path d="M22 41C32.4934 41 41 32.4934 41 22C41 11.5066 32.4934 3 22
+   3C11.5066 3 3 11.5066 3 22C3 32.4934 11.5066 41 22 41ZM7 22C7
+   13.7157 13.7157 7 22 7V37C13.7157 37 7 30.2843 7 22Z"/>
+ </svg></span>
+        </span>
+    </span>
+</header>
+
+
+            <div class="content">
+                
+    <main class="post">
+
+        <div class="post-info">
+            
+                Also available in
+                
+                    <a href="/br/blog/checking-if-a-particular-port-is-in-use-on-your-operating-system/"><span class="flag flag-icon flag-icon- flag-icon-squared"></span></a>
+                
+            
+            </p>
+        </div>
+
+        <article>
+            <h2 class="post-title"><a href="/blog/checking-if-a-particular-port-is-in-use-on-your-operating-system/">Verificando se determinada porta está em uso no seu sistema operacional</a></h2>
+
+            
+            
+            
+
+            <div class="post-content">
+                <p><em>Considerações iniciais: as informações contidas neste texto, só funcionam para sistemas baseados no Unix.</em></p>
+<p>Já passou por aquela situação de ter vários containers docker <em>startados</em> em portas diferentes, aí você tenta subir um novo containar e o terminal joga na sua cara que a porta já está em uso? Ou mesmo os <em>built-in web servers</em> do PHP, Node ou Python, já estão usando portas que vocês gostaria de usar?</p>
+<p>Eu também já passei por isso, há uma forma de saber se a porta já está sendo usada e/ou algumas informações sobre ela. No Linux, basta utilizar o seguinte comando:</p>
+<p><code>lsof -i TCP:PORT</code></p>
+<p>ex: <code>lsof -i TCP:1313</code></p>
+<p>Se porta estiver sendo utilizada o comando irá retornar algumas informações sobre ela. O comando irá retornar uma saída semelhante a esta:</p>
+<pre tabindex="0"><code>COMMAND   PID     USER FD TYPE DEVICE SIZE/OFF NODE NAME
+hugo    28013 atmosmps 9u IPv4 141117      0t0  TCP localhost:xtel (LISTEN)
+</code></pre><p>Com isto você pode identificar quem está usando a porta finalizar o processo, ou você pode simplesmente matar o processo da seguinte maneira: <code>kill -9 PID</code>.</p>
+<p><strong>O que significa lsof?</strong></p>
+<p><code>lsof</code> siginifica <em>List Of Open File</em>. Arquivos são muito importantes no Unix, toda vez que estiver trabalhando no Linux/Unix poderá haver vários arquivos e pastas que estarão sendo utilizadas. Este comando fornece uma lista de arquivos que estão abertos. Basicamente, fornece as informações para descobrir os arquivos que estão abertos e por qual processo. De uma só vez, lista todos os arquivos abertos no console de saída.</p>
+<p>Aqui você encontra mais informações sobre o <a href="https://www.geeksforgeeks.org/lsof-command-in-linux-with-examples/">lsof e formas de utilizá-lo</a>.</p>
+<p>É isso.</p>
+
+            </div>
+        </article>
+
+        <hr />
+
+        <div class="post-info">
+            
+    <p>
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-tag meta-icon"><path d="M20.59 13.41l-7.17 7.17a2 2 0 0 1-2.83 0L2 12V2h10l8.59 8.59a2 2 0 0 1 0 2.82z"></path><line x1="7" y1="7" x2="7" y2="7"></line></svg>
+
+        <span class="tag"><a href="/tags/personal/">personal</a></span>
+        <span class="tag"><a href="/tags/me-to-me/">me-to-me</a></span>
+        <span class="tag"><a href="/tags/linux/">linux</a></span>
+        
+    </p>
+
+            
+    <p>
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-folder meta-icon"><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path></svg>
+
+        <span class="tag"><a href="/categories/configs/">configs</a></span>
+        <span class="tag"><a href="/categories/linux/">linux</a></span>
+        
+    </p>
+
+  		</div>
+    </main>
+
+            </div>
+
+            
+                <footer class="footer">
+    
+    <div class="footer__inner">
+        <div class="footer__content">
+            <span>&copy; 2023</span>
+            <span><a href="/">Atmos Maciel</a></span>
+            <span><a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a></span>
+            <span><a href="/posts/index.xml" target="_blank" title="rss"><svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-rss"><path d="M4 11a9 9 0 0 1 9 9"></path><path d="M4 4a16 16 0 0 1 16 16"></path><circle cx="5" cy="19" r="1"></circle></svg></a></span>
+            
+        </div>
+    </div>
+    
+    
+    <div class="footer__inner">
+        <div class="footer__content">
+            <span>Powered by <a href="http://gohugo.io">Hugo</a></span><span>Made with &#10084; by <a href="https://github.com/rhazdon">Djordje Atlialp</a></span>
+        </div>
+    </div>
+    
+</footer>
+
+            
+        </div>
+
+        
+
+
+
+<script type="text/javascript" src="/bundle.min.599099f1f14b78b657d524b28e10e0c5098e7cd46e9c7aed73d577068a276c3ff1bb234cbf29cb313333e83cf411727b43157c91ce5b809e2ffc81664614608e.js" integrity="sha512-WZCZ8fFLeLZX1SSyjhDgxQmOfNRunHrtc9V3BoonbD/xuyNMvynLMTMz6Dz0EXJ7QxV8kc5bgJ4v/IFmRhRgjg=="></script>
+
+
+
+    </body>
+</html>

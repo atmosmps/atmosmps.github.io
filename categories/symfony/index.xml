@@ -10,10 +10,10 @@
     <lastBuildDate>Sun, 16 Feb 2020 00:00:00 +0000</lastBuildDate><atom:link href="/categories/symfony/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Convertendo uma requisição json para um array no Symfony</title>
-      <link>/posts/2020/02/convertendo-uma-requisi%C3%A7%C3%A3o-json-para-um-array-no-symfony/</link>
+      <link>/blog/converting-a-json-request-to-an-array-in-symfony/</link>
       <pubDate>Sun, 16 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>/posts/2020/02/convertendo-uma-requisi%C3%A7%C3%A3o-json-para-um-array-no-symfony/</guid>
+      <guid>/blog/converting-a-json-request-to-an-array-in-symfony/</guid>
       <description>Convertendo uma requisição json para um array no Symfony.</description>
     </item>
     

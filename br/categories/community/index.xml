@@ -10,65 +10,92 @@
     <lastBuildDate>Tue, 26 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="/br/categories/community/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Empreendedorismo e Tecnologia: desafios e vivências de um Dev</title>
-      <link>/br/posts/2019/02/empreendedorismo-e-tecnologia-desafios-e-viv%C3%AAncias-de-um-dev/</link>
+      <link>/br/blog/entrepreneurship-and-technology-challenges-and-experiences-of-a-dev/</link>
       <pubDate>Tue, 26 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/br/posts/2019/02/empreendedorismo-e-tecnologia-desafios-e-viv%C3%AAncias-de-um-dev/</guid>
+      <guid>/br/blog/entrepreneurship-and-technology-challenges-and-experiences-of-a-dev/</guid>
       <description>Empreendedorismo e Tecnologia: desafios e vivências de um Dev.</description>
     </item>
     
     <item>
       <title>Impacto Maker nas comunidades</title>
-      <link>/br/posts/2019/02/impacto-maker-nas-comunidades/</link>
+      <link>/br/blog/impacto-maker-in-the-communities/</link>
       <pubDate>Wed, 13 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/br/posts/2019/02/impacto-maker-nas-comunidades/</guid>
+      <guid>/br/blog/impacto-maker-in-the-communities/</guid>
       <description>Impacto Maker nas comunidades.</description>
     </item>
     
     <item>
       <title>PHP Maranhão sob nova direção</title>
-      <link>/br/posts/2019/02/php-maranh%C3%A3o-sob-nova-dire%C3%A7%C3%A3o/</link>
+      <link>/br/blog/php-maranhao-under-new-direction/</link>
       <pubDate>Tue, 12 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/br/posts/2019/02/php-maranh%C3%A3o-sob-nova-dire%C3%A7%C3%A3o/</guid>
+      <guid>/br/blog/php-maranhao-under-new-direction/</guid>
       <description>PHP Maranhão sob nova direção.</description>
     </item>
     
     <item>
       <title>Postagens no Blog da Impacto Maker</title>
-      <link>/br/posts/2018/01/postagens-no-blog-da-impacto-maker/</link>
+      <link>/br/blog/impacto-maker-blog/</link>
       <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/br/posts/2018/01/postagens-no-blog-da-impacto-maker/</guid>
+      <guid>/br/blog/impacto-maker-blog/</guid>
       <description>Hello World.</description>
     </item>
     
     <item>
       <title>Postagens no Blog do PHP Maranhão</title>
-      <link>/br/posts/2018/01/postagens-no-blog-do-php-maranh%C3%A3o/</link>
+      <link>/br/blog/php-maranhao-blog/</link>
       <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/br/posts/2018/01/postagens-no-blog-do-php-maranh%C3%A3o/</guid>
+      <guid>/br/blog/php-maranhao-blog/</guid>
       <description>Hello World.</description>
     </item>
     
     <item>
       <title>8 php - você tem a ver com isso</title>
-      <link>/br/posts/2017/10/8-php-voc%C3%AA-tem-a-ver-com-isso/</link>
+      <link>/br/blog/8-php-you-have-to-do-with-it/</link>
       <pubDate>Fri, 27 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>/br/posts/2017/10/8-php-voc%C3%AA-tem-a-ver-com-isso/</guid>
+      <guid>/br/blog/8-php-you-have-to-do-with-it/</guid>
       <description>8 php - você tem a ver com isso.</description>
     </item>
     
     <item>
       <title>Startup Weekend - 3: experience</title>
-      <link>/br/posts/2017/10/startup-weekend-3-experience/</link>
+      <link>/br/blog/startup-weekend-part-three/</link>
       <pubDate>Mon, 16 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>/br/posts/2017/10/startup-weekend-3-experience/</guid>
+      <guid>/br/blog/startup-weekend-part-three/</guid>
       <description>Startup Weekend - 3: experience.</description>
+    </item>
+    
+    <item>
+      <title>Startup Weekend - 2: upping</title>
+      <link>/br/blog/startup-weekend-part-two/</link>
+      <pubDate>Wed, 09 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/br/blog/startup-weekend-part-two/</guid>
+      <description>Startup Weekend - 2: upping.</description>
+    </item>
+    
+    <item>
+      <title>Startup Weekend - 1: o dia em que eu fui destruído</title>
+      <link>/br/blog/startup-weekend-part-one/</link>
+      <pubDate>Tue, 08 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/br/blog/startup-weekend-part-one/</guid>
+      <description>Startup Weekend - 1: o dia em que eu fui destruído.</description>
+    </item>
+    
+    <item>
+      <title>8 PHP Humans Begin</title>
+      <link>/br/blog/8-php-humans-begins/</link>
+      <pubDate>Fri, 20 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/br/blog/8-php-humans-begins/</guid>
+      <description>8 PHP Humans Begin.</description>
     </item>
     
   </channel>
