@@ -80,18 +80,36 @@
 .social-icons li {
   width: 45px;
   height: 45px;
-  border: 1px solid #eee;
   margin: 0 5px;
   display: flex;
   justify-content: center;
   align-items: center;
-  color: #fff;
+  border: 1px solid #eee;
   border-radius: 5px;
   transition: all 0.5s;
 }
 
 .social-icons li:hover {
   background: #fff;
+  color: #000;
+}
+.social-icons li a {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;
+  transition: color 0.5s;
+}
+
+.social-icons li:hover {
+  background: #fff;
+}
+
+.social-icons li:hover a {
   color: #000;
 }
 </style>
@@ -105,24 +123,16 @@
           <span>Software Engineer | Backend Developer</span>
       </div>
       <ul class="social-icons">
-          <li title="GitHub"><a href="https://github.com/atmosmps" target="_blank"><i class="fa fa-github"></i></a></li>
-          <li title="Hashnode"><a href="https://hashnode.com/@atmosmps" target="_blank"><i class="fa fa-code"></i></a></li>
-          <li title="LinkedIn"><a href="https://www.linkedin.com/in/atmosmps" target="_blank"><i class="fa fa-linkedin"></i></a></li>
-          <li title="Instagram"><a href="https://www.instagram.com/atmosmps" target="_blank"><i class="fa fa-instagram"></i></a></li>
-          <li title="Notes"><a href="https://atmosmps.hashnode.dev/" target="_blank"><i class="fa fa-pencil"></i></a></li>
-          <li title="Contact"><a href="https://atmosmps.hashnode.dev/contact-me" target="_blank"><i class="fa fa-envelope"></i></a></li>
+          <li><a href="https://github.com/atmosmps" target="_blank" title="GitHub"><i class="fa fa-github"></i></a></li>
+          <li><a href="https://hashnode.com/@atmosmps" target="_blank" title="Hashnode"><i class="fa fa-code"></i></a></li>
+          <li><a href="https://www.linkedin.com/in/atmosmps" target="_blank" title="LinkedIn"><i class="fa fa-linkedin"></i></a></li>
+          <li><a href="https://www.instagram.com/atmosmps" target="_blank" title="Instagram"><i class="fa fa-instagram"></i></a></li>
+          <li><a href="https://atmosmps.hashnode.dev/" target="_blank" title="Notes"><i class="fa fa-pencil"></i></a></li>
+          <li><a href="https://atmosmps.hashnode.dev/contact-me" target="_blank" title="Contact"><i class="fa fa-envelope"></i></a></li>
       </ul>
     </div>
   </div>
 </div>
 <script type='text/javascript' src='https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-alpha1/dist/js/bootstrap.bundle.min.js'></script>
-<script type='text/javascript'>
-  var myLink = document.querySelector('a[href="#"]');
-  if (myLink) {
-    myLink.addEventListener('click', function(e) {
-      e.preventDefault();
-    });
-  }
-</script>
 </body>
 </html>
