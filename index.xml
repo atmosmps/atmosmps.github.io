@@ -7,7 +7,7 @@
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Wed, 06 Nov 2024 11:45:04 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 06 Nov 2024 12:55:59 -0300</lastBuildDate>
     <atom:link href="https://atmosmps.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
@@ -21,7 +21,7 @@
       <link>https://atmosmps.github.io/contact/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://atmosmps.github.io/contact/</guid>
-      <description>&lt;ul&gt;&#xA;&lt;li&gt;Email: &lt;a href=&#34;mailto:atmosmps@proton.me&#34;&gt;atmosmps@proton.me&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Telegram(quickly): &lt;a href=&#34;https://t.me/atmosmps&#34;&gt;https://t.me/atmosmps&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;Email: &lt;a href=&#34;mailto:atmosmps@proton.me&#34;&gt;atmosmps@proton.me&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Telegram(quickly): &lt;a href=&#34;https://t.me/atmosmps/&#34;&gt;https://t.me/atmosmps/&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Como limpar recursos (não utilizados) do Docker</title>
