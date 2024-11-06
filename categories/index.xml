@@ -2,109 +2,109 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Atmos Maciel</title>
-    <link>//localhost:1313/categories/</link>
+    <link>https://atmosmps.github.io/categories/</link>
     <description>Recent content in Categories on Atmos Maciel</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Wed, 06 Nov 2024 10:53:38 -0300</lastBuildDate>
-    <atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://atmosmps.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Containers</title>
-      <link>//localhost:1313/categories/containers/</link>
+      <link>https://atmosmps.github.io/categories/containers/</link>
       <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/categories/containers/</guid>
+      <guid>https://atmosmps.github.io/categories/containers/</guid>
       <description></description>
     </item>
     <item>
       <title>Docker</title>
-      <link>//localhost:1313/categories/docker/</link>
+      <link>https://atmosmps.github.io/categories/docker/</link>
       <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/categories/docker/</guid>
+      <guid>https://atmosmps.github.io/categories/docker/</guid>
       <description></description>
     </item>
     <item>
       <title>Blog</title>
-      <link>//localhost:1313/categories/blog/</link>
+      <link>https://atmosmps.github.io/categories/blog/</link>
       <pubDate>Thu, 23 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/categories/blog/</guid>
+      <guid>https://atmosmps.github.io/categories/blog/</guid>
       <description></description>
     </item>
     <item>
       <title>Php</title>
-      <link>//localhost:1313/categories/php/</link>
+      <link>https://atmosmps.github.io/categories/php/</link>
       <pubDate>Sun, 16 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/categories/php/</guid>
+      <guid>https://atmosmps.github.io/categories/php/</guid>
       <description></description>
     </item>
     <item>
       <title>Symfony</title>
-      <link>//localhost:1313/categories/symfony/</link>
+      <link>https://atmosmps.github.io/categories/symfony/</link>
       <pubDate>Sun, 16 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/categories/symfony/</guid>
+      <guid>https://atmosmps.github.io/categories/symfony/</guid>
       <description></description>
     </item>
     <item>
       <title>Tech</title>
-      <link>//localhost:1313/categories/tech/</link>
+      <link>https://atmosmps.github.io/categories/tech/</link>
       <pubDate>Sun, 16 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/categories/tech/</guid>
+      <guid>https://atmosmps.github.io/categories/tech/</guid>
       <description></description>
     </item>
     <item>
       <title>Reactjs</title>
-      <link>//localhost:1313/categories/reactjs/</link>
+      <link>https://atmosmps.github.io/categories/reactjs/</link>
       <pubDate>Tue, 04 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/categories/reactjs/</guid>
+      <guid>https://atmosmps.github.io/categories/reactjs/</guid>
       <description></description>
     </item>
     <item>
       <title>Configs</title>
-      <link>//localhost:1313/categories/configs/</link>
+      <link>https://atmosmps.github.io/categories/configs/</link>
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/categories/configs/</guid>
+      <guid>https://atmosmps.github.io/categories/configs/</guid>
       <description></description>
     </item>
     <item>
       <title>Linux</title>
-      <link>//localhost:1313/categories/linux/</link>
+      <link>https://atmosmps.github.io/categories/linux/</link>
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/categories/linux/</guid>
+      <guid>https://atmosmps.github.io/categories/linux/</guid>
       <description></description>
     </item>
     <item>
       <title>Git</title>
-      <link>//localhost:1313/categories/git/</link>
+      <link>https://atmosmps.github.io/categories/git/</link>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/categories/git/</guid>
+      <guid>https://atmosmps.github.io/categories/git/</guid>
       <description></description>
     </item>
     <item>
       <title>Python</title>
-      <link>//localhost:1313/categories/python/</link>
+      <link>https://atmosmps.github.io/categories/python/</link>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/categories/python/</guid>
+      <guid>https://atmosmps.github.io/categories/python/</guid>
       <description></description>
     </item>
     <item>
       <title>Community</title>
-      <link>//localhost:1313/categories/community/</link>
+      <link>https://atmosmps.github.io/categories/community/</link>
       <pubDate>Tue, 26 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/categories/community/</guid>
+      <guid>https://atmosmps.github.io/categories/community/</guid>
       <description></description>
     </item>
     <item>
       <title>Startup</title>
-      <link>//localhost:1313/categories/startup/</link>
+      <link>https://atmosmps.github.io/categories/startup/</link>
       <pubDate>Tue, 26 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/categories/startup/</guid>
+      <guid>https://atmosmps.github.io/categories/startup/</guid>
       <description></description>
     </item>
     <item>
       <title>Pygame</title>
-      <link>//localhost:1313/categories/pygame/</link>
+      <link>https://atmosmps.github.io/categories/pygame/</link>
       <pubDate>Thu, 08 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/categories/pygame/</guid>
+      <guid>https://atmosmps.github.io/categories/pygame/</guid>
       <description></description>
     </item>
   </channel>

@@ -2,116 +2,116 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Atmos Maciel</title>
-    <link>//localhost:1313/tags/</link>
+    <link>https://atmosmps.github.io/tags/</link>
     <description>Recent content in Tags on Atmos Maciel</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Wed, 06 Nov 2024 10:53:38 -0300</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://atmosmps.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Containers</title>
-      <link>//localhost:1313/tags/containers/</link>
+      <link>https://atmosmps.github.io/tags/containers/</link>
       <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/containers/</guid>
+      <guid>https://atmosmps.github.io/tags/containers/</guid>
       <description></description>
     </item>
     <item>
       <title>Docker</title>
-      <link>//localhost:1313/tags/docker/</link>
+      <link>https://atmosmps.github.io/tags/docker/</link>
       <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/docker/</guid>
+      <guid>https://atmosmps.github.io/tags/docker/</guid>
       <description></description>
     </item>
     <item>
       <title>Personal</title>
-      <link>//localhost:1313/tags/personal/</link>
+      <link>https://atmosmps.github.io/tags/personal/</link>
       <pubDate>Thu, 23 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/personal/</guid>
+      <guid>https://atmosmps.github.io/tags/personal/</guid>
       <description></description>
     </item>
     <item>
       <title>Php</title>
-      <link>//localhost:1313/tags/php/</link>
+      <link>https://atmosmps.github.io/tags/php/</link>
       <pubDate>Sun, 16 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/php/</guid>
+      <guid>https://atmosmps.github.io/tags/php/</guid>
       <description></description>
     </item>
     <item>
       <title>Symfony</title>
-      <link>//localhost:1313/tags/symfony/</link>
+      <link>https://atmosmps.github.io/tags/symfony/</link>
       <pubDate>Sun, 16 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/symfony/</guid>
+      <guid>https://atmosmps.github.io/tags/symfony/</guid>
       <description></description>
     </item>
     <item>
       <title>Tech</title>
-      <link>//localhost:1313/tags/tech/</link>
+      <link>https://atmosmps.github.io/tags/tech/</link>
       <pubDate>Sun, 16 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/tech/</guid>
+      <guid>https://atmosmps.github.io/tags/tech/</guid>
       <description></description>
     </item>
     <item>
       <title>Reactjs</title>
-      <link>//localhost:1313/tags/reactjs/</link>
+      <link>https://atmosmps.github.io/tags/reactjs/</link>
       <pubDate>Tue, 04 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/reactjs/</guid>
+      <guid>https://atmosmps.github.io/tags/reactjs/</guid>
       <description></description>
     </item>
     <item>
       <title>Linux</title>
-      <link>//localhost:1313/tags/linux/</link>
+      <link>https://atmosmps.github.io/tags/linux/</link>
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/linux/</guid>
+      <guid>https://atmosmps.github.io/tags/linux/</guid>
       <description></description>
     </item>
     <item>
       <title>Me-to-Me</title>
-      <link>//localhost:1313/tags/me-to-me/</link>
+      <link>https://atmosmps.github.io/tags/me-to-me/</link>
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/me-to-me/</guid>
+      <guid>https://atmosmps.github.io/tags/me-to-me/</guid>
       <description></description>
     </item>
     <item>
       <title>Git</title>
-      <link>//localhost:1313/tags/git/</link>
+      <link>https://atmosmps.github.io/tags/git/</link>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/git/</guid>
+      <guid>https://atmosmps.github.io/tags/git/</guid>
       <description></description>
     </item>
     <item>
       <title>Python</title>
-      <link>//localhost:1313/tags/python/</link>
+      <link>https://atmosmps.github.io/tags/python/</link>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/python/</guid>
+      <guid>https://atmosmps.github.io/tags/python/</guid>
       <description></description>
     </item>
     <item>
       <title>Community</title>
-      <link>//localhost:1313/tags/community/</link>
+      <link>https://atmosmps.github.io/tags/community/</link>
       <pubDate>Tue, 26 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/community/</guid>
+      <guid>https://atmosmps.github.io/tags/community/</guid>
       <description></description>
     </item>
     <item>
       <title>Startup</title>
-      <link>//localhost:1313/tags/startup/</link>
+      <link>https://atmosmps.github.io/tags/startup/</link>
       <pubDate>Tue, 26 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/startup/</guid>
+      <guid>https://atmosmps.github.io/tags/startup/</guid>
       <description></description>
     </item>
     <item>
       <title>Pygame</title>
-      <link>//localhost:1313/tags/pygame/</link>
+      <link>https://atmosmps.github.io/tags/pygame/</link>
       <pubDate>Thu, 08 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/pygame/</guid>
+      <guid>https://atmosmps.github.io/tags/pygame/</guid>
       <description></description>
     </item>
     <item>
       <title>Old</title>
-      <link>//localhost:1313/tags/old/</link>
+      <link>https://atmosmps.github.io/tags/old/</link>
       <pubDate>Fri, 27 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/old/</guid>
+      <guid>https://atmosmps.github.io/tags/old/</guid>
       <description></description>
     </item>
   </channel>

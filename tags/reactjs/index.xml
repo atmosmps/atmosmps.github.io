@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Reactjs on Atmos Maciel</title>
-    <link>//localhost:1313/tags/reactjs/</link>
+    <link>https://atmosmps.github.io/tags/reactjs/</link>
     <description>Recent content in Reactjs on Atmos Maciel</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Wed, 06 Nov 2024 10:53:38 -0300</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/reactjs/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://atmosmps.github.io/tags/reactjs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dockerizando uma aplicação React JS</title>
-      <link>//localhost:1313/notes/dockerizing-a-reactjs-application/</link>
+      <link>https://atmosmps.github.io/notes/dockerizing-a-reactjs-application/</link>
       <pubDate>Tue, 04 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/notes/dockerizing-a-reactjs-application/</guid>
+      <guid>https://atmosmps.github.io/notes/dockerizing-a-reactjs-application/</guid>
       <description>&lt;p&gt;Manter minha frequência de escrita este ano será um grande sacrifício. Mas eu estou tentando.&#xA;Eu acabei de voltar a escrever também no meu perfil no &lt;a href=&#34;https://medium.com/@atmosmps&#34;&gt;Medium&lt;/a&gt;, que há muito não fazia. Eu particularmente não gosto de escrever nada técnico no Medium, acho a plataforma pobre para formatação em markdown, mas é o que está na moda e por isso eu uso, afinal de contas é importante escrever e ser encontrado.&lt;/p&gt;</description>
     </item>
   </channel>
