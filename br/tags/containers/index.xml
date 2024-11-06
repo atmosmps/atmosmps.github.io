@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Containers on Atmos Maciel</title>
+    <link>//localhost:1313/br/tags/containers/</link>
+    <description>Recent content in Containers on Atmos Maciel</description>
+    <generator>Hugo</generator>
+    <language>br</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Wed, 06 Nov 2024 10:53:38 -0300</lastBuildDate>
+    <atom:link href="//localhost:1313/br/tags/containers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Como limpar recursos (não utilizados) do Docker</title>
+      <link>//localhost:1313/br/notes/docker-how-to-cleanup-unused-resources/</link>
+      <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/br/notes/docker-how-to-cleanup-unused-resources/</guid>
+      <description>&lt;p&gt;Se estiver mexendo com o Docker, seja em uma máquina local ou servidor, depois de algum tempo as alterações, manutenções, modificações, atualizações, etc&amp;hellip; podem deixar &amp;ldquo;coisas que não estão sendo mais usadas&amp;rdquo; ainda no host. Images antigas, volumes não usados, redes inativas, containers parados&amp;hellip; em fim. Pensando nisso que criei este &lt;em&gt;doc&lt;/em&gt; que pode ajudar nos momentos em que for preciso realizar essas pequenas manutenções:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/atmosmps/docker-pack-tools/blob/master/docker-cleanup-resources.md&#34;&gt;Docker - How to cleanup (unused) resources&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Dockerizando uma aplicação React JS</title>
+      <link>//localhost:1313/br/notes/dockerizing-a-reactjs-application/</link>
+      <pubDate>Tue, 04 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/br/notes/dockerizing-a-reactjs-application/</guid>
+      <description>&lt;p&gt;Manter minha frequência de escrita este ano será um grande sacrifício. Mas eu estou tentando.&#xA;Eu acabei de voltar a escrever também no meu perfil no &lt;a href=&#34;https://medium.com/@atmosmps&#34;&gt;Medium&lt;/a&gt;, que há muito não fazia. Eu particularmente não gosto de escrever nada técnico no Medium, acho a plataforma pobre para formatação em markdown, mas é o que está na moda e por isso eu uso, afinal de contas é importante escrever e ser encontrado.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

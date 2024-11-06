@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Community on Atmos Maciel</title>
+    <link>//localhost:1313/categories/community/</link>
+    <description>Recent content in Community on Atmos Maciel</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Wed, 06 Nov 2024 10:53:38 -0300</lastBuildDate>
+    <atom:link href="//localhost:1313/categories/community/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Empreendedorismo e Tecnologia: desafios e vivências de um Dev</title>
+      <link>//localhost:1313/notes/entrepreneurship-and-technology-challenges-and-experiences-of-a-dev/</link>
+      <pubDate>Tue, 26 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/notes/entrepreneurship-and-technology-challenges-and-experiences-of-a-dev/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://medium.com/soluises/empreendedorismo-e-tecnologia-desafios-e-viv%C3%AAncias-de-um-dev-485312dc92b1&#34;&gt;Empreendedorismo e Tecnologia: desafios e vivências de um Dev&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Impacto Maker nas comunidades</title>
+      <link>//localhost:1313/notes/impacto-maker-in-the-communities/</link>
+      <pubDate>Wed, 13 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/notes/impacto-maker-in-the-communities/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://medium.com/impactomaker/impacto-maker-nas-comunidades-b89279664f1f&#34;&gt;Impacto Maker nas comunidades&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>PHP Maranhão sob nova direção</title>
+      <link>//localhost:1313/notes/php-maranhao-under-new-direction/</link>
+      <pubDate>Tue, 12 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/notes/php-maranhao-under-new-direction/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://medium.com/phpmaranhao/php-maranh%C3%A3o-sob-nova-dire%C3%A7%C3%A3o-6802504d49ad&#34;&gt;PHP Maranhão sob nova direção&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Postagens no Blog da Impacto Maker</title>
+      <link>//localhost:1313/notes/impacto-maker-blog/</link>
+      <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/notes/impacto-maker-blog/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://medium.com/impactomaker/hello-world-8bc600e1f8ef&#34;&gt;Hello World&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Postagens no Blog do PHP Maranhão</title>
+      <link>//localhost:1313/notes/php-maranhao-blog/</link>
+      <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/notes/php-maranhao-blog/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://medium.com/phpmaranhao/hello-world-6defafad1bcc&#34;&gt;Hello World&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>8 php - você tem a ver com isso</title>
+      <link>//localhost:1313/notes/8-php-you-have-to-do-with-it/</link>
+      <pubDate>Fri, 27 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/notes/8-php-you-have-to-do-with-it/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://medium.com/@atmosmps/8-php-voc%C3%AA-tem-haver-com-isso-36456e5fa964&#34;&gt;8 php - você tem a ver com isso&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Startup Weekend - 3: experience</title>
+      <link>//localhost:1313/notes/startup-weekend-part-three/</link>
+      <pubDate>Mon, 16 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/notes/startup-weekend-part-three/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://medium.com/@atmosmps/startup-weekend-parte-3-experience-cd8570e0c73d&#34;&gt;Startup Weekend - 3: experience&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Startup Weekend - 2: upping</title>
+      <link>//localhost:1313/notes/startup-weekend-part-two/</link>
+      <pubDate>Wed, 09 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/notes/startup-weekend-part-two/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://medium.com/@atmosmps/startup-weekend-parte-2-upping-9e4716cb8f43&#34;&gt;Startup Weekend - 2: upping&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Startup Weekend - 1: o dia em que eu fui destruído</title>
+      <link>//localhost:1313/notes/startup-weekend-part-one/</link>
+      <pubDate>Tue, 08 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/notes/startup-weekend-part-one/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://medium.com/@atmosmps/startup-weekend-parte-1-o-dia-em-que-eu-fui-destru%C3%ADdo-3c43bb3f29d2&#34;&gt;Startup Weekend - 1: o dia em que eu fui destruído&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>8 PHP Humans Begin</title>
+      <link>//localhost:1313/notes/8-php-humans-begins/</link>
+      <pubDate>Fri, 20 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/notes/8-php-humans-begins/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://medium.com/@atmosmps/8-php-humans-begin-2237245ed907&#34;&gt;8 PHP Humans Begin&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

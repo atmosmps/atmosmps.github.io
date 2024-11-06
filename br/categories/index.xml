@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Atmos Maciel</title>
+    <link>//localhost:1313/br/categories/</link>
+    <description>Recent content in Categories on Atmos Maciel</description>
+    <generator>Hugo</generator>
+    <language>br</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Wed, 06 Nov 2024 10:53:38 -0300</lastBuildDate>
+    <atom:link href="//localhost:1313/br/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Containers</title>
+      <link>//localhost:1313/br/categories/containers/</link>
+      <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/br/categories/containers/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Docker</title>
+      <link>//localhost:1313/br/categories/docker/</link>
+      <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/br/categories/docker/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Blog</title>
+      <link>//localhost:1313/br/categories/blog/</link>
+      <pubDate>Thu, 23 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/br/categories/blog/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Php</title>
+      <link>//localhost:1313/br/categories/php/</link>
+      <pubDate>Sun, 16 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/br/categories/php/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Symfony</title>
+      <link>//localhost:1313/br/categories/symfony/</link>
+      <pubDate>Sun, 16 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/br/categories/symfony/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tech</title>
+      <link>//localhost:1313/br/categories/tech/</link>
+      <pubDate>Sun, 16 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/br/categories/tech/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Reactjs</title>
+      <link>//localhost:1313/br/categories/reactjs/</link>
+      <pubDate>Tue, 04 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/br/categories/reactjs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Configs</title>
+      <link>//localhost:1313/br/categories/configs/</link>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/br/categories/configs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Linux</title>
+      <link>//localhost:1313/br/categories/linux/</link>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/br/categories/linux/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Git</title>
+      <link>//localhost:1313/br/categories/git/</link>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/br/categories/git/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Python</title>
+      <link>//localhost:1313/br/categories/python/</link>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/br/categories/python/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Community</title>
+      <link>//localhost:1313/br/categories/community/</link>
+      <pubDate>Tue, 26 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/br/categories/community/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Startup</title>
+      <link>//localhost:1313/br/categories/startup/</link>
+      <pubDate>Tue, 26 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/br/categories/startup/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pygame</title>
+      <link>//localhost:1313/br/categories/pygame/</link>
+      <pubDate>Thu, 08 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/br/categories/pygame/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
