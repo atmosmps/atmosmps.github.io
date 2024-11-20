@@ -93,26 +93,5 @@
       <guid>https://atmosmps.github.io/tags/community/</guid>
       <description></description>
     </item>
-    <item>
-      <title>Startup</title>
-      <link>https://atmosmps.github.io/tags/startup/</link>
-      <pubDate>Tue, 26 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://atmosmps.github.io/tags/startup/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Pygame</title>
-      <link>https://atmosmps.github.io/tags/pygame/</link>
-      <pubDate>Thu, 08 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>https://atmosmps.github.io/tags/pygame/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Old</title>
-      <link>https://atmosmps.github.io/tags/old/</link>
-      <pubDate>Fri, 27 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>https://atmosmps.github.io/tags/old/</guid>
-      <description></description>
-    </item>
   </channel>
 </rss>
