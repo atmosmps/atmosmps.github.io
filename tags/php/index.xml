@@ -7,27 +7,27 @@
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Wed, 06 Nov 2024 10:53:38 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 16 Feb 2020 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://atmosmps.github.io/tags/php/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Convertendo uma requisição json para um array no Symfony</title>
-      <link>https://atmosmps.github.io/notes/converting-a-json-request-to-an-array-in-symfony/</link>
+      <link>https://atmosmps.github.io/notes/2020/converting-a-json-request-to-an-array-in-symfony/</link>
       <pubDate>Sun, 16 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://atmosmps.github.io/notes/converting-a-json-request-to-an-array-in-symfony/</guid>
+      <guid>https://atmosmps.github.io/notes/2020/converting-a-json-request-to-an-array-in-symfony/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://blog.codeexpertslearning.com.br/convertendo-content-json-em-um-array-no-symfony-4-bcb81a58a33f&#34;&gt;Convertendo uma requisição json para um array no Symfony&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Instalando o PHP em distribuições Linux baseadas em Debian</title>
-      <link>https://atmosmps.github.io/notes/installing-php-on-debian-based-linux-distributions/</link>
+      <link>https://atmosmps.github.io/notes/2020/installing-php-on-debian-based-linux-distributions/</link>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://atmosmps.github.io/notes/installing-php-on-debian-based-linux-distributions/</guid>
+      <guid>https://atmosmps.github.io/notes/2020/installing-php-on-debian-based-linux-distributions/</guid>
       <description>&lt;p&gt;As distros que eu uso atualmente são o Fedora e o Ubuntu, o Fedora me deixa muito feliz com a forma como ele gerencia suas dependências de forma organizada e inteligente. É uma distro muito boa pra se trabalhar com desenvolvimento, as configurações são simples, o sitema não é cheio de coisas mirabolantes que só servem pra atrapalhar e você tem autonomia pra bagunçar bastante o S.O e errar pra aprender. Aliás, no meu ponto de vista o Fedora tem umas das melhores &lt;a href=&#34;https://docs.fedoraproject.org/en-US/docs/&#34;&gt;documentações&lt;/a&gt; que um S.O pode ter nos dias de hoje. O &lt;a href=&#34;https://fedoraproject.org/wiki/DNF&#34;&gt;DNF&lt;/a&gt; sem sombra de dúvidas é muito melhor que o &lt;a href=&#34;https://help.ubuntu.com/lts/serverguide/aptitude.html&#34;&gt;Aptitude&lt;/a&gt;. Porém, por questões de usabilidade e ferramentas específicas eu preciso usar o Ubuntu. Eu estou muito esperançoso em me &amp;ldquo;livrar&amp;rdquo; do Ubuntu graças ao Arch Linux, meus testes têm sido promissores e o Arch é uma distro muito boa mesmo.&lt;/p&gt;</description>
     </item>
     <item>
       <title>PHP Maranhão sob nova direção</title>
-      <link>https://atmosmps.github.io/notes/php-maranhao-under-new-direction/</link>
+      <link>https://atmosmps.github.io/notes/2019/php-maranhao-under-new-direction/</link>
       <pubDate>Tue, 12 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://atmosmps.github.io/notes/php-maranhao-under-new-direction/</guid>
+      <guid>https://atmosmps.github.io/notes/2019/php-maranhao-under-new-direction/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://medium.com/phpmaranhao/php-maranh%C3%A3o-sob-nova-dire%C3%A7%C3%A3o-6802504d49ad&#34;&gt;PHP Maranhão sob nova direção&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
   </channel>

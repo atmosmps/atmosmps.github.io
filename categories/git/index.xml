@@ -7,13 +7,13 @@
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Wed, 06 Nov 2024 10:53:38 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jan 2020 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://atmosmps.github.io/categories/git/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Configurando o git para usá-lo com proxy</title>
-      <link>https://atmosmps.github.io/notes/configure-git-to-use-a-proxy/</link>
+      <link>https://atmosmps.github.io/notes/2020/configure-git-to-use-a-proxy/</link>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://atmosmps.github.io/notes/configure-git-to-use-a-proxy/</guid>
+      <guid>https://atmosmps.github.io/notes/2020/configure-git-to-use-a-proxy/</guid>
       <description>&lt;p&gt;No meu outro texto eu escrevi sobre &lt;a href=&#34;https://atmosmps.github.io/posts/configure-proxy-settings-in-ubuntu-and-fedora&#34;&gt;configurações de proxy no Ubuntu e Fedora&lt;/a&gt;, mesmo quando aplicadas no S.O de forma global, as configurações de proxy não são propagadas para todos os programas do sistema. Um caso deste é o git, e caso esteja sob uma rede com proxy usando git, provavelmente precise aplicar as configurações de proxy para ele. Para minha sorte eu também já havia preparado um gist com todas as configurações necessárias, na verdade, eu não preparei nada, quem preparou foi o &lt;a href=&#34;https://gist.github.com/evantoli/f8c23a37eb3558ab8765&#34;&gt;evantoli&lt;/a&gt;, mas eu fiz uma &lt;a href=&#34;https://gist.github.com/atmosmps/55adfe01e6f0f862112772fc39b73279&#34;&gt;tradução para pt-BR e deixei nos meus gists, aqui&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
   </channel>

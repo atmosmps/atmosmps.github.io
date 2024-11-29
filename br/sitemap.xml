@@ -15,6 +15,97 @@
                 href="https://atmosmps.github.io/br/"
                 />
   </url><url>
+    <loc>https://atmosmps.github.io/br/notes/2024/2024-10-configure-rate-limit-using-azion-edge-firewall/</loc>
+    <lastmod>2024-10-31T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://atmosmps.github.io/notes/2024/2024-10-configure-rate-limit-using-azion-edge-firewall/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="br"
+                href="https://atmosmps.github.io/br/notes/2024/2024-10-configure-rate-limit-using-azion-edge-firewall/"
+                />
+  </url><url>
+    <loc>https://atmosmps.github.io/br/notes/</loc>
+    <lastmod>2024-10-31T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://atmosmps.github.io/notes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="br"
+                href="https://atmosmps.github.io/br/notes/"
+                />
+  </url><url>
+    <loc>https://atmosmps.github.io/br/tags/</loc>
+    <lastmod>2024-10-31T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://atmosmps.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="br"
+                href="https://atmosmps.github.io/br/tags/"
+                />
+  </url><url>
+    <loc>https://atmosmps.github.io/br/tags/tech/</loc>
+    <lastmod>2024-10-31T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://atmosmps.github.io/tags/tech/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="br"
+                href="https://atmosmps.github.io/br/tags/tech/"
+                />
+  </url><url>
+    <loc>https://atmosmps.github.io/br/tags/tip/</loc>
+    <lastmod>2024-10-31T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://atmosmps.github.io/tags/tip/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="br"
+                href="https://atmosmps.github.io/br/tags/tip/"
+                />
+  </url><url>
+    <loc>https://atmosmps.github.io/br/notes/2024/2024-10-how-to-design-rest-apis/</loc>
+    <lastmod>2024-10-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://atmosmps.github.io/notes/2024/2024-10-how-to-design-rest-apis/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="br"
+                href="https://atmosmps.github.io/br/notes/2024/2024-10-how-to-design-rest-apis/"
+                />
+  </url><url>
+    <loc>https://atmosmps.github.io/br/notes/2024/2024-04-template-de-abertura-de-issue/</loc>
+    <lastmod>2024-04-19T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://atmosmps.github.io/notes/2024/2024-04-template-de-abertura-de-issue/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="br"
+                href="https://atmosmps.github.io/br/notes/2024/2024-04-template-de-abertura-de-issue/"
+                />
+  </url><url>
     <loc>https://atmosmps.github.io/br/contact/</loc>
     <lastmod>2024-11-06T12:55:59-03:00</lastmod>
     <xhtml:link
@@ -26,6 +117,19 @@
                 rel="alternate"
                 hreflang="br"
                 href="https://atmosmps.github.io/br/contact/"
+                />
+  </url><url>
+    <loc>https://atmosmps.github.io/br/tools/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://atmosmps.github.io/tools/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="br"
+                href="https://atmosmps.github.io/br/tools/"
                 />
   </url><url>
     <loc>https://atmosmps.github.io/br/about/</loc>
@@ -42,7 +146,7 @@
                 />
   </url><url>
     <loc>https://atmosmps.github.io/br/categories/</loc>
-    <lastmod>2024-11-06T10:53:38-03:00</lastmod>
+    <lastmod>2020-05-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -54,21 +158,21 @@
                 href="https://atmosmps.github.io/br/categories/"
                 />
   </url><url>
-    <loc>https://atmosmps.github.io/br/notes/docker-how-to-cleanup-unused-resources/</loc>
-    <lastmod>2024-11-06T10:53:38-03:00</lastmod>
+    <loc>https://atmosmps.github.io/br/notes/2020/docker-how-to-cleanup-unused-resources/</loc>
+    <lastmod>2020-05-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://atmosmps.github.io/notes/docker-how-to-cleanup-unused-resources/"
+                href="https://atmosmps.github.io/notes/2020/docker-how-to-cleanup-unused-resources/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="br"
-                href="https://atmosmps.github.io/br/notes/docker-how-to-cleanup-unused-resources/"
+                href="https://atmosmps.github.io/br/notes/2020/docker-how-to-cleanup-unused-resources/"
                 />
   </url><url>
     <loc>https://atmosmps.github.io/br/tags/containers/</loc>
-    <lastmod>2024-11-06T10:53:38-03:00</lastmod>
+    <lastmod>2020-05-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -81,7 +185,7 @@
                 />
   </url><url>
     <loc>https://atmosmps.github.io/br/categories/containers/</loc>
-    <lastmod>2024-11-06T10:53:38-03:00</lastmod>
+    <lastmod>2020-05-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -94,7 +198,7 @@
                 />
   </url><url>
     <loc>https://atmosmps.github.io/br/tags/docker/</loc>
-    <lastmod>2024-11-06T10:53:38-03:00</lastmod>
+    <lastmod>2020-05-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -107,7 +211,7 @@
                 />
   </url><url>
     <loc>https://atmosmps.github.io/br/categories/docker/</loc>
-    <lastmod>2024-11-06T10:53:38-03:00</lastmod>
+    <lastmod>2020-05-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -119,47 +223,21 @@
                 href="https://atmosmps.github.io/br/categories/docker/"
                 />
   </url><url>
-    <loc>https://atmosmps.github.io/br/notes/</loc>
-    <lastmod>2024-11-06T10:53:38-03:00</lastmod>
+    <loc>https://atmosmps.github.io/br/notes/2020/2020-04-30-days-of-quarantine/</loc>
+    <lastmod>2020-04-23T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://atmosmps.github.io/notes/"
+                href="https://atmosmps.github.io/notes/2020/2020-04-30-days-of-quarantine/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="br"
-                href="https://atmosmps.github.io/br/notes/"
-                />
-  </url><url>
-    <loc>https://atmosmps.github.io/br/tags/</loc>
-    <lastmod>2024-11-06T10:53:38-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://atmosmps.github.io/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="br"
-                href="https://atmosmps.github.io/br/tags/"
-                />
-  </url><url>
-    <loc>https://atmosmps.github.io/br/notes/30-days-of-quarantine/</loc>
-    <lastmod>2024-11-06T10:53:38-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://atmosmps.github.io/notes/30-days-of-quarantine/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="br"
-                href="https://atmosmps.github.io/br/notes/30-days-of-quarantine/"
+                href="https://atmosmps.github.io/br/notes/2020/2020-04-30-days-of-quarantine/"
                 />
   </url><url>
     <loc>https://atmosmps.github.io/br/categories/blog/</loc>
-    <lastmod>2024-11-06T10:53:38-03:00</lastmod>
+    <lastmod>2020-04-23T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -172,7 +250,7 @@
                 />
   </url><url>
     <loc>https://atmosmps.github.io/br/tags/personal/</loc>
-    <lastmod>2024-11-06T10:53:38-03:00</lastmod>
+    <lastmod>2020-04-23T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -184,34 +262,34 @@
                 href="https://atmosmps.github.io/br/tags/personal/"
                 />
   </url><url>
-    <loc>https://atmosmps.github.io/br/notes/remote-work-quarantine-and-projects/</loc>
-    <lastmod>2024-11-06T10:53:38-03:00</lastmod>
+    <loc>https://atmosmps.github.io/br/notes/2020/remote-work-quarantine-and-projects/</loc>
+    <lastmod>2020-03-30T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://atmosmps.github.io/notes/remote-work-quarantine-and-projects/"
+                href="https://atmosmps.github.io/notes/2020/remote-work-quarantine-and-projects/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="br"
-                href="https://atmosmps.github.io/br/notes/remote-work-quarantine-and-projects/"
+                href="https://atmosmps.github.io/br/notes/2020/remote-work-quarantine-and-projects/"
                 />
   </url><url>
-    <loc>https://atmosmps.github.io/br/notes/converting-a-json-request-to-an-array-in-symfony/</loc>
-    <lastmod>2024-11-06T10:53:38-03:00</lastmod>
+    <loc>https://atmosmps.github.io/br/notes/2020/converting-a-json-request-to-an-array-in-symfony/</loc>
+    <lastmod>2020-02-16T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://atmosmps.github.io/notes/converting-a-json-request-to-an-array-in-symfony/"
+                href="https://atmosmps.github.io/notes/2020/converting-a-json-request-to-an-array-in-symfony/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="br"
-                href="https://atmosmps.github.io/br/notes/converting-a-json-request-to-an-array-in-symfony/"
+                href="https://atmosmps.github.io/br/notes/2020/converting-a-json-request-to-an-array-in-symfony/"
                 />
   </url><url>
     <loc>https://atmosmps.github.io/br/tags/php/</loc>
-    <lastmod>2024-11-06T10:53:38-03:00</lastmod>
+    <lastmod>2020-02-16T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -224,7 +302,7 @@
                 />
   </url><url>
     <loc>https://atmosmps.github.io/br/categories/php/</loc>
-    <lastmod>2024-11-06T10:53:38-03:00</lastmod>
+    <lastmod>2020-02-16T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -237,7 +315,7 @@
                 />
   </url><url>
     <loc>https://atmosmps.github.io/br/tags/symfony/</loc>
-    <lastmod>2024-11-06T10:53:38-03:00</lastmod>
+    <lastmod>2020-02-16T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -250,7 +328,7 @@
                 />
   </url><url>
     <loc>https://atmosmps.github.io/br/categories/symfony/</loc>
-    <lastmod>2024-11-06T10:53:38-03:00</lastmod>
+    <lastmod>2020-02-16T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -262,21 +340,8 @@
                 href="https://atmosmps.github.io/br/categories/symfony/"
                 />
   </url><url>
-    <loc>https://atmosmps.github.io/br/tags/tech/</loc>
-    <lastmod>2024-11-06T10:53:38-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://atmosmps.github.io/tags/tech/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="br"
-                href="https://atmosmps.github.io/br/tags/tech/"
-                />
-  </url><url>
     <loc>https://atmosmps.github.io/br/categories/tech/</loc>
-    <lastmod>2024-11-06T10:53:38-03:00</lastmod>
+    <lastmod>2020-02-16T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -288,34 +353,34 @@
                 href="https://atmosmps.github.io/br/categories/tech/"
                 />
   </url><url>
-    <loc>https://atmosmps.github.io/br/notes/i-sold-my-reading-time/</loc>
-    <lastmod>2024-11-06T10:53:38-03:00</lastmod>
+    <loc>https://atmosmps.github.io/br/notes/2020/i-sold-my-reading-time/</loc>
+    <lastmod>2020-02-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://atmosmps.github.io/notes/i-sold-my-reading-time/"
+                href="https://atmosmps.github.io/notes/2020/i-sold-my-reading-time/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="br"
-                href="https://atmosmps.github.io/br/notes/i-sold-my-reading-time/"
+                href="https://atmosmps.github.io/br/notes/2020/i-sold-my-reading-time/"
                 />
   </url><url>
-    <loc>https://atmosmps.github.io/br/notes/dockerizing-a-reactjs-application/</loc>
-    <lastmod>2024-11-06T10:53:38-03:00</lastmod>
+    <loc>https://atmosmps.github.io/br/notes/2020/dockerizing-a-reactjs-application/</loc>
+    <lastmod>2020-02-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://atmosmps.github.io/notes/dockerizing-a-reactjs-application/"
+                href="https://atmosmps.github.io/notes/2020/dockerizing-a-reactjs-application/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="br"
-                href="https://atmosmps.github.io/br/notes/dockerizing-a-reactjs-application/"
+                href="https://atmosmps.github.io/br/notes/2020/dockerizing-a-reactjs-application/"
                 />
   </url><url>
     <loc>https://atmosmps.github.io/br/tags/reactjs/</loc>
-    <lastmod>2024-11-06T10:53:38-03:00</lastmod>
+    <lastmod>2020-02-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -328,7 +393,7 @@
                 />
   </url><url>
     <loc>https://atmosmps.github.io/br/categories/reactjs/</loc>
-    <lastmod>2024-11-06T10:53:38-03:00</lastmod>
+    <lastmod>2020-02-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -341,7 +406,7 @@
                 />
   </url><url>
     <loc>https://atmosmps.github.io/br/categories/configs/</loc>
-    <lastmod>2024-11-06T10:53:38-03:00</lastmod>
+    <lastmod>2020-01-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -354,7 +419,7 @@
                 />
   </url><url>
     <loc>https://atmosmps.github.io/br/tags/linux/</loc>
-    <lastmod>2024-11-06T10:53:38-03:00</lastmod>
+    <lastmod>2020-01-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -367,7 +432,7 @@
                 />
   </url><url>
     <loc>https://atmosmps.github.io/br/categories/linux/</loc>
-    <lastmod>2024-11-06T10:53:38-03:00</lastmod>
+    <lastmod>2020-01-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -380,7 +445,7 @@
                 />
   </url><url>
     <loc>https://atmosmps.github.io/br/tags/me-to-me/</loc>
-    <lastmod>2024-11-06T10:53:38-03:00</lastmod>
+    <lastmod>2020-01-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -392,47 +457,47 @@
                 href="https://atmosmps.github.io/br/tags/me-to-me/"
                 />
   </url><url>
-    <loc>https://atmosmps.github.io/br/notes/checking-if-a-particular-port-is-in-use-on-your-operating-system/</loc>
-    <lastmod>2024-11-06T10:53:38-03:00</lastmod>
+    <loc>https://atmosmps.github.io/br/notes/2020/checking-if-a-particular-port-is-in-use-on-your-operating-system/</loc>
+    <lastmod>2020-01-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://atmosmps.github.io/notes/checking-if-a-particular-port-is-in-use-on-your-operating-system/"
+                href="https://atmosmps.github.io/notes/2020/checking-if-a-particular-port-is-in-use-on-your-operating-system/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="br"
-                href="https://atmosmps.github.io/br/notes/checking-if-a-particular-port-is-in-use-on-your-operating-system/"
+                href="https://atmosmps.github.io/br/notes/2020/checking-if-a-particular-port-is-in-use-on-your-operating-system/"
                 />
   </url><url>
-    <loc>https://atmosmps.github.io/br/notes/how-to-install-spotify-on-some-linux-distros/</loc>
-    <lastmod>2024-11-06T10:53:38-03:00</lastmod>
+    <loc>https://atmosmps.github.io/br/notes/2020/how-to-install-spotify-on-some-linux-distros/</loc>
+    <lastmod>2020-01-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://atmosmps.github.io/notes/how-to-install-spotify-on-some-linux-distros/"
+                href="https://atmosmps.github.io/notes/2020/how-to-install-spotify-on-some-linux-distros/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="br"
-                href="https://atmosmps.github.io/br/notes/how-to-install-spotify-on-some-linux-distros/"
+                href="https://atmosmps.github.io/br/notes/2020/how-to-install-spotify-on-some-linux-distros/"
                 />
   </url><url>
-    <loc>https://atmosmps.github.io/br/notes/configure-git-to-use-a-proxy/</loc>
-    <lastmod>2024-11-06T10:53:38-03:00</lastmod>
+    <loc>https://atmosmps.github.io/br/notes/2020/configure-git-to-use-a-proxy/</loc>
+    <lastmod>2020-01-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://atmosmps.github.io/notes/configure-git-to-use-a-proxy/"
+                href="https://atmosmps.github.io/notes/2020/configure-git-to-use-a-proxy/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="br"
-                href="https://atmosmps.github.io/br/notes/configure-git-to-use-a-proxy/"
+                href="https://atmosmps.github.io/br/notes/2020/configure-git-to-use-a-proxy/"
                 />
   </url><url>
     <loc>https://atmosmps.github.io/br/tags/git/</loc>
-    <lastmod>2024-11-06T10:53:38-03:00</lastmod>
+    <lastmod>2020-01-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -445,7 +510,7 @@
                 />
   </url><url>
     <loc>https://atmosmps.github.io/br/categories/git/</loc>
-    <lastmod>2024-11-06T10:53:38-03:00</lastmod>
+    <lastmod>2020-01-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -457,34 +522,34 @@
                 href="https://atmosmps.github.io/br/categories/git/"
                 />
   </url><url>
-    <loc>https://atmosmps.github.io/br/notes/installing-php-on-debian-based-linux-distributions/</loc>
-    <lastmod>2024-11-06T10:53:38-03:00</lastmod>
+    <loc>https://atmosmps.github.io/br/notes/2020/installing-php-on-debian-based-linux-distributions/</loc>
+    <lastmod>2020-01-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://atmosmps.github.io/notes/installing-php-on-debian-based-linux-distributions/"
+                href="https://atmosmps.github.io/notes/2020/installing-php-on-debian-based-linux-distributions/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="br"
-                href="https://atmosmps.github.io/br/notes/installing-php-on-debian-based-linux-distributions/"
+                href="https://atmosmps.github.io/br/notes/2020/installing-php-on-debian-based-linux-distributions/"
                 />
   </url><url>
-    <loc>https://atmosmps.github.io/br/notes/my-definitive-python-setting-guide/</loc>
-    <lastmod>2024-11-06T10:53:38-03:00</lastmod>
+    <loc>https://atmosmps.github.io/br/notes/2020/my-definitive-python-setting-guide/</loc>
+    <lastmod>2020-01-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://atmosmps.github.io/notes/my-definitive-python-setting-guide/"
+                href="https://atmosmps.github.io/notes/2020/my-definitive-python-setting-guide/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="br"
-                href="https://atmosmps.github.io/br/notes/my-definitive-python-setting-guide/"
+                href="https://atmosmps.github.io/br/notes/2020/my-definitive-python-setting-guide/"
                 />
   </url><url>
     <loc>https://atmosmps.github.io/br/tags/python/</loc>
-    <lastmod>2024-11-06T10:53:38-03:00</lastmod>
+    <lastmod>2020-01-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -497,7 +562,7 @@
                 />
   </url><url>
     <loc>https://atmosmps.github.io/br/categories/python/</loc>
-    <lastmod>2024-11-06T10:53:38-03:00</lastmod>
+    <lastmod>2020-01-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -509,47 +574,47 @@
                 href="https://atmosmps.github.io/br/categories/python/"
                 />
   </url><url>
-    <loc>https://atmosmps.github.io/br/notes/remote-work-guide/</loc>
-    <lastmod>2024-11-06T10:53:38-03:00</lastmod>
+    <loc>https://atmosmps.github.io/br/notes/2020/remote-work-guide/</loc>
+    <lastmod>2020-01-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://atmosmps.github.io/notes/remote-work-guide/"
+                href="https://atmosmps.github.io/notes/2020/remote-work-guide/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="br"
-                href="https://atmosmps.github.io/br/notes/remote-work-guide/"
+                href="https://atmosmps.github.io/br/notes/2020/remote-work-guide/"
                 />
   </url><url>
-    <loc>https://atmosmps.github.io/br/notes/configure-proxy-settings-in-ubuntu-and-fedora/</loc>
-    <lastmod>2024-11-06T10:53:38-03:00</lastmod>
+    <loc>https://atmosmps.github.io/br/notes/2020/configure-proxy-settings-in-ubuntu-and-fedora/</loc>
+    <lastmod>2020-01-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://atmosmps.github.io/notes/configure-proxy-settings-in-ubuntu-and-fedora/"
+                href="https://atmosmps.github.io/notes/2020/configure-proxy-settings-in-ubuntu-and-fedora/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="br"
-                href="https://atmosmps.github.io/br/notes/configure-proxy-settings-in-ubuntu-and-fedora/"
+                href="https://atmosmps.github.io/br/notes/2020/configure-proxy-settings-in-ubuntu-and-fedora/"
                 />
   </url><url>
-    <loc>https://atmosmps.github.io/br/notes/hello-world-2020/</loc>
-    <lastmod>2024-11-06T10:53:38-03:00</lastmod>
+    <loc>https://atmosmps.github.io/br/notes/2020/2020-hello-world/</loc>
+    <lastmod>2020-01-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://atmosmps.github.io/notes/hello-world-2020/"
+                href="https://atmosmps.github.io/notes/2020/2020-hello-world/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="br"
-                href="https://atmosmps.github.io/br/notes/hello-world-2020/"
+                href="https://atmosmps.github.io/br/notes/2020/2020-hello-world/"
                 />
   </url><url>
     <loc>https://atmosmps.github.io/br/tags/community/</loc>
-    <lastmod>2024-11-06T10:53:38-03:00</lastmod>
+    <lastmod>2019-02-26T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -562,7 +627,7 @@
                 />
   </url><url>
     <loc>https://atmosmps.github.io/br/categories/community/</loc>
-    <lastmod>2024-11-06T10:53:38-03:00</lastmod>
+    <lastmod>2019-02-26T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -574,21 +639,21 @@
                 href="https://atmosmps.github.io/br/categories/community/"
                 />
   </url><url>
-    <loc>https://atmosmps.github.io/br/notes/entrepreneurship-and-technology-challenges-and-experiences-of-a-dev/</loc>
-    <lastmod>2024-11-06T10:53:38-03:00</lastmod>
+    <loc>https://atmosmps.github.io/br/notes/2019/entrepreneurship-and-technology-challenges-and-experiences-of-a-dev/</loc>
+    <lastmod>2019-02-26T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://atmosmps.github.io/notes/entrepreneurship-and-technology-challenges-and-experiences-of-a-dev/"
+                href="https://atmosmps.github.io/notes/2019/entrepreneurship-and-technology-challenges-and-experiences-of-a-dev/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="br"
-                href="https://atmosmps.github.io/br/notes/entrepreneurship-and-technology-challenges-and-experiences-of-a-dev/"
+                href="https://atmosmps.github.io/br/notes/2019/entrepreneurship-and-technology-challenges-and-experiences-of-a-dev/"
                 />
   </url><url>
     <loc>https://atmosmps.github.io/br/tags/startup/</loc>
-    <lastmod>2024-11-06T10:53:38-03:00</lastmod>
+    <lastmod>2019-02-26T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -601,7 +666,7 @@
                 />
   </url><url>
     <loc>https://atmosmps.github.io/br/categories/startup/</loc>
-    <lastmod>2024-11-06T10:53:38-03:00</lastmod>
+    <lastmod>2019-02-26T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -613,47 +678,47 @@
                 href="https://atmosmps.github.io/br/categories/startup/"
                 />
   </url><url>
-    <loc>https://atmosmps.github.io/br/notes/impacto-maker-in-the-communities/</loc>
-    <lastmod>2024-11-06T10:53:38-03:00</lastmod>
+    <loc>https://atmosmps.github.io/br/notes/2019/impacto-maker-in-the-communities/</loc>
+    <lastmod>2019-02-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://atmosmps.github.io/notes/impacto-maker-in-the-communities/"
+                href="https://atmosmps.github.io/notes/2019/impacto-maker-in-the-communities/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="br"
-                href="https://atmosmps.github.io/br/notes/impacto-maker-in-the-communities/"
+                href="https://atmosmps.github.io/br/notes/2019/impacto-maker-in-the-communities/"
                 />
   </url><url>
-    <loc>https://atmosmps.github.io/br/notes/php-maranhao-under-new-direction/</loc>
-    <lastmod>2024-11-06T10:53:38-03:00</lastmod>
+    <loc>https://atmosmps.github.io/br/notes/2019/php-maranhao-under-new-direction/</loc>
+    <lastmod>2019-02-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://atmosmps.github.io/notes/php-maranhao-under-new-direction/"
+                href="https://atmosmps.github.io/notes/2019/php-maranhao-under-new-direction/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="br"
-                href="https://atmosmps.github.io/br/notes/php-maranhao-under-new-direction/"
+                href="https://atmosmps.github.io/br/notes/2019/php-maranhao-under-new-direction/"
                 />
   </url><url>
-    <loc>https://atmosmps.github.io/br/notes/how-to-create-your-first-game-with-pygame-part-02/</loc>
-    <lastmod>2024-11-06T10:53:38-03:00</lastmod>
+    <loc>https://atmosmps.github.io/br/notes/2018/how-to-create-your-first-game-with-pygame-part-02/</loc>
+    <lastmod>2018-03-08T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://atmosmps.github.io/notes/how-to-create-your-first-game-with-pygame-part-02/"
+                href="https://atmosmps.github.io/notes/2018/how-to-create-your-first-game-with-pygame-part-02/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="br"
-                href="https://atmosmps.github.io/br/notes/how-to-create-your-first-game-with-pygame-part-02/"
+                href="https://atmosmps.github.io/br/notes/2018/how-to-create-your-first-game-with-pygame-part-02/"
                 />
   </url><url>
     <loc>https://atmosmps.github.io/br/tags/pygame/</loc>
-    <lastmod>2024-11-06T10:53:38-03:00</lastmod>
+    <lastmod>2018-03-08T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -666,7 +731,7 @@
                 />
   </url><url>
     <loc>https://atmosmps.github.io/br/categories/pygame/</loc>
-    <lastmod>2024-11-06T10:53:38-03:00</lastmod>
+    <lastmod>2018-03-08T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -678,60 +743,60 @@
                 href="https://atmosmps.github.io/br/categories/pygame/"
                 />
   </url><url>
-    <loc>https://atmosmps.github.io/br/notes/how-to-create-your-first-game-with-pygame-part-01/</loc>
-    <lastmod>2024-11-06T10:53:38-03:00</lastmod>
+    <loc>https://atmosmps.github.io/br/notes/2018/how-to-create-your-first-game-with-pygame-part-01/</loc>
+    <lastmod>2018-02-26T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://atmosmps.github.io/notes/how-to-create-your-first-game-with-pygame-part-01/"
+                href="https://atmosmps.github.io/notes/2018/how-to-create-your-first-game-with-pygame-part-01/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="br"
-                href="https://atmosmps.github.io/br/notes/how-to-create-your-first-game-with-pygame-part-01/"
+                href="https://atmosmps.github.io/br/notes/2018/how-to-create-your-first-game-with-pygame-part-01/"
                 />
   </url><url>
-    <loc>https://atmosmps.github.io/br/notes/impacto-maker-blog/</loc>
-    <lastmod>2024-11-06T10:53:38-03:00</lastmod>
+    <loc>https://atmosmps.github.io/br/notes/2018/impacto-maker-blog/</loc>
+    <lastmod>2018-01-22T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://atmosmps.github.io/notes/impacto-maker-blog/"
+                href="https://atmosmps.github.io/notes/2018/impacto-maker-blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="br"
-                href="https://atmosmps.github.io/br/notes/impacto-maker-blog/"
+                href="https://atmosmps.github.io/br/notes/2018/impacto-maker-blog/"
                 />
   </url><url>
-    <loc>https://atmosmps.github.io/br/notes/php-maranhao-blog/</loc>
-    <lastmod>2024-11-06T10:53:38-03:00</lastmod>
+    <loc>https://atmosmps.github.io/br/notes/2018/php-maranhao-blog/</loc>
+    <lastmod>2018-01-22T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://atmosmps.github.io/notes/php-maranhao-blog/"
+                href="https://atmosmps.github.io/notes/2018/php-maranhao-blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="br"
-                href="https://atmosmps.github.io/br/notes/php-maranhao-blog/"
+                href="https://atmosmps.github.io/br/notes/2018/php-maranhao-blog/"
                 />
   </url><url>
-    <loc>https://atmosmps.github.io/br/notes/8-php-you-have-to-do-with-it/</loc>
-    <lastmod>2024-11-06T10:53:38-03:00</lastmod>
+    <loc>https://atmosmps.github.io/br/notes/2017/2017-10-8-php-you-have-to-do-with-it/</loc>
+    <lastmod>2017-10-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://atmosmps.github.io/notes/8-php-you-have-to-do-with-it/"
+                href="https://atmosmps.github.io/notes/2017/2017-10-8-php-you-have-to-do-with-it/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="br"
-                href="https://atmosmps.github.io/br/notes/8-php-you-have-to-do-with-it/"
+                href="https://atmosmps.github.io/br/notes/2017/2017-10-8-php-you-have-to-do-with-it/"
                 />
   </url><url>
     <loc>https://atmosmps.github.io/br/tags/old/</loc>
-    <lastmod>2024-11-06T10:53:38-03:00</lastmod>
+    <lastmod>2017-10-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -743,82 +808,82 @@
                 href="https://atmosmps.github.io/br/tags/old/"
                 />
   </url><url>
-    <loc>https://atmosmps.github.io/br/notes/startup-weekend-part-three/</loc>
-    <lastmod>2024-11-06T10:53:38-03:00</lastmod>
+    <loc>https://atmosmps.github.io/br/notes/2017/startup-weekend-part-three/</loc>
+    <lastmod>2017-10-16T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://atmosmps.github.io/notes/startup-weekend-part-three/"
+                href="https://atmosmps.github.io/notes/2017/startup-weekend-part-three/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="br"
-                href="https://atmosmps.github.io/br/notes/startup-weekend-part-three/"
+                href="https://atmosmps.github.io/br/notes/2017/startup-weekend-part-three/"
                 />
   </url><url>
-    <loc>https://atmosmps.github.io/br/notes/using-docker-start/</loc>
-    <lastmod>2024-11-06T10:53:38-03:00</lastmod>
+    <loc>https://atmosmps.github.io/br/notes/2017/using-docker-start/</loc>
+    <lastmod>2017-10-16T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://atmosmps.github.io/notes/using-docker-start/"
+                href="https://atmosmps.github.io/notes/2017/using-docker-start/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="br"
-                href="https://atmosmps.github.io/br/notes/using-docker-start/"
+                href="https://atmosmps.github.io/br/notes/2017/using-docker-start/"
                 />
   </url><url>
-    <loc>https://atmosmps.github.io/br/notes/understanding-containers-an-introduction-to-docker/</loc>
-    <lastmod>2024-11-06T10:53:38-03:00</lastmod>
+    <loc>https://atmosmps.github.io/br/notes/2017/understanding-containers-an-introduction-to-docker/</loc>
+    <lastmod>2017-09-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://atmosmps.github.io/notes/understanding-containers-an-introduction-to-docker/"
+                href="https://atmosmps.github.io/notes/2017/understanding-containers-an-introduction-to-docker/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="br"
-                href="https://atmosmps.github.io/br/notes/understanding-containers-an-introduction-to-docker/"
+                href="https://atmosmps.github.io/br/notes/2017/understanding-containers-an-introduction-to-docker/"
                 />
   </url><url>
-    <loc>https://atmosmps.github.io/br/notes/startup-weekend-part-two/</loc>
-    <lastmod>2024-11-06T10:53:38-03:00</lastmod>
+    <loc>https://atmosmps.github.io/br/notes/2017/startup-weekend-part-two/</loc>
+    <lastmod>2017-08-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://atmosmps.github.io/notes/startup-weekend-part-two/"
+                href="https://atmosmps.github.io/notes/2017/startup-weekend-part-two/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="br"
-                href="https://atmosmps.github.io/br/notes/startup-weekend-part-two/"
+                href="https://atmosmps.github.io/br/notes/2017/startup-weekend-part-two/"
                 />
   </url><url>
-    <loc>https://atmosmps.github.io/br/notes/startup-weekend-part-one/</loc>
-    <lastmod>2024-11-06T10:53:38-03:00</lastmod>
+    <loc>https://atmosmps.github.io/br/notes/2017/startup-weekend-part-one/</loc>
+    <lastmod>2017-08-08T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://atmosmps.github.io/notes/startup-weekend-part-one/"
+                href="https://atmosmps.github.io/notes/2017/startup-weekend-part-one/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="br"
-                href="https://atmosmps.github.io/br/notes/startup-weekend-part-one/"
+                href="https://atmosmps.github.io/br/notes/2017/startup-weekend-part-one/"
                 />
   </url><url>
-    <loc>https://atmosmps.github.io/br/notes/8-php-humans-begins/</loc>
-    <lastmod>2024-11-06T10:53:38-03:00</lastmod>
+    <loc>https://atmosmps.github.io/br/notes/2017/2017-01-8-php-humans-begins/</loc>
+    <lastmod>2017-01-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://atmosmps.github.io/notes/8-php-humans-begins/"
+                href="https://atmosmps.github.io/notes/2017/2017-01-8-php-humans-begins/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="br"
-                href="https://atmosmps.github.io/br/notes/8-php-humans-begins/"
+                href="https://atmosmps.github.io/br/notes/2017/2017-01-8-php-humans-begins/"
                 />
   </url><url>
     <loc>https://atmosmps.github.io/br/series/</loc>
@@ -831,6 +896,19 @@
                 rel="alternate"
                 hreflang="br"
                 href="https://atmosmps.github.io/br/series/"
+                />
+  </url><url>
+    <loc>https://atmosmps.github.io/br/notes/0-note-template/</loc>
+    <lastmod>0000-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://atmosmps.github.io/notes/0-note-template/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="br"
+                href="https://atmosmps.github.io/br/notes/0-note-template/"
                 />
   </url>
 </urlset>

@@ -10,6 +10,27 @@
     <lastBuildDate>Sat, 09 Nov 2024 18:51:50 -0300</lastBuildDate>
     <atom:link href="https://atmosmps.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Configure Rate Limit Using Azion Edge Firewall</title>
+      <link>https://atmosmps.github.io/notes/2024/2024-10-configure-rate-limit-using-azion-edge-firewall/</link>
+      <pubDate>Thu, 31 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://atmosmps.github.io/notes/2024/2024-10-configure-rate-limit-using-azion-edge-firewall/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.azion.com/en/documentation/products/secure/edge-firewall/rules-engine/#set-rate-limit&#34;&gt;https://www.azion.com/en/documentation/products/secure/edge-firewall/rules-engine/#set-rate-limit&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>How to (and how not to) design REST APIs</title>
+      <link>https://atmosmps.github.io/notes/2024/2024-10-how-to-design-rest-apis/</link>
+      <pubDate>Thu, 24 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://atmosmps.github.io/notes/2024/2024-10-how-to-design-rest-apis/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/stickfigure/blog/wiki/How-to-%28and-how-not-to%29-design-REST-APIs&#34;&gt;https://github.com/stickfigure/blog/wiki/How-to-%28and-how-not-to%29-design-REST-APIs&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Template de abertura de issue</title>
+      <link>https://atmosmps.github.io/notes/2024/2024-04-template-de-abertura-de-issue/</link>
+      <pubDate>Fri, 19 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://atmosmps.github.io/notes/2024/2024-04-template-de-abertura-de-issue/</guid>
+      <description>&lt;p&gt;Navegando pelo mar do github buscando coisas pra resolver minha vida, me deparei com esta issue:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/aio-libs/aiohttp/issues/2849&#34;&gt;https://github.com/aio-libs/aiohttp/issues/2849&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Achei bem interessante essa estrutura de issue pois permite que o submissor informe o máximo de detalhes do problema que está acontecendo ajudando bastante quem estiver no mesmo cenário a se encontrar no problema. No mesmo projeto do &lt;code&gt;aiohttp&lt;/code&gt; descobri que isso feito através de &lt;a href=&#34;https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository#creating-issue-forms&#34;&gt;issues-forms&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;O &lt;a href=&#34;https://github.com/aio-libs/aiohttp&#34;&gt;aiohttp&lt;/a&gt; é um projeto que possui bons exemplos de como se fazer as coisas em relação a submissão de alterações e abertura de issues.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>About</title>
       <link>https://atmosmps.github.io/about/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
@@ -24,74 +45,53 @@
       <description>&lt;ul&gt;&#xA;&lt;li&gt;Email: &lt;a href=&#34;mailto:atmosmps@proton.me&#34;&gt;atmosmps@proton.me&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Telegram(quickly): &lt;a href=&#34;https://t.me/atmosmps/&#34;&gt;https://t.me/atmosmps/&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
+      <title>Tools</title>
+      <link>https://atmosmps.github.io/tools/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://atmosmps.github.io/tools/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Tools that I use or have used in my day-to-day work.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;&lt;strong&gt;Tech&lt;/strong&gt;&lt;/th&gt;&#xA;          &lt;th&gt;&lt;strong&gt;Most used&lt;/strong&gt;&lt;/th&gt;&#xA;          &lt;th&gt;&lt;strong&gt;Least used&lt;/strong&gt;&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;strong&gt;Top Cloud Providers&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://skillicons.dev&#34;&gt;&lt;img alt=&#34;Top Cloud Providers&#34; src=&#34;https://skillicons.dev/icons?i=gcp&amp;theme=dark&#34;&gt;&lt;/a&gt; &lt;!-- raw HTML omitted --&gt; · &lt;a href=&#34;https://www.digitalocean.com/&#34;&gt;Digital Ocean&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://skillicons.dev&#34;&gt;&lt;img alt=&#34;Top Cloud Providers&#34; src=&#34;https://skillicons.dev/icons?i=heroku&amp;theme=dark&#34;&gt;&lt;/a&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;strong&gt;Top Programming Languages&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://skillicons.dev&#34;&gt;&lt;img alt=&#34;Top Programming Languages&#34; src=&#34;https://skillicons.dev/icons?i=python,typescript,kotlin,rust&amp;theme=dark&#34;&gt;&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://skillicons.dev&#34;&gt;&lt;img alt=&#34;Top Programming Languages&#34; src=&#34;https://skillicons.dev/icons?i=php,java&amp;theme=dark&#34;&gt;&lt;/a&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;strong&gt;Top Programming Languages Tools &amp;amp; Frameworks&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://skillicons.dev&#34;&gt;&lt;img alt=&#34;Top Programming Languages Tools &amp;amp; Frameworks&#34; src=&#34;https://skillicons.dev/icons?i=django,fastapi,nodejs,spring&amp;theme=dark&#34;&gt;&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://skillicons.dev&#34;&gt;&lt;img alt=&#34;Top Programming Languages Tools &amp;amp; Frameworks&#34; src=&#34;https://skillicons.dev/icons?i=flask,symfony,laravel&amp;theme=dark&#34;&gt;&lt;/a&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;strong&gt;Top Tooling and Platforms&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://skillicons.dev&#34;&gt;&lt;img alt=&#34;Top Tooling and Platforms&#34; src=&#34;https://skillicons.dev/icons?i=kubernetes,docker,git,gitlab&amp;theme=dark&#34;&gt;&lt;/a&gt; &lt;!-- raw HTML omitted --&gt; · &lt;a href=&#34;https://argo-cd.readthedocs.io/en/stable/&#34;&gt;ArgoCD&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;strong&gt;Top Observability and Monitoring Tools&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://skillicons.dev&#34;&gt;&lt;img alt=&#34;Top Observability and Monitoring Tools&#34; src=&#34;https://skillicons.dev/icons?i=grafana&amp;theme=dark&#34;&gt;&lt;/a&gt; &lt;!-- raw HTML omitted --&gt; · &lt;a href=&#34;https://newrelic.com/&#34;&gt;NewRelic&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;strong&gt;Top Databases&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://skillicons.dev&#34;&gt;&lt;img alt=&#34;Top Databases&#34; src=&#34;https://skillicons.dev/icons?i=mysql,mongo,redis&amp;theme=dark&#34;&gt;&lt;/a&gt; &lt;!-- raw HTML omitted --&gt; · &lt;a href=&#34;https://www.microsoft.com/en-us/sql-server/&#34;&gt;SQLServer&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://skillicons.dev&#34;&gt;&lt;img alt=&#34;Top Databases&#34; src=&#34;https://skillicons.dev/icons?i=postgres,sqlite&amp;theme=dark&#34;&gt;&lt;/a&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;strong&gt;Operating System&lt;/strong&gt; &lt;!-- raw HTML omitted --&gt; &lt;a href=&#34;https://skillicons.dev&#34;&gt;&lt;img alt=&#34;Operating System&#34; src=&#34;https://skillicons.dev/icons?i=linux&amp;theme=dark&#34;&gt;&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://skillicons.dev&#34;&gt;&lt;img alt=&#34;Operating System&#34; src=&#34;https://skillicons.dev/icons?i=ubuntu,debian&amp;theme=dark&#34;&gt;&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;· Fedora · CentOS&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;</description>
+    </item>
+    <item>
       <title>Como limpar recursos (não utilizados) do Docker</title>
-      <link>https://atmosmps.github.io/notes/docker-how-to-cleanup-unused-resources/</link>
+      <link>https://atmosmps.github.io/notes/2020/docker-how-to-cleanup-unused-resources/</link>
       <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://atmosmps.github.io/notes/docker-how-to-cleanup-unused-resources/</guid>
+      <guid>https://atmosmps.github.io/notes/2020/docker-how-to-cleanup-unused-resources/</guid>
       <description>&lt;p&gt;Se estiver mexendo com o Docker, seja em uma máquina local ou servidor, depois de algum tempo as alterações, manutenções, modificações, atualizações, etc&amp;hellip; podem deixar &amp;ldquo;coisas que não estão sendo mais usadas&amp;rdquo; ainda no host. Images antigas, volumes não usados, redes inativas, containers parados&amp;hellip; em fim. Pensando nisso que criei este &lt;em&gt;doc&lt;/em&gt; que pode ajudar nos momentos em que for preciso realizar essas pequenas manutenções:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/atmosmps/docker-pack-tools/blob/master/docker-cleanup-resources.md&#34;&gt;Docker - How to cleanup (unused) resources&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>30 dias de Quarentena</title>
-      <link>https://atmosmps.github.io/notes/30-days-of-quarantine/</link>
+      <link>https://atmosmps.github.io/notes/2020/2020-04-30-days-of-quarantine/</link>
       <pubDate>Thu, 23 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://atmosmps.github.io/notes/30-days-of-quarantine/</guid>
+      <guid>https://atmosmps.github.io/notes/2020/2020-04-30-days-of-quarantine/</guid>
       <description>&lt;p&gt;Aonde eu trabalho ficou estabelecido o remoto na modalidade Home Office que no Brasil, pela regulamentação, é chamado de Teletrabalho. E já que tem um monte de gente dando opniões e comentando sobre esse momento, alguns de forma boa, outros de forma ruim, eu decidi que também quero deixar meus dois centavos sobre tudo que está acontecendo.&lt;/p&gt;&#xA;&lt;h2 id=&#34;sobre-o-covid---19-e-trabalho&#34;&gt;Sobre o COVID - 19 e Trabalho&lt;/h2&gt;&#xA;&lt;p&gt;Demorei alguns dias para me adaptar ao Home Office, alguns dias não, na verdade foram umas duas semanas. Não somente no sentido físico, mas principalmente psicológico. Organizar minhá área de trabalho física, mesa, cadeira, novos periféricos, criar uma rotina de trabalho e tentar organizazr projetos para ser &amp;ldquo;produtivo&amp;rdquo;, tudo isso foi mais uma forma de terapia do que somente algo imporante a ser feito. Um turbilhão de informações&amp;hellip;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Trabalho remoto, quarentena e projetos</title>
-      <link>https://atmosmps.github.io/notes/remote-work-quarantine-and-projects/</link>
+      <link>https://atmosmps.github.io/notes/2020/remote-work-quarantine-and-projects/</link>
       <pubDate>Mon, 30 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://atmosmps.github.io/notes/remote-work-quarantine-and-projects/</guid>
+      <guid>https://atmosmps.github.io/notes/2020/remote-work-quarantine-and-projects/</guid>
       <description>&lt;p&gt;É março, e 2020 já mostrou para o que veio. Depois de passarmos por tensões no começo do ano entre potências mundiais, agora estamos vivendo uma pandemia por conta do Corona Vírus(COVID-19). &lt;a href=&#34;https://www.imperial.ac.uk/news/196514/the-economic-impact-coronavirus-analysis-from/&#34;&gt;O mercado financeiro está uma loucura&lt;/a&gt;, no momento deste artigo já foram ativados 6 &lt;a href=&#34;https://blog.toroinvestimentos.com.br/circuit-breaker-bovespa-o-que-e-historico&#34;&gt;circuit breaks&lt;/a&gt; em pouco mais de duas semanas. Os governos mundiais começaram a tomar medidas de isolamento social e dentro dos países os políticos e empresários estão trabalhando maneiras de adptar-se de forma mais urgente a situação.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Convertendo uma requisição json para um array no Symfony</title>
-      <link>https://atmosmps.github.io/notes/converting-a-json-request-to-an-array-in-symfony/</link>
+      <link>https://atmosmps.github.io/notes/2020/converting-a-json-request-to-an-array-in-symfony/</link>
       <pubDate>Sun, 16 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://atmosmps.github.io/notes/converting-a-json-request-to-an-array-in-symfony/</guid>
+      <guid>https://atmosmps.github.io/notes/2020/converting-a-json-request-to-an-array-in-symfony/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://blog.codeexpertslearning.com.br/convertendo-content-json-em-um-array-no-symfony-4-bcb81a58a33f&#34;&gt;Convertendo uma requisição json para um array no Symfony&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Eu vendi meu tempo de Leitura</title>
-      <link>https://atmosmps.github.io/notes/i-sold-my-reading-time/</link>
+      <link>https://atmosmps.github.io/notes/2020/i-sold-my-reading-time/</link>
       <pubDate>Tue, 11 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://atmosmps.github.io/notes/i-sold-my-reading-time/</guid>
+      <guid>https://atmosmps.github.io/notes/2020/i-sold-my-reading-time/</guid>
       <description>&lt;p&gt;Estou terminando de ler o livro sobre o maldito gênio desgraçado e fodah que está fazendo coisas do car*lho no mundo, Elon Musk. Postei uma foto do livro no historie do instagram enquanto eu lia, e um amigo me respondeu da seguinte maneiras:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;Tá com tempo né?&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Respondi:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;Pra ler, sempre. Você deveria arranjar tempo pra isso também.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Resposta:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;Eu vendi meu tempo de leitura.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Não respondi. Não porque não tinha resposta, mas porque não tinha jugalmentos também. Talvez eu faça o mesmo o dia? Eu venderia meu tempo de leitura? Se eu vender meu tempo de leitura eu nunca mais vou ler. Será que ler é tão desimportante que eu possa simplesmente vender o tempo dedicado a isso? Talvez, depende. O dinheiro vai valer apena? Ou o trabalho?&lt;/p&gt;</description>
     </item>
     <item>
       <title>Dockerizando uma aplicação React JS</title>
-      <link>https://atmosmps.github.io/notes/dockerizing-a-reactjs-application/</link>
+      <link>https://atmosmps.github.io/notes/2020/dockerizing-a-reactjs-application/</link>
       <pubDate>Tue, 04 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://atmosmps.github.io/notes/dockerizing-a-reactjs-application/</guid>
+      <guid>https://atmosmps.github.io/notes/2020/dockerizing-a-reactjs-application/</guid>
       <description>&lt;p&gt;Manter minha frequência de escrita este ano será um grande sacrifício. Mas eu estou tentando.&#xA;Eu acabei de voltar a escrever também no meu perfil no &lt;a href=&#34;https://medium.com/@atmosmps&#34;&gt;Medium&lt;/a&gt;, que há muito não fazia. Eu particularmente não gosto de escrever nada técnico no Medium, acho a plataforma pobre para formatação em markdown, mas é o que está na moda e por isso eu uso, afinal de contas é importante escrever e ser encontrado.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Verificando se determinada porta está em uso no seu sistema operacional</title>
-      <link>https://atmosmps.github.io/notes/checking-if-a-particular-port-is-in-use-on-your-operating-system/</link>
-      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://atmosmps.github.io/notes/checking-if-a-particular-port-is-in-use-on-your-operating-system/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Considerações iniciais: as informações contidas neste texto, só funcionam para sistemas baseados no Unix.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Já passou por aquela situação de ter vários containers docker &lt;em&gt;startados&lt;/em&gt; em portas diferentes, aí você tenta subir um novo containar e o terminal joga na sua cara que a porta já está em uso? Ou mesmo os &lt;em&gt;built-in web servers&lt;/em&gt; do PHP, Node ou Python, já estão usando portas que vocês gostaria de usar?&lt;/p&gt;&#xA;&lt;p&gt;Eu também já passei por isso, há uma forma de saber se a porta já está sendo usada e/ou algumas informações sobre ela. No Linux, basta utilizar o seguinte comando:&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Como instalar o Spotify em algumas distros Linux</title>
-      <link>https://atmosmps.github.io/notes/how-to-install-spotify-on-some-linux-distros/</link>
-      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://atmosmps.github.io/notes/how-to-install-spotify-on-some-linux-distros/</guid>
-      <description>&lt;p&gt;Eu não consigo trabalhar não escutando um bom som. Pra isso eu uso o &lt;a href=&#34;https://www.spotify.com/&#34;&gt;Spotify&lt;/a&gt;. Para instalar qualquer coisa eu sempre, sempre prefiro utilizar a documentação oficial, e pra minha sorte, todas as distros que eu uso, testo ou pretendo usar possuem em suas documentações as formas e recomendações para instalar as coisas da forma como devem ser feitas, e isto inclue o Spotify também. :)&lt;/p&gt;&#xA;&lt;h4 id=&#34;para-instalar-no-debianubuntu&#34;&gt;Para instalar no Debian/Ubuntu&lt;/h4&gt;&#xA;&lt;p&gt;O próprio Spotify diz como: &lt;a href=&#34;https://www.spotify.com/us/download/linux/&#34;&gt;https://www.spotify.com/us/download/linux/&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Configurando o git para usá-lo com proxy</title>
-      <link>https://atmosmps.github.io/notes/configure-git-to-use-a-proxy/</link>
-      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://atmosmps.github.io/notes/configure-git-to-use-a-proxy/</guid>
-      <description>&lt;p&gt;No meu outro texto eu escrevi sobre &lt;a href=&#34;https://atmosmps.github.io/posts/configure-proxy-settings-in-ubuntu-and-fedora&#34;&gt;configurações de proxy no Ubuntu e Fedora&lt;/a&gt;, mesmo quando aplicadas no S.O de forma global, as configurações de proxy não são propagadas para todos os programas do sistema. Um caso deste é o git, e caso esteja sob uma rede com proxy usando git, provavelmente precise aplicar as configurações de proxy para ele. Para minha sorte eu também já havia preparado um gist com todas as configurações necessárias, na verdade, eu não preparei nada, quem preparou foi o &lt;a href=&#34;https://gist.github.com/evantoli/f8c23a37eb3558ab8765&#34;&gt;evantoli&lt;/a&gt;, mas eu fiz uma &lt;a href=&#34;https://gist.github.com/atmosmps/55adfe01e6f0f862112772fc39b73279&#34;&gt;tradução para pt-BR e deixei nos meus gists, aqui&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Instalando o PHP em distribuições Linux baseadas em Debian</title>
-      <link>https://atmosmps.github.io/notes/installing-php-on-debian-based-linux-distributions/</link>
-      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://atmosmps.github.io/notes/installing-php-on-debian-based-linux-distributions/</guid>
-      <description>&lt;p&gt;As distros que eu uso atualmente são o Fedora e o Ubuntu, o Fedora me deixa muito feliz com a forma como ele gerencia suas dependências de forma organizada e inteligente. É uma distro muito boa pra se trabalhar com desenvolvimento, as configurações são simples, o sitema não é cheio de coisas mirabolantes que só servem pra atrapalhar e você tem autonomia pra bagunçar bastante o S.O e errar pra aprender. Aliás, no meu ponto de vista o Fedora tem umas das melhores &lt;a href=&#34;https://docs.fedoraproject.org/en-US/docs/&#34;&gt;documentações&lt;/a&gt; que um S.O pode ter nos dias de hoje. O &lt;a href=&#34;https://fedoraproject.org/wiki/DNF&#34;&gt;DNF&lt;/a&gt; sem sombra de dúvidas é muito melhor que o &lt;a href=&#34;https://help.ubuntu.com/lts/serverguide/aptitude.html&#34;&gt;Aptitude&lt;/a&gt;. Porém, por questões de usabilidade e ferramentas específicas eu preciso usar o Ubuntu. Eu estou muito esperançoso em me &amp;ldquo;livrar&amp;rdquo; do Ubuntu graças ao Arch Linux, meus testes têm sido promissores e o Arch é uma distro muito boa mesmo.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

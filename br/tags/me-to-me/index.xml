@@ -7,48 +7,48 @@
     <generator>Hugo</generator>
     <language>br</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Wed, 06 Nov 2024 10:53:38 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jan 2020 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://atmosmps.github.io/br/tags/me-to-me/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Verificando se determinada porta está em uso no seu sistema operacional</title>
-      <link>https://atmosmps.github.io/br/notes/checking-if-a-particular-port-is-in-use-on-your-operating-system/</link>
+      <link>https://atmosmps.github.io/br/notes/2020/checking-if-a-particular-port-is-in-use-on-your-operating-system/</link>
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://atmosmps.github.io/br/notes/checking-if-a-particular-port-is-in-use-on-your-operating-system/</guid>
+      <guid>https://atmosmps.github.io/br/notes/2020/checking-if-a-particular-port-is-in-use-on-your-operating-system/</guid>
       <description>&lt;p&gt;&lt;em&gt;Considerações iniciais: as informações contidas neste texto, só funcionam para sistemas baseados no Unix.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Já passou por aquela situação de ter vários containers docker &lt;em&gt;startados&lt;/em&gt; em portas diferentes, aí você tenta subir um novo containar e o terminal joga na sua cara que a porta já está em uso? Ou mesmo os &lt;em&gt;built-in web servers&lt;/em&gt; do PHP, Node ou Python, já estão usando portas que vocês gostaria de usar?&lt;/p&gt;&#xA;&lt;p&gt;Eu também já passei por isso, há uma forma de saber se a porta já está sendo usada e/ou algumas informações sobre ela. No Linux, basta utilizar o seguinte comando:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Como instalar o Spotify em algumas distros Linux</title>
-      <link>https://atmosmps.github.io/br/notes/how-to-install-spotify-on-some-linux-distros/</link>
+      <link>https://atmosmps.github.io/br/notes/2020/how-to-install-spotify-on-some-linux-distros/</link>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://atmosmps.github.io/br/notes/how-to-install-spotify-on-some-linux-distros/</guid>
+      <guid>https://atmosmps.github.io/br/notes/2020/how-to-install-spotify-on-some-linux-distros/</guid>
       <description>&lt;p&gt;Eu não consigo trabalhar não escutando um bom som. Pra isso eu uso o &lt;a href=&#34;https://www.spotify.com/&#34;&gt;Spotify&lt;/a&gt;. Para instalar qualquer coisa eu sempre, sempre prefiro utilizar a documentação oficial, e pra minha sorte, todas as distros que eu uso, testo ou pretendo usar possuem em suas documentações as formas e recomendações para instalar as coisas da forma como devem ser feitas, e isto inclue o Spotify também. :)&lt;/p&gt;&#xA;&lt;h4 id=&#34;para-instalar-no-debianubuntu&#34;&gt;Para instalar no Debian/Ubuntu&lt;/h4&gt;&#xA;&lt;p&gt;O próprio Spotify diz como: &lt;a href=&#34;https://www.spotify.com/us/download/linux/&#34;&gt;https://www.spotify.com/us/download/linux/&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Configurando o git para usá-lo com proxy</title>
-      <link>https://atmosmps.github.io/br/notes/configure-git-to-use-a-proxy/</link>
+      <link>https://atmosmps.github.io/br/notes/2020/configure-git-to-use-a-proxy/</link>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://atmosmps.github.io/br/notes/configure-git-to-use-a-proxy/</guid>
+      <guid>https://atmosmps.github.io/br/notes/2020/configure-git-to-use-a-proxy/</guid>
       <description>&lt;p&gt;No meu outro texto eu escrevi sobre &lt;a href=&#34;https://atmosmps.github.io/posts/configure-proxy-settings-in-ubuntu-and-fedora&#34;&gt;configurações de proxy no Ubuntu e Fedora&lt;/a&gt;, mesmo quando aplicadas no S.O de forma global, as configurações de proxy não são propagadas para todos os programas do sistema. Um caso deste é o git, e caso esteja sob uma rede com proxy usando git, provavelmente precise aplicar as configurações de proxy para ele. Para minha sorte eu também já havia preparado um gist com todas as configurações necessárias, na verdade, eu não preparei nada, quem preparou foi o &lt;a href=&#34;https://gist.github.com/evantoli/f8c23a37eb3558ab8765&#34;&gt;evantoli&lt;/a&gt;, mas eu fiz uma &lt;a href=&#34;https://gist.github.com/atmosmps/55adfe01e6f0f862112772fc39b73279&#34;&gt;tradução para pt-BR e deixei nos meus gists, aqui&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Instalando o PHP em distribuições Linux baseadas em Debian</title>
-      <link>https://atmosmps.github.io/br/notes/installing-php-on-debian-based-linux-distributions/</link>
+      <link>https://atmosmps.github.io/br/notes/2020/installing-php-on-debian-based-linux-distributions/</link>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://atmosmps.github.io/br/notes/installing-php-on-debian-based-linux-distributions/</guid>
+      <guid>https://atmosmps.github.io/br/notes/2020/installing-php-on-debian-based-linux-distributions/</guid>
       <description>&lt;p&gt;As distros que eu uso atualmente são o Fedora e o Ubuntu, o Fedora me deixa muito feliz com a forma como ele gerencia suas dependências de forma organizada e inteligente. É uma distro muito boa pra se trabalhar com desenvolvimento, as configurações são simples, o sitema não é cheio de coisas mirabolantes que só servem pra atrapalhar e você tem autonomia pra bagunçar bastante o S.O e errar pra aprender. Aliás, no meu ponto de vista o Fedora tem umas das melhores &lt;a href=&#34;https://docs.fedoraproject.org/en-US/docs/&#34;&gt;documentações&lt;/a&gt; que um S.O pode ter nos dias de hoje. O &lt;a href=&#34;https://fedoraproject.org/wiki/DNF&#34;&gt;DNF&lt;/a&gt; sem sombra de dúvidas é muito melhor que o &lt;a href=&#34;https://help.ubuntu.com/lts/serverguide/aptitude.html&#34;&gt;Aptitude&lt;/a&gt;. Porém, por questões de usabilidade e ferramentas específicas eu preciso usar o Ubuntu. Eu estou muito esperançoso em me &amp;ldquo;livrar&amp;rdquo; do Ubuntu graças ao Arch Linux, meus testes têm sido promissores e o Arch é uma distro muito boa mesmo.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Meu guia definitivo ambientação em python</title>
-      <link>https://atmosmps.github.io/br/notes/my-definitive-python-setting-guide/</link>
+      <link>https://atmosmps.github.io/br/notes/2020/my-definitive-python-setting-guide/</link>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://atmosmps.github.io/br/notes/my-definitive-python-setting-guide/</guid>
+      <guid>https://atmosmps.github.io/br/notes/2020/my-definitive-python-setting-guide/</guid>
       <description>&lt;p&gt;Ainda na minha saga de tentar deixar documentado coisas que uma hora ou outra sempre preciso fazer, eu lembrei que tenho um gist com &amp;ldquo;Meu guia definitivo de ambientação em python&amp;rdquo;. Ele foi &lt;strong&gt;bastante&lt;/strong&gt; baseado no &lt;a href=&#34;https://medium.com/welcome-to-the-django/guia-definitivo-para-organizar-meu-ambiente-python-a16e2479b753&#34;&gt;excelente artigo&lt;/a&gt; do &lt;a href=&#34;https://henriquebastos.net/&#34;&gt;Henrique Bastos&lt;/a&gt;, na verdade só o que eu fiz mesmo foi remover coisas que no meu caso, eu não utilizo. &lt;a href=&#34;https://gist.github.com/atmosmps/bac20c0167c7e87dda73b913279bb279&#34;&gt;Para acessar basta clicar aqui&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;É isto.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Definindo configurações de proxy no Ubuntu e Fedora</title>
-      <link>https://atmosmps.github.io/br/notes/configure-proxy-settings-in-ubuntu-and-fedora/</link>
+      <link>https://atmosmps.github.io/br/notes/2020/configure-proxy-settings-in-ubuntu-and-fedora/</link>
       <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://atmosmps.github.io/br/notes/configure-proxy-settings-in-ubuntu-and-fedora/</guid>
+      <guid>https://atmosmps.github.io/br/notes/2020/configure-proxy-settings-in-ubuntu-and-fedora/</guid>
       <description>&lt;p&gt;Ainda hoje, de vez em quando eu preciso fazer algumas configurações chatas para trabalhar, uma delas é ter que configurar o proxy no SO que eu estiver utilizando, ou ainda pior, ter que configurar o proxy em Imagens Docker para que elas também possam acessar a internet no caso de precisarem baixar dependencias por exemplo.&lt;/p&gt;&#xA;&lt;p&gt;Como eu não fico gravando este tipo de coisa e toda vez eu preciso ficar &amp;ldquo;googlando&amp;rdquo;. Eu decidi criar um gist para as configurações que eu sempre utilizo e &lt;!-- raw HTML omitted --&gt;compartilhei aqui&lt;!-- raw HTML omitted --&gt;.&lt;/p&gt;</description>
     </item>
   </channel>

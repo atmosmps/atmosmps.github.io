@@ -7,91 +7,91 @@
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Wed, 06 Nov 2024 10:53:38 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 31 Oct 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://atmosmps.github.io/tags/tech/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Configure Rate Limit Using Azion Edge Firewall</title>
+      <link>https://atmosmps.github.io/notes/2024/2024-10-configure-rate-limit-using-azion-edge-firewall/</link>
+      <pubDate>Thu, 31 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://atmosmps.github.io/notes/2024/2024-10-configure-rate-limit-using-azion-edge-firewall/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.azion.com/en/documentation/products/secure/edge-firewall/rules-engine/#set-rate-limit&#34;&gt;https://www.azion.com/en/documentation/products/secure/edge-firewall/rules-engine/#set-rate-limit&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>How to (and how not to) design REST APIs</title>
+      <link>https://atmosmps.github.io/notes/2024/2024-10-how-to-design-rest-apis/</link>
+      <pubDate>Thu, 24 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://atmosmps.github.io/notes/2024/2024-10-how-to-design-rest-apis/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/stickfigure/blog/wiki/How-to-%28and-how-not-to%29-design-REST-APIs&#34;&gt;https://github.com/stickfigure/blog/wiki/How-to-%28and-how-not-to%29-design-REST-APIs&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Template de abertura de issue</title>
+      <link>https://atmosmps.github.io/notes/2024/2024-04-template-de-abertura-de-issue/</link>
+      <pubDate>Fri, 19 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://atmosmps.github.io/notes/2024/2024-04-template-de-abertura-de-issue/</guid>
+      <description>&lt;p&gt;Navegando pelo mar do github buscando coisas pra resolver minha vida, me deparei com esta issue:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/aio-libs/aiohttp/issues/2849&#34;&gt;https://github.com/aio-libs/aiohttp/issues/2849&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Achei bem interessante essa estrutura de issue pois permite que o submissor informe o máximo de detalhes do problema que está acontecendo ajudando bastante quem estiver no mesmo cenário a se encontrar no problema. No mesmo projeto do &lt;code&gt;aiohttp&lt;/code&gt; descobri que isso feito através de &lt;a href=&#34;https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository#creating-issue-forms&#34;&gt;issues-forms&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;O &lt;a href=&#34;https://github.com/aio-libs/aiohttp&#34;&gt;aiohttp&lt;/a&gt; é um projeto que possui bons exemplos de como se fazer as coisas em relação a submissão de alterações e abertura de issues.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Convertendo uma requisição json para um array no Symfony</title>
-      <link>https://atmosmps.github.io/notes/converting-a-json-request-to-an-array-in-symfony/</link>
+      <link>https://atmosmps.github.io/notes/2020/converting-a-json-request-to-an-array-in-symfony/</link>
       <pubDate>Sun, 16 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://atmosmps.github.io/notes/converting-a-json-request-to-an-array-in-symfony/</guid>
+      <guid>https://atmosmps.github.io/notes/2020/converting-a-json-request-to-an-array-in-symfony/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://blog.codeexpertslearning.com.br/convertendo-content-json-em-um-array-no-symfony-4-bcb81a58a33f&#34;&gt;Convertendo uma requisição json para um array no Symfony&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Empreendedorismo e Tecnologia: desafios e vivências de um Dev</title>
-      <link>https://atmosmps.github.io/notes/entrepreneurship-and-technology-challenges-and-experiences-of-a-dev/</link>
+      <link>https://atmosmps.github.io/notes/2019/entrepreneurship-and-technology-challenges-and-experiences-of-a-dev/</link>
       <pubDate>Tue, 26 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://atmosmps.github.io/notes/entrepreneurship-and-technology-challenges-and-experiences-of-a-dev/</guid>
+      <guid>https://atmosmps.github.io/notes/2019/entrepreneurship-and-technology-challenges-and-experiences-of-a-dev/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://medium.com/soluises/empreendedorismo-e-tecnologia-desafios-e-viv%C3%AAncias-de-um-dev-485312dc92b1&#34;&gt;Empreendedorismo e Tecnologia: desafios e vivências de um Dev&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Impacto Maker nas comunidades</title>
-      <link>https://atmosmps.github.io/notes/impacto-maker-in-the-communities/</link>
+      <link>https://atmosmps.github.io/notes/2019/impacto-maker-in-the-communities/</link>
       <pubDate>Wed, 13 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://atmosmps.github.io/notes/impacto-maker-in-the-communities/</guid>
+      <guid>https://atmosmps.github.io/notes/2019/impacto-maker-in-the-communities/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://medium.com/impactomaker/impacto-maker-nas-comunidades-b89279664f1f&#34;&gt;Impacto Maker nas comunidades&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>PHP Maranhão sob nova direção</title>
-      <link>https://atmosmps.github.io/notes/php-maranhao-under-new-direction/</link>
+      <link>https://atmosmps.github.io/notes/2019/php-maranhao-under-new-direction/</link>
       <pubDate>Tue, 12 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://atmosmps.github.io/notes/php-maranhao-under-new-direction/</guid>
+      <guid>https://atmosmps.github.io/notes/2019/php-maranhao-under-new-direction/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://medium.com/phpmaranhao/php-maranh%C3%A3o-sob-nova-dire%C3%A7%C3%A3o-6802504d49ad&#34;&gt;PHP Maranhão sob nova direção&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Como criar seu primeiro jogo com PyGame - 2</title>
-      <link>https://atmosmps.github.io/notes/how-to-create-your-first-game-with-pygame-part-02/</link>
+      <link>https://atmosmps.github.io/notes/2018/how-to-create-your-first-game-with-pygame-part-02/</link>
       <pubDate>Thu, 08 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>https://atmosmps.github.io/notes/how-to-create-your-first-game-with-pygame-part-02/</guid>
+      <guid>https://atmosmps.github.io/notes/2018/how-to-create-your-first-game-with-pygame-part-02/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://blog.codeexpertslearning.com.br/criando-seu-primeiro-jogo-com-pygame-parte-02-5e7254477a66&#34;&gt;Como criar seu primeiro jogo com PyGame - 2&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Como criar seu primeiro jogo com PyGame - 1</title>
-      <link>https://atmosmps.github.io/notes/how-to-create-your-first-game-with-pygame-part-01/</link>
+      <link>https://atmosmps.github.io/notes/2018/how-to-create-your-first-game-with-pygame-part-01/</link>
       <pubDate>Mon, 26 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>https://atmosmps.github.io/notes/how-to-create-your-first-game-with-pygame-part-01/</guid>
+      <guid>https://atmosmps.github.io/notes/2018/how-to-create-your-first-game-with-pygame-part-01/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://blog.codeexpertslearning.com.br/como-criar-seu-primeiro-jogo-com-pygame-parte-01-8eb7e704a488&#34;&gt;Como criar seu primeiro jogo com PyGame - 1&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Postagens no Blog da Impacto Maker</title>
-      <link>https://atmosmps.github.io/notes/impacto-maker-blog/</link>
+      <link>https://atmosmps.github.io/notes/2018/impacto-maker-blog/</link>
       <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://atmosmps.github.io/notes/impacto-maker-blog/</guid>
+      <guid>https://atmosmps.github.io/notes/2018/impacto-maker-blog/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://medium.com/impactomaker/hello-world-8bc600e1f8ef&#34;&gt;Hello World&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Postagens no Blog do PHP Maranhão</title>
-      <link>https://atmosmps.github.io/notes/php-maranhao-blog/</link>
+      <link>https://atmosmps.github.io/notes/2018/php-maranhao-blog/</link>
       <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://atmosmps.github.io/notes/php-maranhao-blog/</guid>
+      <guid>https://atmosmps.github.io/notes/2018/php-maranhao-blog/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://medium.com/phpmaranhao/hello-world-6defafad1bcc&#34;&gt;Hello World&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>8 php - você tem a ver com isso</title>
-      <link>https://atmosmps.github.io/notes/8-php-you-have-to-do-with-it/</link>
+      <link>https://atmosmps.github.io/notes/2017/2017-10-8-php-you-have-to-do-with-it/</link>
       <pubDate>Fri, 27 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>https://atmosmps.github.io/notes/8-php-you-have-to-do-with-it/</guid>
+      <guid>https://atmosmps.github.io/notes/2017/2017-10-8-php-you-have-to-do-with-it/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://medium.com/@atmosmps/8-php-voc%C3%AA-tem-haver-com-isso-36456e5fa964&#34;&gt;8 php - você tem a ver com isso&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Startup Weekend - 3: experience</title>
-      <link>https://atmosmps.github.io/notes/startup-weekend-part-three/</link>
-      <pubDate>Mon, 16 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>https://atmosmps.github.io/notes/startup-weekend-part-three/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://medium.com/@atmosmps/startup-weekend-parte-3-experience-cd8570e0c73d&#34;&gt;Startup Weekend - 3: experience&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Usando o Docker - start</title>
-      <link>https://atmosmps.github.io/notes/using-docker-start/</link>
-      <pubDate>Mon, 16 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>https://atmosmps.github.io/notes/using-docker-start/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://blog.codeexpertslearning.com.br/usando-o-docker-start-604c6e1128db&#34;&gt;Usando o Docker - start&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Compreendendo containers - uma introdução ao Docker</title>
-      <link>https://atmosmps.github.io/notes/understanding-containers-an-introduction-to-docker/</link>
-      <pubDate>Mon, 25 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>https://atmosmps.github.io/notes/understanding-containers-an-introduction-to-docker/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://blog.codeexpertslearning.com.br/compreendendo-containers-uma-introdu%C3%A7%C3%A3o-ao-docker-e4f993b20fca&#34;&gt;Compreendendo containers - uma introdução ao Docker&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

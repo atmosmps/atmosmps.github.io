@@ -7,34 +7,34 @@
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Wed, 06 Nov 2024 10:53:38 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2020 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://atmosmps.github.io/categories/containers/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Como limpar recursos (não utilizados) do Docker</title>
-      <link>https://atmosmps.github.io/notes/docker-how-to-cleanup-unused-resources/</link>
+      <link>https://atmosmps.github.io/notes/2020/docker-how-to-cleanup-unused-resources/</link>
       <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://atmosmps.github.io/notes/docker-how-to-cleanup-unused-resources/</guid>
+      <guid>https://atmosmps.github.io/notes/2020/docker-how-to-cleanup-unused-resources/</guid>
       <description>&lt;p&gt;Se estiver mexendo com o Docker, seja em uma máquina local ou servidor, depois de algum tempo as alterações, manutenções, modificações, atualizações, etc&amp;hellip; podem deixar &amp;ldquo;coisas que não estão sendo mais usadas&amp;rdquo; ainda no host. Images antigas, volumes não usados, redes inativas, containers parados&amp;hellip; em fim. Pensando nisso que criei este &lt;em&gt;doc&lt;/em&gt; que pode ajudar nos momentos em que for preciso realizar essas pequenas manutenções:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/atmosmps/docker-pack-tools/blob/master/docker-cleanup-resources.md&#34;&gt;Docker - How to cleanup (unused) resources&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Dockerizando uma aplicação React JS</title>
-      <link>https://atmosmps.github.io/notes/dockerizing-a-reactjs-application/</link>
+      <link>https://atmosmps.github.io/notes/2020/dockerizing-a-reactjs-application/</link>
       <pubDate>Tue, 04 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://atmosmps.github.io/notes/dockerizing-a-reactjs-application/</guid>
+      <guid>https://atmosmps.github.io/notes/2020/dockerizing-a-reactjs-application/</guid>
       <description>&lt;p&gt;Manter minha frequência de escrita este ano será um grande sacrifício. Mas eu estou tentando.&#xA;Eu acabei de voltar a escrever também no meu perfil no &lt;a href=&#34;https://medium.com/@atmosmps&#34;&gt;Medium&lt;/a&gt;, que há muito não fazia. Eu particularmente não gosto de escrever nada técnico no Medium, acho a plataforma pobre para formatação em markdown, mas é o que está na moda e por isso eu uso, afinal de contas é importante escrever e ser encontrado.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Usando o Docker - start</title>
-      <link>https://atmosmps.github.io/notes/using-docker-start/</link>
+      <link>https://atmosmps.github.io/notes/2017/using-docker-start/</link>
       <pubDate>Mon, 16 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>https://atmosmps.github.io/notes/using-docker-start/</guid>
+      <guid>https://atmosmps.github.io/notes/2017/using-docker-start/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://blog.codeexpertslearning.com.br/usando-o-docker-start-604c6e1128db&#34;&gt;Usando o Docker - start&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Compreendendo containers - uma introdução ao Docker</title>
-      <link>https://atmosmps.github.io/notes/understanding-containers-an-introduction-to-docker/</link>
+      <link>https://atmosmps.github.io/notes/2017/understanding-containers-an-introduction-to-docker/</link>
       <pubDate>Mon, 25 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>https://atmosmps.github.io/notes/understanding-containers-an-introduction-to-docker/</guid>
+      <guid>https://atmosmps.github.io/notes/2017/understanding-containers-an-introduction-to-docker/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://blog.codeexpertslearning.com.br/compreendendo-containers-uma-introdu%C3%A7%C3%A3o-ao-docker-e4f993b20fca&#34;&gt;Compreendendo containers - uma introdução ao Docker&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
