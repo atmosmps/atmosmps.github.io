@@ -7,27 +7,34 @@
     <generator>Hugo</generator>
     <language>br</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Sat, 09 Nov 2024 18:51:50 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://atmosmps.github.io/br/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>2024 - Simplifica</title>
+      <link>https://atmosmps.github.io/br/notes/2024/12-simplifica/</link>
+      <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://atmosmps.github.io/br/notes/2024/12-simplifica/</guid>
+      <description>&lt;p&gt;Uma coisa que acho interessante na empresa em que trabalho é que cada ano tem uma &amp;ldquo;palavra-chave&amp;rdquo;, um tema, um tópico&#xA;que direciona os colaboradores para os planos da companhia no ano corrente.&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;2024 - Encanta&#xA;2023 - Simplifica&#xA;2022 - Vende(algo assim...)&#xA;20*  - ...&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;E assim por diante&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;No meu processo pessoal, eu decidi, sem neura, tentar estabelecer isso, não foi uma meta que criei, tipo &amp;ldquo;Em 2024 eu&#xA;vou simplificar tudo&amp;rdquo;, não, na verdade, foi uma intenção que surgiu no primeiro semestre e eu decidi levar adiante&amp;hellip;&#xA;acabei considerando 2024 o ano &amp;ldquo;Simplifica&amp;rdquo;.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Configure Rate Limit Using Azion Edge Firewall</title>
-      <link>https://atmosmps.github.io/br/notes/2024/2024-10-configure-rate-limit-using-azion-edge-firewall/</link>
+      <link>https://atmosmps.github.io/br/notes/2024/10-configure-rate-limit-using-azion-edge-firewall/</link>
       <pubDate>Thu, 31 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://atmosmps.github.io/br/notes/2024/2024-10-configure-rate-limit-using-azion-edge-firewall/</guid>
+      <guid>https://atmosmps.github.io/br/notes/2024/10-configure-rate-limit-using-azion-edge-firewall/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://www.azion.com/en/documentation/products/secure/edge-firewall/rules-engine/#set-rate-limit&#34;&gt;https://www.azion.com/en/documentation/products/secure/edge-firewall/rules-engine/#set-rate-limit&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>How to (and how not to) design REST APIs</title>
-      <link>https://atmosmps.github.io/br/notes/2024/2024-10-how-to-design-rest-apis/</link>
+      <link>https://atmosmps.github.io/br/notes/2024/10-how-to-design-rest-apis/</link>
       <pubDate>Thu, 24 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://atmosmps.github.io/br/notes/2024/2024-10-how-to-design-rest-apis/</guid>
+      <guid>https://atmosmps.github.io/br/notes/2024/10-how-to-design-rest-apis/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://github.com/stickfigure/blog/wiki/How-to-%28and-how-not-to%29-design-REST-APIs&#34;&gt;https://github.com/stickfigure/blog/wiki/How-to-%28and-how-not-to%29-design-REST-APIs&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Template de abertura de issue</title>
-      <link>https://atmosmps.github.io/br/notes/2024/2024-04-template-de-abertura-de-issue/</link>
+      <link>https://atmosmps.github.io/br/notes/2024/04-template-de-abertura-de-issue/</link>
       <pubDate>Fri, 19 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://atmosmps.github.io/br/notes/2024/2024-04-template-de-abertura-de-issue/</guid>
+      <guid>https://atmosmps.github.io/br/notes/2024/04-template-de-abertura-de-issue/</guid>
       <description>&lt;p&gt;Navegando pelo mar do github buscando coisas pra resolver minha vida, me deparei com esta issue:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/aio-libs/aiohttp/issues/2849&#34;&gt;https://github.com/aio-libs/aiohttp/issues/2849&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Achei bem interessante essa estrutura de issue pois permite que o submissor informe o máximo de detalhes do problema que está acontecendo ajudando bastante quem estiver no mesmo cenário a se encontrar no problema. No mesmo projeto do &lt;code&gt;aiohttp&lt;/code&gt; descobri que isso feito através de &lt;a href=&#34;https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository#creating-issue-forms&#34;&gt;issues-forms&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;O &lt;a href=&#34;https://github.com/aio-libs/aiohttp&#34;&gt;aiohttp&lt;/a&gt; é um projeto que possui bons exemplos de como se fazer as coisas em relação a submissão de alterações e abertura de issues.&lt;/p&gt;</description>
     </item>
     <item>
@@ -85,13 +92,6 @@
       <pubDate>Tue, 11 Feb 2020 00:00:00 +0000</pubDate>
       <guid>https://atmosmps.github.io/br/notes/2020/i-sold-my-reading-time/</guid>
       <description>&lt;p&gt;Estou terminando de ler o livro sobre o maldito gênio desgraçado e fodah que está fazendo coisas do car*lho no mundo, Elon Musk. Postei uma foto do livro no historie do instagram enquanto eu lia, e um amigo me respondeu da seguinte maneiras:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;Tá com tempo né?&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Respondi:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;Pra ler, sempre. Você deveria arranjar tempo pra isso também.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Resposta:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;Eu vendi meu tempo de leitura.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Não respondi. Não porque não tinha resposta, mas porque não tinha jugalmentos também. Talvez eu faça o mesmo o dia? Eu venderia meu tempo de leitura? Se eu vender meu tempo de leitura eu nunca mais vou ler. Será que ler é tão desimportante que eu possa simplesmente vender o tempo dedicado a isso? Talvez, depende. O dinheiro vai valer apena? Ou o trabalho?&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Dockerizando uma aplicação React JS</title>
-      <link>https://atmosmps.github.io/br/notes/2020/dockerizing-a-reactjs-application/</link>
-      <pubDate>Tue, 04 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://atmosmps.github.io/br/notes/2020/dockerizing-a-reactjs-application/</guid>
-      <description>&lt;p&gt;Manter minha frequência de escrita este ano será um grande sacrifício. Mas eu estou tentando.&#xA;Eu acabei de voltar a escrever também no meu perfil no &lt;a href=&#34;https://medium.com/@atmosmps&#34;&gt;Medium&lt;/a&gt;, que há muito não fazia. Eu particularmente não gosto de escrever nada técnico no Medium, acho a plataforma pobre para formatação em markdown, mas é o que está na moda e por isso eu uso, afinal de contas é importante escrever e ser encontrado.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

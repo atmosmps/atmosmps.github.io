@@ -7,28 +7,35 @@
     <generator>Hugo</generator>
     <language>br</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Thu, 31 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 Nov 2024 18:19:52 -0300</lastBuildDate>
     <atom:link href="https://atmosmps.github.io/br/tags/tip/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Configure Rate Limit Using Azion Edge Firewall</title>
-      <link>https://atmosmps.github.io/br/notes/2024/2024-10-configure-rate-limit-using-azion-edge-firewall/</link>
+      <link>https://atmosmps.github.io/br/notes/2024/10-configure-rate-limit-using-azion-edge-firewall/</link>
       <pubDate>Thu, 31 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://atmosmps.github.io/br/notes/2024/2024-10-configure-rate-limit-using-azion-edge-firewall/</guid>
+      <guid>https://atmosmps.github.io/br/notes/2024/10-configure-rate-limit-using-azion-edge-firewall/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://www.azion.com/en/documentation/products/secure/edge-firewall/rules-engine/#set-rate-limit&#34;&gt;https://www.azion.com/en/documentation/products/secure/edge-firewall/rules-engine/#set-rate-limit&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>How to (and how not to) design REST APIs</title>
-      <link>https://atmosmps.github.io/br/notes/2024/2024-10-how-to-design-rest-apis/</link>
+      <link>https://atmosmps.github.io/br/notes/2024/10-how-to-design-rest-apis/</link>
       <pubDate>Thu, 24 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://atmosmps.github.io/br/notes/2024/2024-10-how-to-design-rest-apis/</guid>
+      <guid>https://atmosmps.github.io/br/notes/2024/10-how-to-design-rest-apis/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://github.com/stickfigure/blog/wiki/How-to-%28and-how-not-to%29-design-REST-APIs&#34;&gt;https://github.com/stickfigure/blog/wiki/How-to-%28and-how-not-to%29-design-REST-APIs&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Template de abertura de issue</title>
-      <link>https://atmosmps.github.io/br/notes/2024/2024-04-template-de-abertura-de-issue/</link>
+      <link>https://atmosmps.github.io/br/notes/2024/04-template-de-abertura-de-issue/</link>
       <pubDate>Fri, 19 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://atmosmps.github.io/br/notes/2024/2024-04-template-de-abertura-de-issue/</guid>
+      <guid>https://atmosmps.github.io/br/notes/2024/04-template-de-abertura-de-issue/</guid>
       <description>&lt;p&gt;Navegando pelo mar do github buscando coisas pra resolver minha vida, me deparei com esta issue:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/aio-libs/aiohttp/issues/2849&#34;&gt;https://github.com/aio-libs/aiohttp/issues/2849&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Achei bem interessante essa estrutura de issue pois permite que o submissor informe o máximo de detalhes do problema que está acontecendo ajudando bastante quem estiver no mesmo cenário a se encontrar no problema. No mesmo projeto do &lt;code&gt;aiohttp&lt;/code&gt; descobri que isso feito através de &lt;a href=&#34;https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository#creating-issue-forms&#34;&gt;issues-forms&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;O &lt;a href=&#34;https://github.com/aio-libs/aiohttp&#34;&gt;aiohttp&lt;/a&gt; é um projeto que possui bons exemplos de como se fazer as coisas em relação a submissão de alterações e abertura de issues.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Configure A/B Testing using Azion</title>
+      <link>https://atmosmps.github.io/br/notes/2024/10-configure-ab-testing-using-azion/</link>
+      <pubDate>Sat, 01 Jan 0000 00:00:00 +0000</pubDate>
+      <guid>https://atmosmps.github.io/br/notes/2024/10-configure-ab-testing-using-azion/</guid>
+      <description>&lt;h3 id=&#34;resources&#34;&gt;Resources&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.azion.com/en/documentation/products/guides/ab-testing-marketplace/&#34;&gt;https://www.azion.com/en/documentation/products/guides/ab-testing-marketplace/&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.azion.com/en/documentation/products/edge-application/edge-functions/javascript-examples/ab-testing/&#34;&gt;https://www.azion.com/en/documentation/products/edge-application/edge-functions/javascript-examples/ab-testing/&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Note template</title>

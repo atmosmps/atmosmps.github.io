@@ -7,27 +7,34 @@
     <generator>Hugo</generator>
     <language>br</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Thu, 31 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://atmosmps.github.io/br/notes/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>2024 - Simplifica</title>
+      <link>https://atmosmps.github.io/br/notes/2024/12-simplifica/</link>
+      <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://atmosmps.github.io/br/notes/2024/12-simplifica/</guid>
+      <description>&lt;p&gt;Uma coisa que acho interessante na empresa em que trabalho é que cada ano tem uma &amp;ldquo;palavra-chave&amp;rdquo;, um tema, um tópico&#xA;que direciona os colaboradores para os planos da companhia no ano corrente.&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;2024 - Encanta&#xA;2023 - Simplifica&#xA;2022 - Vende(algo assim...)&#xA;20*  - ...&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;E assim por diante&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;No meu processo pessoal, eu decidi, sem neura, tentar estabelecer isso, não foi uma meta que criei, tipo &amp;ldquo;Em 2024 eu&#xA;vou simplificar tudo&amp;rdquo;, não, na verdade, foi uma intenção que surgiu no primeiro semestre e eu decidi levar adiante&amp;hellip;&#xA;acabei considerando 2024 o ano &amp;ldquo;Simplifica&amp;rdquo;.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Configure Rate Limit Using Azion Edge Firewall</title>
-      <link>https://atmosmps.github.io/br/notes/2024/2024-10-configure-rate-limit-using-azion-edge-firewall/</link>
+      <link>https://atmosmps.github.io/br/notes/2024/10-configure-rate-limit-using-azion-edge-firewall/</link>
       <pubDate>Thu, 31 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://atmosmps.github.io/br/notes/2024/2024-10-configure-rate-limit-using-azion-edge-firewall/</guid>
+      <guid>https://atmosmps.github.io/br/notes/2024/10-configure-rate-limit-using-azion-edge-firewall/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://www.azion.com/en/documentation/products/secure/edge-firewall/rules-engine/#set-rate-limit&#34;&gt;https://www.azion.com/en/documentation/products/secure/edge-firewall/rules-engine/#set-rate-limit&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>How to (and how not to) design REST APIs</title>
-      <link>https://atmosmps.github.io/br/notes/2024/2024-10-how-to-design-rest-apis/</link>
+      <link>https://atmosmps.github.io/br/notes/2024/10-how-to-design-rest-apis/</link>
       <pubDate>Thu, 24 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://atmosmps.github.io/br/notes/2024/2024-10-how-to-design-rest-apis/</guid>
+      <guid>https://atmosmps.github.io/br/notes/2024/10-how-to-design-rest-apis/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://github.com/stickfigure/blog/wiki/How-to-%28and-how-not-to%29-design-REST-APIs&#34;&gt;https://github.com/stickfigure/blog/wiki/How-to-%28and-how-not-to%29-design-REST-APIs&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Template de abertura de issue</title>
-      <link>https://atmosmps.github.io/br/notes/2024/2024-04-template-de-abertura-de-issue/</link>
+      <link>https://atmosmps.github.io/br/notes/2024/04-template-de-abertura-de-issue/</link>
       <pubDate>Fri, 19 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://atmosmps.github.io/br/notes/2024/2024-04-template-de-abertura-de-issue/</guid>
+      <guid>https://atmosmps.github.io/br/notes/2024/04-template-de-abertura-de-issue/</guid>
       <description>&lt;p&gt;Navegando pelo mar do github buscando coisas pra resolver minha vida, me deparei com esta issue:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/aio-libs/aiohttp/issues/2849&#34;&gt;https://github.com/aio-libs/aiohttp/issues/2849&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Achei bem interessante essa estrutura de issue pois permite que o submissor informe o máximo de detalhes do problema que está acontecendo ajudando bastante quem estiver no mesmo cenário a se encontrar no problema. No mesmo projeto do &lt;code&gt;aiohttp&lt;/code&gt; descobri que isso feito através de &lt;a href=&#34;https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository#creating-issue-forms&#34;&gt;issues-forms&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;O &lt;a href=&#34;https://github.com/aio-libs/aiohttp&#34;&gt;aiohttp&lt;/a&gt; é um projeto que possui bons exemplos de como se fazer as coisas em relação a submissão de alterações e abertura de issues.&lt;/p&gt;</description>
     </item>
     <item>
@@ -85,13 +92,6 @@
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://atmosmps.github.io/br/notes/2020/how-to-install-spotify-on-some-linux-distros/</guid>
       <description>&lt;p&gt;Eu não consigo trabalhar não escutando um bom som. Pra isso eu uso o &lt;a href=&#34;https://www.spotify.com/&#34;&gt;Spotify&lt;/a&gt;. Para instalar qualquer coisa eu sempre, sempre prefiro utilizar a documentação oficial, e pra minha sorte, todas as distros que eu uso, testo ou pretendo usar possuem em suas documentações as formas e recomendações para instalar as coisas da forma como devem ser feitas, e isto inclue o Spotify também. :)&lt;/p&gt;&#xA;&lt;h4 id=&#34;para-instalar-no-debianubuntu&#34;&gt;Para instalar no Debian/Ubuntu&lt;/h4&gt;&#xA;&lt;p&gt;O próprio Spotify diz como: &lt;a href=&#34;https://www.spotify.com/us/download/linux/&#34;&gt;https://www.spotify.com/us/download/linux/&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Configurando o git para usá-lo com proxy</title>
-      <link>https://atmosmps.github.io/br/notes/2020/configure-git-to-use-a-proxy/</link>
-      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://atmosmps.github.io/br/notes/2020/configure-git-to-use-a-proxy/</guid>
-      <description>&lt;p&gt;No meu outro texto eu escrevi sobre &lt;a href=&#34;https://atmosmps.github.io/posts/configure-proxy-settings-in-ubuntu-and-fedora&#34;&gt;configurações de proxy no Ubuntu e Fedora&lt;/a&gt;, mesmo quando aplicadas no S.O de forma global, as configurações de proxy não são propagadas para todos os programas do sistema. Um caso deste é o git, e caso esteja sob uma rede com proxy usando git, provavelmente precise aplicar as configurações de proxy para ele. Para minha sorte eu também já havia preparado um gist com todas as configurações necessárias, na verdade, eu não preparei nada, quem preparou foi o &lt;a href=&#34;https://gist.github.com/evantoli/f8c23a37eb3558ab8765&#34;&gt;evantoli&lt;/a&gt;, mas eu fiz uma &lt;a href=&#34;https://gist.github.com/atmosmps/55adfe01e6f0f862112772fc39b73279&#34;&gt;tradução para pt-BR e deixei nos meus gists, aqui&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
